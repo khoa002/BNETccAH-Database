@@ -2437,6 +2437,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4901,Water Spirit,1,1,100,15,1,1,1,100,10,1
 4902,Light Spirit,1,1,100,15,1,1,1,100,10,1
 4903,Dark Spirit,1,1,100,15,1,1,1,100,10,1
+4914,Frazzle,1,1,100,15,1,1,1,100,10,1
 4928,Katon: Ichi,1,1,100,15,1,1,1,100,10,1
 4929,Katon: Ni,1,1,100,15,1,1,1,100,10,1
 4931,Hyoton: Ichi,1,1,100,15,1,1,1,100,10,1
@@ -2576,6 +2577,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5098,Boost INT,1,1,100,15,1,1,1,100,10,1
 5099,Boost MND,1,1,100,15,1,1,1,100,10,1
 5100,Boost CHR,1,1,100,15,1,1,1,100,10,1
+5104,Flurry,1,1,100,15,1,1,1,100,10,1
 5120,Titanic Sawfish,1,1,100,15,1,1,1,100,10,1
 5121,Moorish Idol,1,1,100,15,1,1,1,100,10,1
 5122,Bibiki Slug,1,1,100,15,1,1,1,100,10,1
@@ -3091,6 +3093,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6059,Animus Augeo,1,1,100,15,1,1,1,100,10,1
 6060,Animus Minuo,1,1,100,15,1,1,1,100,10,1
 6061,Adloquium,1,1,100,15,1,1,1,100,10,1
+6063,Fruit Parfait,1,1,100,15,1,1,1,100,10,1
+6211,Marinara Slice,1,1,100,15,1,1,1,100,10,1
 10434,Dux Visor,1,1,100,15,1,1,1,100,10,1
 10435,Dux Visor+1,1,1,100,15,1,1,1,100,10,1
 10436,Chelona Hat,1,1,100,15,1,1,1,100,10,1
@@ -6253,6 +6257,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 16481,Yataghan +1,1,1,100,15,1,1,1,100,10,1
 16482,Onion Dagger,1,1,100,15,1,1,1,100,10,1
 16483,Onion Knife,1,1,100,15,1,1,1,100,10,1
+16484,Burglar's Dagger,1,1,100,15,1,1,1,100,10,1
 16485,Yataghan,1,1,100,15,1,1,1,100,10,1
 16486,Beestinger,1,1,100,15,1,1,1,100,10,1
 16489,Poison Kukri +1,1,1,100,15,1,1,1,100,10,1
@@ -6497,6 +6502,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 16758,Dst,1,1,100,15,1,1,1,100,10,1
 16759,Darksteel Kris,1,1,100,15,1,1,1,100,10,1
 16760,Darksteel Kris +1,1,1,100,15,1,1,1,100,10,1
+16761,Venom Kris +1,1,1,100,15,1,1,1,100,10,1
 16762,Venom Knife +1,1,1,100,15,1,1,1,100,10,1
 16763,Darksteel Kukri +1,1,1,100,15,1,1,1,100,10,1
 16765,Lust Dagger,1,1,100,15,1,1,1,100,10,1
@@ -6960,6 +6966,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 17294,Comet Tail,1,1,100,15,1,1,1,100,10,1
 17295,Rising Sun +1,1,1,100,15,1,1,1,100,10,1
 17296,Pebble,1,1,100,15,1,1,1,100,10,1
+17297,Throwing Coin,1,1,100,15,1,1,1,100,10,1
 17298,Tathlum,1,1,100,15,1,1,1,100,10,1
 17299,Astragalos,1,1,100,15,1,1,1,100,10,1
 17300,Platinum Bullet,1,1,100,15,1,1,1,100,10,1
@@ -7120,6 +7127,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 17475,Dst,1,1,100,15,1,1,1,100,10,1
 17476,Cat Baghnakhs +1,1,1,100,15,1,1,1,100,10,1
 17477,Bone Patas +1,1,1,100,15,1,1,1,100,10,1
+17479,Behem. Cesti +1,1,1,100,15,1,1,1,100,10,1
 17480,Dmd,1,1,100,15,1,1,1,100,10,1
 17481,Kaiser Knuckles,1,1,100,15,1,1,1,100,10,1
 17482,Jamadhars +1,1,1,100,15,1,1,1,100,10,1
@@ -7490,6 +7498,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 17989,Spark Kris +1,1,1,100,15,1,1,1,100,10,1
 17990,Cmb,1,1,100,15,1,1,1,100,10,1
 17991,Cmb,1,1,100,15,1,1,1,100,10,1
+17992,Triton's Dagger,1,1,100,15,1,1,1,100,10,1
 17993,Platoon Dagger,1,1,100,15,1,1,1,100,10,1
 17994,Calveley's Dagger,1,1,100,15,1,1,1,100,10,1
 17995,Jongleur's Dagger,1,1,100,15,1,1,1,100,10,1
@@ -7515,6 +7524,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18026,Magnet Knife,1,1,100,15,1,1,1,100,10,1
 18029,Piercing Dagger,1,1,100,15,1,1,1,100,10,1
 18030,Khimaira Jambiya,1,1,100,15,1,1,1,100,10,1
+18031,Amir Jambiya,1,1,100,15,1,1,1,100,10,1
 18032,Adder Jambiya,1,1,100,15,1,1,1,100,10,1
 18033,Adder Jambiya +1,1,1,100,15,1,1,1,100,10,1
 18035,Deathbone Knife,1,1,100,15,1,1,1,100,10,1
@@ -7843,6 +7853,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18766,Tyro Katars,1,1,100,15,1,1,1,100,10,1
 18768,Poppet Katars,1,1,100,15,1,1,1,100,10,1
 18769,Severus Claws,1,1,100,15,1,1,1,100,10,1
+18772,Tyro Katars +1,1,1,100,15,1,1,1,100,10,1
 18773,Severus Claws +1,1,1,100,15,1,1,1,100,10,1
 18774,Savate Fists,1,1,100,15,1,1,1,100,10,1
 18775,Savate Fists +1,1,1,100,15,1,1,1,100,10,1
@@ -7850,6 +7861,13 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18783,Eyra Baghnakhs +1,1,1,100,15,1,1,1,100,10,1
 18784,Metasoma Katars,1,1,100,15,1,1,1,100,10,1
 18785,Grotesque Cesti,1,1,100,15,1,1,1,100,10,1
+18788,Brawny Adargas,1,1,100,15,1,1,1,100,10,1
+18789,Marath Baghnakhs,1,1,100,15,1,1,1,100,10,1
+18790,Shivaji Baghnakhs,1,1,100,15,1,1,1,100,10,1
+18791,Buzbaz Sainti,1,1,100,15,1,1,1,100,10,1
+18792,Buzbaz Sainti +1,1,1,100,15,1,1,1,100,10,1
+18793,Blutkrallen,1,1,100,15,1,1,1,100,10,1
+18794,Blutklauen,1,1,100,15,1,1,1,100,10,1
 18834,Vihuela,1,1,100,15,1,1,1,100,10,1
 18841,Templar Mace,1,1,100,15,1,1,1,100,10,1
 18848,Brass Jadagna,1,1,100,15,1,1,1,100,10,1
@@ -8042,12 +8060,26 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 19778,Hasty Pinion,1,1,100,15,1,1,1,100,10,1
 19779,Potestas Bomblet,1,1,100,15,1,1,1,100,10,1
 19780,Mana Ampulla,1,1,100,15,1,1,1,100,10,1
+19788,Gorkhali Kukri,1,1,100,15,1,1,1,100,10,1
 19791,Draca Couse,1,1,100,15,1,1,1,100,10,1
 19792,Drachenstich,1,1,100,15,1,1,1,100,10,1
 19793,Patientia Lance,1,1,100,15,1,1,1,100,10,1
 19800,Gargouille Arrow,1,1,100,15,1,1,1,100,10,1
 19802,Orichalc,1,1,100,15,1,1,1,100,10,1
 19803,Adaman Bullet,1,1,100,15,1,1,1,100,10,1
+20525,Blurred Claws,0,1,100,15,1,0,1,100,10,1
+20526,Blurred Claws +1,0,1,100,15,1,0,1,100,10,1
+20537,Bhakazi Sainti,1,1,100,15,1,1,1,100,10,1
+20538,Bhakazi Sainti +1,1,1,100,15,1,1,1,100,10,1
+20540,Em. Baghnakhs,1,1,100,15,1,1,1,100,10,1
+20541,Pinion Cesti,1,1,100,15,1,1,1,100,10,1
+20542,Gnafron's Adargas,1,1,100,15,1,1,1,100,10,1
+20551,Akua Sainti,1,1,100,15,1,1,1,100,10,1
+20552,Akua Sainti +1,1,1,100,15,1,1,1,100,10,1
+21504,Arasy Sainti,1,1,100,15,1,1,1,100,10,1
+21505,Arasy Sainti +1,1,1,100,15,1,1,1,100,10,1
+21506,Jolt Counter,1,1,100,15,1,1,1,100,10,1
+21507,Jolt Counter +1,1,1,100,15,1,1,1,100,10,1
 22278,Staunch Tathlum,1,1,100,15,1,1,1,100,10,1
 22279,Staunch Tathlum+1,1,1,100,15,1,1,1,100,10,1
 26406,Kupo Shield,1,1,100,15,1,1,1,100,10,1
