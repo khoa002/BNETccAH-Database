@@ -66,6 +66,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 148,Cartonnier,1,1,100,15,1,1,1,100,10,1
 149,Alchemist's Tools,1,1,100,15,1,1,1,100,10,1
 150,Leather Pot,1,1,100,15,1,1,1,100,10,1
+152,Flowerpot,1,1,100,15,1,1,1,100,10,1
 185,Rook Banner,1,1,100,15,1,1,1,100,10,1
 186,Shield Plaque,1,1,100,15,1,1,1,100,10,1
 187,Buckler Plaque,1,1,100,15,1,1,1,100,10,1
@@ -93,6 +94,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 223,River Aquarium,1,1,100,15,1,1,1,100,10,1
 224,Bay Aquarium,1,1,100,15,1,1,1,100,10,1
 225,Reef Aquarium,1,1,100,15,1,1,1,100,10,1
+295,Bonfire,1,1,100,15,1,1,1,100,10,1
 314,9 Drawer Almirah,1,1,100,15,1,1,1,100,10,1
 315,6 Drawer Almirah,1,1,100,15,1,1,1,100,10,1
 316,3 Drawer Almirah,1,1,100,15,1,1,1,100,10,1
@@ -110,6 +112,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 332,Winged Plaque,1,1,100,15,1,1,1,100,10,1
 333,Winged Balance,1,1,100,15,1,1,1,100,10,1
 343,Harp Stool,1,1,100,15,1,1,1,100,10,1
+348,Marble Plaque,1,1,100,15,1,1,1,100,10,1
 349,Ryl,1,1,100,15,1,1,1,100,10,1
 350,Rep,1,1,100,15,1,1,1,100,10,1
 351,Fed,1,1,100,15,1,1,1,100,10,1
@@ -152,6 +155,10 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 395,G,1,1,100,15,1,1,1,100,10,1
 396,Y,1,1,100,15,1,1,1,100,10,1
 397,W,1,1,100,15,1,1,1,100,10,1
+398,Red Mahogany Bed,1,1,100,15,1,1,1,100,10,1
+399,Blue Mahogany Bed,1,1,100,15,1,1,1,100,10,1
+400,Green Mahogany Bed,1,1,100,15,1,1,1,100,10,1
+401,Yellow Mahogany Bed,1,1,100,15,1,1,1,100,10,1
 402,Blue Noble's Bed,1,1,100,15,1,1,1,100,10,1
 403,Green Noble's Bed,1,1,100,15,1,1,1,100,10,1
 404,Yel,1,1,100,15,1,1,1,100,10,1
@@ -175,13 +182,27 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 423,Tavern Bench,1,1,100,15,1,1,1,100,10,1
 424,Feasting Table,1,1,100,15,1,1,1,100,10,1
 425,Girandola,1,1,100,15,1,1,1,100,10,1
+427,Rococo Table,1,1,100,15,1,1,1,100,10,1
+428,Semainier,1,1,100,15,1,1,1,100,10,1
 429,R,1,1,100,15,1,1,1,100,10,1
 430,B,1,1,100,15,1,1,1,100,10,1
 431,G,1,1,100,15,1,1,1,100,10,1
 432,Y,1,1,100,15,1,1,1,100,10,1
 433,W,1,1,100,15,1,1,1,100,10,1
+434,Isula Sideboard,1,1,100,15,1,1,1,100,10,1
+435,Jeunoan Dresser,1,1,100,15,1,1,1,100,10,1
+436,Jeunoan Armoire,1,1,100,15,1,1,1,100,10,1
+437,Floral Nightstand,1,1,100,15,1,1,1,100,10,1
+439,Planus Table,1,1,100,15,1,1,1,100,10,1
 440,Squat Desk,1,1,100,15,1,1,1,100,10,1
+442,Gilded Chest,1,1,100,15,1,1,1,100,10,1
+443,Aureous Chest,1,1,100,15,1,1,1,100,10,1
+444,Luxurious Chest,1,1,100,15,1,1,1,100,10,1
 445,Vaisselier Royale,1,1,100,15,1,1,1,100,10,1
+446,Gilded Shelf,1,1,100,15,1,1,1,100,10,1
+447,Mensa Lunata,1,1,100,15,1,1,1,100,10,1
+448,Gueridon,1,1,100,15,1,1,1,100,10,1
+449,Personal Table,1,1,100,15,1,1,1,100,10,1
 450,Candelabrum,1,1,100,15,1,1,1,100,10,1
 459,Candle Holder,1,1,100,15,1,1,1,100,10,1
 460,Bakery Platter,1,1,100,15,1,1,1,100,10,1
@@ -239,6 +260,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 610,San D'Or,1,1,100,15,1,1,1,100,10,1
 611,Rye Flour,1,1,100,15,1,1,1,100,10,1
 612,Kazham Peppers,1,1,100,15,1,1,1,100,10,1
+613,Faded Crystal,1,1,100,15,1,1,1,100,10,1
 614,Mhaura Garlic,1,1,100,15,1,1,1,100,10,1
 615,Selbina Butter,1,1,100,15,1,1,1,100,10,1
 616,Pie Dough,1,1,100,15,1,1,1,100,10,1
@@ -310,6 +332,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 684,Aluminum Chain,1,1,100,15,1,1,1,100,10,1
 685,Khroma Ore,1,1,100,15,1,1,1,100,10,1
 686,Im,1,1,100,15,1,1,1,100,10,1
+687,Scarletite Ingot,1,1,100,15,1,1,1,100,10,1
 688,Arrowwood Log,1,1,100,15,1,1,1,100,10,1
 689,Lauan Log,1,1,100,15,1,1,1,100,10,1
 690,Elm Log,1,1,100,15,1,1,1,100,10,1
@@ -353,11 +376,16 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 730,Bldwd,1,1,100,15,1,1,1,100,10,1
 731,Aquilaria Log,1,1,100,15,1,1,1,100,10,1
 732,Kapor Log,1,1,100,15,1,1,1,100,10,1
+733,Piece Of Kapor Lumber,1,1,100,15,1,1,1,100,10,1
+734,Chunk Of Thokcha Ore,1,1,100,15,1,1,1,100,10,1
+735,Thokcha Ingot,1,1,100,15,1,1,1,100,10,1
 736,Silver Ore,1,1,100,15,1,1,1,100,10,1
 737,Gold Ore,1,1,100,15,1,1,1,100,10,1
 738,Platinum Ore,1,1,100,15,1,1,1,100,10,1
 739,Orichalcum Ore,1,1,100,15,1,1,1,100,10,1
 740,Phrygian Ore,1,1,100,15,1,1,1,100,10,1
+741,Chunk Of Palladian Brass Ore,1,1,100,15,1,1,1,100,10,1
+742,Palladian Brass Ingot,1,1,100,15,1,1,1,100,10,1
 743,Ph,1,1,100,15,1,1,1,100,10,1
 744,Silver Ingot,1,1,100,15,1,1,1,100,10,1
 745,Gold Ingot,1,1,100,15,1,1,1,100,10,1
@@ -370,6 +398,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 752,Gold Sheet,1,1,100,15,1,1,1,100,10,1
 753,Ph,1,1,100,15,1,1,1,100,10,1
 754,Platinum Sheet,1,1,100,15,1,1,1,100,10,1
+755,Palladian Brass Sheet,1,1,100,15,1,1,1,100,10,1
 756,Durium Ore,1,1,100,15,1,1,1,100,10,1
 757,Durium Ingot,1,1,100,15,1,1,1,100,10,1
 758,Durium Sheet,1,1,100,15,1,1,1,100,10,1
@@ -379,6 +408,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 762,Platinum Chain,1,1,100,15,1,1,1,100,10,1
 763,Ocl,1,1,100,15,1,1,1,100,10,1
 764,Brass Chain,1,1,100,15,1,1,1,100,10,1
+765,Palladian Brass Chain,1,1,100,15,1,1,1,100,10,1
+766,Ormolu Ingot,1,1,100,15,1,1,1,100,10,1
 767,Carnelian,1,1,100,15,1,1,1,100,10,1
 768,Flint Stone,1,1,100,15,1,1,1,100,10,1
 769,Red Rock,1,1,100,15,1,1,1,100,10,1
@@ -513,6 +544,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 901,Venomous Claw,1,1,100,15,1,1,1,100,10,1
 902,Demon Horn,1,1,100,15,1,1,1,100,10,1
 903,Dragon Talon,1,1,100,15,1,1,1,100,10,1
+905,Wyvern Skull,1,1,100,15,1,1,1,100,10,1
 907,Cold Bone,1,1,100,15,1,1,1,100,10,1
 908,Adamantoise Shell,1,1,100,15,1,1,1,100,10,1
 909,Guivre's Skull,1,1,100,15,1,1,1,100,10,1
@@ -960,6 +992,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 1719,Harajnite Shell,1,1,100,15,1,1,1,100,10,1
 1724,Soulflayer Robe,1,1,100,15,1,1,1,100,10,1
 1725,Snow Lily,1,1,100,15,1,1,1,100,10,1
+1730,Polar Fir Flowerpot,1,1,100,15,1,1,1,100,10,1
 1738,Shakudo Ingot,1,1,100,15,1,1,1,100,10,1
 1739,Balloon Cloth,1,1,100,15,1,1,1,100,10,1
 1740,Iolite,1,1,100,15,1,1,1,100,10,1
@@ -1301,6 +1334,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 2412,Hammermill,1,1,100,15,1,1,1,100,10,1
 2413,Coiler,1,1,100,15,1,1,1,100,10,1
 2414,Steam Jacket,1,1,100,15,1,1,1,100,10,1
+2415,Turbo Charger II,1,1,100,15,1,1,1,100,10,1
+2416,Vivi-valve II,1,1,100,15,1,1,1,100,10,1
 2417,Aht Urhgan Brass,1,1,100,15,1,1,1,100,10,1
 2418,A,1,1,100,15,1,1,1,100,10,1
 2419,A,1,1,100,15,1,1,1,100,10,1
@@ -1668,6 +1703,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3303,Light Geode,1,1,100,15,1,1,1,100,10,1
 3304,Shadow Geode,1,1,100,15,1,1,1,100,10,1
 3305,Ruszor Arrowhd,1,1,100,15,1,1,1,100,10,1
+3306,Handful Of Dark Adaman Bolt Heads,1,1,100,15,1,1,1,100,10,1
 3307,Heat Capacitor,1,1,100,15,1,1,1,100,10,1
 3308,Power Cooler,1,1,100,15,1,1,1,100,10,1
 3309,Barrage Turbine,1,1,100,15,1,1,1,100,10,1
@@ -1702,7 +1738,9 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3491,Akvan's Pennon,1,1,100,15,1,1,1,100,10,1
 3492,Kaggen's Cuticle,1,1,100,15,1,1,1,100,10,1
 3504,Peapuk Wing,1,1,100,15,1,1,1,100,10,1
+3505,Handful Of Gargouille Arrowheads,1,1,100,15,1,1,1,100,10,1
 3506,Peapuk Fltchg,1,1,100,15,1,1,1,100,10,1
+3507,Handful Of Adaman Bolt Heads,1,1,100,15,1,1,1,100,10,1
 3520,Ifritite,1,1,100,15,1,1,1,100,10,1
 3521,Shivite,1,1,100,15,1,1,1,100,10,1
 3522,Garudite,1,1,100,15,1,1,1,100,10,1
@@ -1711,13 +1749,25 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3525,Leviatite,1,1,100,15,1,1,1,100,10,1
 3526,Carbite,1,1,100,15,1,1,1,100,10,1
 3527,Fenrite,1,1,100,15,1,1,1,100,10,1
+3545,Square Of Serica Cloth,1,1,100,15,1,1,1,100,10,1
+3546,Piece Of Staghorn Coral,1,1,100,15,1,1,1,100,10,1
+3547,Sealord Skin,1,1,100,15,1,1,1,100,10,1
+3548,Square Of Sealord Leather,1,1,100,15,1,1,1,100,10,1
+3549,Vial Of Belladonna Sap,1,1,100,15,1,1,1,100,10,1
+3550,Spool Of Wyrdstrand,1,1,100,15,1,1,1,100,10,1
+3551,Square Of Wyrdweave,1,1,100,15,1,1,1,100,10,1
+3552,Squamous Hide,1,1,100,15,1,1,1,100,10,1
 3584,Panetiere,1,1,100,15,1,1,1,100,10,1
 3586,Red Viola Pot,1,1,100,15,1,1,1,100,10,1
 3587,Blue Viola Pot,1,1,100,15,1,1,1,100,10,1
 3588,Yellow Viola Pot,1,1,100,15,1,1,1,100,10,1
 3589,White Viola Pot,1,1,100,15,1,1,1,100,10,1
+3590,Puce Chest,1,1,100,15,1,1,1,100,10,1
+3591,Chest Of Marbled Drawers,1,1,100,15,1,1,1,100,10,1
 3595,Gemscope,1,1,100,15,1,1,1,100,10,1
 3596,Ornament Case,1,1,100,15,1,1,1,100,10,1
+3600,Bongo Drum,1,1,100,15,1,1,1,100,10,1
+3608,Fictile Pot,1,1,100,15,1,1,1,100,10,1
 3609,Stepping Stool,1,1,100,15,1,1,1,100,10,1
 3610,Mariner's Bed R,1,1,100,15,1,1,1,100,10,1
 3611,Mariner's Bed B,1,1,100,15,1,1,1,100,10,1
@@ -1752,6 +1802,44 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3674,Alembic,1,1,100,15,1,1,1,100,10,1
 3675,Flask Set,1,1,100,15,1,1,1,100,10,1
 3678,Recital Bench,1,1,100,15,1,1,1,100,10,1
+3696,Kotatsu Table,1,1,100,15,1,1,1,100,10,1
+3697,Mandarin,1,1,100,15,1,1,1,100,10,1
+3699,Bathtub,1,1,100,15,1,1,1,100,10,1
+3700,Shower Stand,1,1,100,15,1,1,1,100,10,1
+3701,Awning,1,1,100,15,1,1,1,100,10,1
+3702,Triangular Jalousie,1,1,100,15,1,1,1,100,10,1
+3703,Square Jalousie,1,1,100,15,1,1,1,100,10,1
+3704,Transom,1,1,100,15,1,1,1,100,10,1
+3709,Valance,1,1,100,15,1,1,1,100,10,1
+3710,Windurstian Sill,1,1,100,15,1,1,1,100,10,1
+3712,Bastokan Sill,1,1,100,15,1,1,1,100,10,1
+3729,Light Chest,1,1,100,15,1,1,1,100,10,1
+3730,Bulky Coffer,1,1,100,15,1,1,1,100,10,1
+3731,Azure Chest,1,1,100,15,1,1,1,100,10,1
+3869,Simian Horn,1,1,100,15,1,1,1,100,10,1
+3870,Lock Of Simian Mane,1,1,100,15,1,1,1,100,10,1
+3888,Safeguard Palimpsest,1,1,100,15,1,1,1,100,10,1
+3889,Obliteration Palimpsest,1,1,100,15,1,1,1,100,10,1
+3890,Alacrity Palimpsest,1,1,100,15,1,1,1,100,10,1
+3891,Intimidation Palimpsest,1,1,100,15,1,1,1,100,10,1
+3893,Daimonic Mandible,1,1,100,15,1,1,1,100,10,1
+3894,Daimonic Casing,1,1,100,15,1,1,1,100,10,1
+3895,Rala Visage I,1,1,100,15,1,1,1,100,10,1
+3896,Rala Visage II,1,1,100,15,1,1,1,100,10,1
+3897,Rala Visage III,1,1,100,15,1,1,1,100,10,1
+3898,Rala Visage IV,1,1,100,15,1,1,1,100,10,1
+3899,Rala Visage V,1,1,100,15,1,1,1,100,10,1
+3910,Cirdas Visage I,1,1,100,15,1,1,1,100,10,1
+3911,Cirdas Visage II,1,1,100,15,1,1,1,100,10,1
+3912,Cirdas Visage III,1,1,100,15,1,1,1,100,10,1
+3913,Cirdas Visage IV,1,1,100,15,1,1,1,100,10,1
+3914,Cirdas Visage V,1,1,100,15,1,1,1,100,10,1
+3915,Saffron Blossom,1,1,100,15,1,1,1,100,10,1
+3916,Pinch Of Saffron,1,1,100,15,1,1,1,100,10,1
+3917,Leafkin Frond,1,1,100,15,1,1,1,100,10,1
+3918,Chunk Of Midrium Ore,1,1,100,15,1,1,1,100,10,1
+3919,Midrium Ingot,1,1,100,15,1,1,1,100,10,1
+3920,Chunk Of Vanadium Ore,1,1,100,15,1,1,1,100,10,1
 4096,Fire Crystal,1,1,100,15,1,1,1,100,10,1
 4097,Ice Crystal,1,1,100,15,1,1,1,100,10,1
 4098,Wind Crystal,1,1,100,15,1,1,1,100,10,1
