@@ -3379,7 +3379,92 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6070,Bowl Of Oceanfin Soup,1,1,100,15,1,1,1,100,10,1
 6071,Magma Steak,1,1,100,15,1,1,1,100,10,1
 6072,Magma Steak +1,1,1,100,15,1,1,1,100,10,1
+6137,Chapuli Quiver,1,1,100,15,1,1,1,100,10,1
+6138,Mantid Quiver,1,1,100,15,1,1,1,100,10,1
+6139,Midrium Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6140,Damascus Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6141,Oxidant Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6142,Midrium Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6143,Damascus Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6144,Frigorifish,1,1,100,15,1,1,1,100,10,1
+6145,Dwarf Remora,1,1,100,15,1,1,1,100,10,1
+6146,Remora,1,1,100,15,1,1,1,100,10,1
+6148,Dagger Enchiridion,1,1,100,15,1,1,1,100,10,1
+6149,Copy Of Swing And Stab,1,1,100,15,1,1,1,100,10,1
+6152,Copy Of Death For Dimwits,1,1,100,15,1,1,1,100,10,1
+6154,Copy Of Clash Of Titans,1,1,100,15,1,1,1,100,10,1
+6160,Copy Of Barrels Of Fun,1,1,100,15,1,1,1,100,10,1
+6161,Throwing Weapon Enchiridion,1,1,100,15,1,1,1,100,10,1
+6164,Copy Of The Successor,1,1,100,15,1,1,1,100,10,1
+6167,Copy Of Coveffe Barrows Musings,1,1,100,15,1,1,1,100,10,1
+6168,Copy Of Aid For All,1,1,100,15,1,1,1,100,10,1
+6169,Investigative Report,1,1,100,15,1,1,1,100,10,1
+6170,Bounty List,1,1,100,15,1,1,1,100,10,1
+6171,Copy Of Dark Deeds,1,1,100,15,1,1,1,100,10,1
+6172,Copy Of Breezy Libretto,1,1,100,15,1,1,1,100,10,1
+6173,Cavernous Score,1,1,100,15,1,1,1,100,10,1
+6174,Beaming Score,1,1,100,15,1,1,1,100,10,1
+6176,Copy Of Astral Homeland,1,1,100,15,1,1,1,100,10,1
+6177,Copy Of Life-form Study,1,1,100,15,1,1,1,100,10,1
+6179,Copy Of The Bell Tolls,1,1,100,15,1,1,1,100,10,1
+6186,Slime Rocket,1,1,100,15,1,1,1,100,10,1
+6190,Spriggan Spark,1,1,100,15,1,1,1,100,10,1
+6201,Tulfaire Quiver,1,1,100,15,1,1,1,100,10,1
+6202,Raaz Quiver,1,1,100,15,1,1,1,100,10,1
+6205,Titanium Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6206,Bismuth Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6209,Titanium Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6210,Bismuth Bullet Pouch,1,1,100,15,1,1,1,100,10,1
 6211,Marinara Slice,1,1,100,15,1,1,1,100,10,1
+6213,Slice Of Margherita Pizza,1,1,100,15,1,1,1,100,10,1
+6214,Slice Of Margherita Pizza +1,1,1,100,15,1,1,1,100,10,1
+6215,Slice Of Pepperoni Pizza,1,1,100,15,1,1,1,100,10,1
+6216,Slice Of Pepperoni Pizza +1,1,1,100,15,1,1,1,100,10,1
+6217,Slice Of Anchovy Pizza,1,1,100,15,1,1,1,100,10,1
+6218,Slice Of Anchovy Pizza +1,1,1,100,15,1,1,1,100,10,1
+6219,Warthog Stewpot,1,1,100,15,1,1,1,100,10,1
+6220,Prime Warthog Stewpot,1,1,100,15,1,1,1,100,10,1
+6221,Prized Warthog Stewpot,1,1,100,15,1,1,1,100,10,1
+6222,Slice Of Warthog Meat,1,1,100,15,1,1,1,100,10,1
+6223,Cehuetzi Snow Cone,1,1,100,15,1,1,1,100,10,1
+6224,Apingaut Snow Cone,1,1,100,15,1,1,1,100,10,1
+6225,Cyclical Coalescence,1,1,100,15,1,1,1,100,10,1
+6257,Jar Of Jungle Nectar,1,1,100,15,1,1,1,100,10,1
+6258,Piece Of Shiromochi,1,1,100,15,1,1,1,100,10,1
+6259,Piece Of Shiromochi +1,1,1,100,15,1,1,1,100,10,1
+6260,Piece Of Akamochi,1,1,100,15,1,1,1,100,10,1
+6261,Piece Of Akamochi +1,1,1,100,15,1,1,1,100,10,1
+6262,Piece Of Kusamochi,1,1,100,15,1,1,1,100,10,1
+6263,Piece Of Kusamochi +1,1,1,100,15,1,1,1,100,10,1
+6265,Toolbag (ranka),1,1,100,15,1,1,1,100,10,1
+6266,Toolbag (furusumi),1,1,100,15,1,1,1,100,10,1
+6268,Komanezumi,1,1,100,15,1,1,1,100,10,1
+6272,Fried Pototo,1,1,100,15,1,1,1,100,10,1
+6273,Fried Pototo +1,1,1,100,15,1,1,1,100,10,1
+6274,Pukatrice Egg,1,1,100,15,1,1,1,100,10,1
+6275,Pukatrice Egg +1,1,1,100,15,1,1,1,100,10,1
+6276,Deep-fried Shrimp,1,1,100,15,1,1,1,100,10,1
+6277,Deep-fried Shrimp +1,1,1,100,15,1,1,1,100,10,1
+6278,Abrasion Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6279,Righteous Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6297,Juji Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6298,Manji Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6299,Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6300,Koga Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6301,Togakushi Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6302,Fuma Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6303,Iga Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6304,Roppo Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6306,Happo Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6308,Hachiya Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6309,Suppa Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6310,Gashing Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6311,Decimating Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6333,Translucent Salpa,1,1,100,15,1,1,1,100,10,1
+6335,White Lobster,1,1,100,15,1,1,1,100,10,1
+6415,Seki Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6447,Sasuke Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6448,Sasuke Shuriken Pouch +1,1,1,100,15,1,1,1,100,10,1
 6530,Rolanberry Pickled Rarab Tail,1,1,100,15,1,1,1,100,10,1
 6535,Pinch Of Pungent Powder II,1,1,100,15,1,1,1,100,10,1
 8995,Cracked Matamata Shell,1,1,100,15,1,1,1,100,10,1
