@@ -8476,6 +8476,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 148,Cartonnier,1,1,100,15,1,1,1,100,10,1
 149,Alchemist's Tools,1,1,100,15,1,1,1,100,10,1
 150,Leather Pot,1,1,100,15,1,1,1,100,10,1
+152,Flowerpot,1,1,100,15,1,1,1,100,10,1
 185,Rook Banner,1,1,100,15,1,1,1,100,10,1
 186,Shield Plaque,1,1,100,15,1,1,1,100,10,1
 187,Buckler Plaque,1,1,100,15,1,1,1,100,10,1
@@ -8503,6 +8504,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 223,River Aquarium,1,1,100,15,1,1,1,100,10,1
 224,Bay Aquarium,1,1,100,15,1,1,1,100,10,1
 225,Reef Aquarium,1,1,100,15,1,1,1,100,10,1
+295,Bonfire,1,1,100,15,1,1,1,100,10,1
 314,9 Drawer Almirah,1,1,100,15,1,1,1,100,10,1
 315,6 Drawer Almirah,1,1,100,15,1,1,1,100,10,1
 316,3 Drawer Almirah,1,1,100,15,1,1,1,100,10,1
@@ -8520,6 +8522,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 332,Winged Plaque,1,1,100,15,1,1,1,100,10,1
 333,Winged Balance,1,1,100,15,1,1,1,100,10,1
 343,Harp Stool,1,1,100,15,1,1,1,100,10,1
+348,Marble Plaque,1,1,100,15,1,1,1,100,10,1
 349,Ryl,1,1,100,15,1,1,1,100,10,1
 350,Rep,1,1,100,15,1,1,1,100,10,1
 351,Fed,1,1,100,15,1,1,1,100,10,1
@@ -8562,6 +8565,10 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 395,G,1,1,100,15,1,1,1,100,10,1
 396,Y,1,1,100,15,1,1,1,100,10,1
 397,W,1,1,100,15,1,1,1,100,10,1
+398,Red Mahogany Bed,1,1,100,15,1,1,1,100,10,1
+399,Blue Mahogany Bed,1,1,100,15,1,1,1,100,10,1
+400,Green Mahogany Bed,1,1,100,15,1,1,1,100,10,1
+401,Yellow Mahogany Bed,1,1,100,15,1,1,1,100,10,1
 402,Blue Noble's Bed,1,1,100,15,1,1,1,100,10,1
 403,Green Noble's Bed,1,1,100,15,1,1,1,100,10,1
 404,Yel,1,1,100,15,1,1,1,100,10,1
@@ -8585,13 +8592,27 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 423,Tavern Bench,1,1,100,15,1,1,1,100,10,1
 424,Feasting Table,1,1,100,15,1,1,1,100,10,1
 425,Girandola,1,1,100,15,1,1,1,100,10,1
+427,Rococo Table,1,1,100,15,1,1,1,100,10,1
+428,Semainier,1,1,100,15,1,1,1,100,10,1
 429,R,1,1,100,15,1,1,1,100,10,1
 430,B,1,1,100,15,1,1,1,100,10,1
 431,G,1,1,100,15,1,1,1,100,10,1
 432,Y,1,1,100,15,1,1,1,100,10,1
 433,W,1,1,100,15,1,1,1,100,10,1
+434,Isula Sideboard,1,1,100,15,1,1,1,100,10,1
+435,Jeunoan Dresser,1,1,100,15,1,1,1,100,10,1
+436,Jeunoan Armoire,1,1,100,15,1,1,1,100,10,1
+437,Floral Nightstand,1,1,100,15,1,1,1,100,10,1
+439,Planus Table,1,1,100,15,1,1,1,100,10,1
 440,Squat Desk,1,1,100,15,1,1,1,100,10,1
+442,Gilded Chest,1,1,100,15,1,1,1,100,10,1
+443,Aureous Chest,1,1,100,15,1,1,1,100,10,1
+444,Luxurious Chest,1,1,100,15,1,1,1,100,10,1
 445,Vaisselier Royale,1,1,100,15,1,1,1,100,10,1
+446,Gilded Shelf,1,1,100,15,1,1,1,100,10,1
+447,Mensa Lunata,1,1,100,15,1,1,1,100,10,1
+448,Gueridon,1,1,100,15,1,1,1,100,10,1
+449,Personal Table,1,1,100,15,1,1,1,100,10,1
 450,Candelabrum,1,1,100,15,1,1,1,100,10,1
 459,Candle Holder,1,1,100,15,1,1,1,100,10,1
 460,Bakery Platter,1,1,100,15,1,1,1,100,10,1
@@ -8649,6 +8670,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 610,San D'Or,1,1,100,15,1,1,1,100,10,1
 611,Rye Flour,1,1,100,15,1,1,1,100,10,1
 612,Kazham Peppers,1,1,100,15,1,1,1,100,10,1
+613,Faded Crystal,1,1,100,15,1,1,1,100,10,1
 614,Mhaura Garlic,1,1,100,15,1,1,1,100,10,1
 615,Selbina Butter,1,1,100,15,1,1,1,100,10,1
 616,Pie Dough,1,1,100,15,1,1,1,100,10,1
@@ -8720,6 +8742,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 684,Aluminum Chain,1,1,100,15,1,1,1,100,10,1
 685,Khroma Ore,1,1,100,15,1,1,1,100,10,1
 686,Im,1,1,100,15,1,1,1,100,10,1
+687,Scarletite Ingot,1,1,100,15,1,1,1,100,10,1
 688,Arrowwood Log,1,1,100,15,1,1,1,100,10,1
 689,Lauan Log,1,1,100,15,1,1,1,100,10,1
 690,Elm Log,1,1,100,15,1,1,1,100,10,1
@@ -8763,11 +8786,16 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 730,Bldwd,1,1,100,15,1,1,1,100,10,1
 731,Aquilaria Log,1,1,100,15,1,1,1,100,10,1
 732,Kapor Log,1,1,100,15,1,1,1,100,10,1
+733,Piece Of Kapor Lumber,1,1,100,15,1,1,1,100,10,1
+734,Chunk Of Thokcha Ore,1,1,100,15,1,1,1,100,10,1
+735,Thokcha Ingot,1,1,100,15,1,1,1,100,10,1
 736,Silver Ore,1,1,100,15,1,1,1,100,10,1
 737,Gold Ore,1,1,100,15,1,1,1,100,10,1
 738,Platinum Ore,1,1,100,15,1,1,1,100,10,1
 739,Orichalcum Ore,1,1,100,15,1,1,1,100,10,1
 740,Phrygian Ore,1,1,100,15,1,1,1,100,10,1
+741,Chunk Of Palladian Brass Ore,1,1,100,15,1,1,1,100,10,1
+742,Palladian Brass Ingot,1,1,100,15,1,1,1,100,10,1
 743,Ph,1,1,100,15,1,1,1,100,10,1
 744,Silver Ingot,1,1,100,15,1,1,1,100,10,1
 745,Gold Ingot,1,1,100,15,1,1,1,100,10,1
@@ -8780,6 +8808,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 752,Gold Sheet,1,1,100,15,1,1,1,100,10,1
 753,Ph,1,1,100,15,1,1,1,100,10,1
 754,Platinum Sheet,1,1,100,15,1,1,1,100,10,1
+755,Palladian Brass Sheet,1,1,100,15,1,1,1,100,10,1
 756,Durium Ore,1,1,100,15,1,1,1,100,10,1
 757,Durium Ingot,1,1,100,15,1,1,1,100,10,1
 758,Durium Sheet,1,1,100,15,1,1,1,100,10,1
@@ -8789,6 +8818,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 762,Platinum Chain,1,1,100,15,1,1,1,100,10,1
 763,Ocl,1,1,100,15,1,1,1,100,10,1
 764,Brass Chain,1,1,100,15,1,1,1,100,10,1
+765,Palladian Brass Chain,1,1,100,15,1,1,1,100,10,1
+766,Ormolu Ingot,1,1,100,15,1,1,1,100,10,1
 767,Carnelian,1,1,100,15,1,1,1,100,10,1
 768,Flint Stone,1,1,100,15,1,1,1,100,10,1
 769,Red Rock,1,1,100,15,1,1,1,100,10,1
@@ -8923,6 +8954,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 901,Venomous Claw,1,1,100,15,1,1,1,100,10,1
 902,Demon Horn,1,1,100,15,1,1,1,100,10,1
 903,Dragon Talon,1,1,100,15,1,1,1,100,10,1
+905,Wyvern Skull,1,1,100,15,1,1,1,100,10,1
 907,Cold Bone,1,1,100,15,1,1,1,100,10,1
 908,Adamantoise Shell,1,1,100,15,1,1,1,100,10,1
 909,Guivre's Skull,1,1,100,15,1,1,1,100,10,1
@@ -9370,6 +9402,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 1719,Harajnite Shell,1,1,100,15,1,1,1,100,10,1
 1724,Soulflayer Robe,1,1,100,15,1,1,1,100,10,1
 1725,Snow Lily,1,1,100,15,1,1,1,100,10,1
+1730,Polar Fir Flowerpot,1,1,100,15,1,1,1,100,10,1
 1738,Shakudo Ingot,1,1,100,15,1,1,1,100,10,1
 1739,Balloon Cloth,1,1,100,15,1,1,1,100,10,1
 1740,Iolite,1,1,100,15,1,1,1,100,10,1
@@ -9711,6 +9744,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 2412,Hammermill,1,1,100,15,1,1,1,100,10,1
 2413,Coiler,1,1,100,15,1,1,1,100,10,1
 2414,Steam Jacket,1,1,100,15,1,1,1,100,10,1
+2415,Turbo Charger II,1,1,100,15,1,1,1,100,10,1
+2416,Vivi-valve II,1,1,100,15,1,1,1,100,10,1
 2417,Aht Urhgan Brass,1,1,100,15,1,1,1,100,10,1
 2418,A,1,1,100,15,1,1,1,100,10,1
 2419,A,1,1,100,15,1,1,1,100,10,1
@@ -10078,6 +10113,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3303,Light Geode,1,1,100,15,1,1,1,100,10,1
 3304,Shadow Geode,1,1,100,15,1,1,1,100,10,1
 3305,Ruszor Arrowhd,1,1,100,15,1,1,1,100,10,1
+3306,Handful Of Dark Adaman Bolt Heads,1,1,100,15,1,1,1,100,10,1
 3307,Heat Capacitor,1,1,100,15,1,1,1,100,10,1
 3308,Power Cooler,1,1,100,15,1,1,1,100,10,1
 3309,Barrage Turbine,1,1,100,15,1,1,1,100,10,1
@@ -10112,7 +10148,9 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3491,Akvan's Pennon,1,1,100,15,1,1,1,100,10,1
 3492,Kaggen's Cuticle,1,1,100,15,1,1,1,100,10,1
 3504,Peapuk Wing,1,1,100,15,1,1,1,100,10,1
+3505,Handful Of Gargouille Arrowheads,1,1,100,15,1,1,1,100,10,1
 3506,Peapuk Fltchg,1,1,100,15,1,1,1,100,10,1
+3507,Handful Of Adaman Bolt Heads,1,1,100,15,1,1,1,100,10,1
 3520,Ifritite,1,1,100,15,1,1,1,100,10,1
 3521,Shivite,1,1,100,15,1,1,1,100,10,1
 3522,Garudite,1,1,100,15,1,1,1,100,10,1
@@ -10121,13 +10159,25 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3525,Leviatite,1,1,100,15,1,1,1,100,10,1
 3526,Carbite,1,1,100,15,1,1,1,100,10,1
 3527,Fenrite,1,1,100,15,1,1,1,100,10,1
+3545,Square Of Serica Cloth,1,1,100,15,1,1,1,100,10,1
+3546,Piece Of Staghorn Coral,1,1,100,15,1,1,1,100,10,1
+3547,Sealord Skin,1,1,100,15,1,1,1,100,10,1
+3548,Square Of Sealord Leather,1,1,100,15,1,1,1,100,10,1
+3549,Vial Of Belladonna Sap,1,1,100,15,1,1,1,100,10,1
+3550,Spool Of Wyrdstrand,1,1,100,15,1,1,1,100,10,1
+3551,Square Of Wyrdweave,1,1,100,15,1,1,1,100,10,1
+3552,Squamous Hide,1,1,100,15,1,1,1,100,10,1
 3584,Panetiere,1,1,100,15,1,1,1,100,10,1
 3586,Red Viola Pot,1,1,100,15,1,1,1,100,10,1
 3587,Blue Viola Pot,1,1,100,15,1,1,1,100,10,1
 3588,Yellow Viola Pot,1,1,100,15,1,1,1,100,10,1
 3589,White Viola Pot,1,1,100,15,1,1,1,100,10,1
+3590,Puce Chest,1,1,100,15,1,1,1,100,10,1
+3591,Chest Of Marbled Drawers,1,1,100,15,1,1,1,100,10,1
 3595,Gemscope,1,1,100,15,1,1,1,100,10,1
 3596,Ornament Case,1,1,100,15,1,1,1,100,10,1
+3600,Bongo Drum,1,1,100,15,1,1,1,100,10,1
+3608,Fictile Pot,1,1,100,15,1,1,1,100,10,1
 3609,Stepping Stool,1,1,100,15,1,1,1,100,10,1
 3610,Mariner's Bed R,1,1,100,15,1,1,1,100,10,1
 3611,Mariner's Bed B,1,1,100,15,1,1,1,100,10,1
@@ -10162,6 +10212,157 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3674,Alembic,1,1,100,15,1,1,1,100,10,1
 3675,Flask Set,1,1,100,15,1,1,1,100,10,1
 3678,Recital Bench,1,1,100,15,1,1,1,100,10,1
+3696,Kotatsu Table,1,1,100,15,1,1,1,100,10,1
+3697,Mandarin,1,1,100,15,1,1,1,100,10,1
+3699,Bathtub,1,1,100,15,1,1,1,100,10,1
+3700,Shower Stand,1,1,100,15,1,1,1,100,10,1
+3701,Awning,1,1,100,15,1,1,1,100,10,1
+3702,Triangular Jalousie,1,1,100,15,1,1,1,100,10,1
+3703,Square Jalousie,1,1,100,15,1,1,1,100,10,1
+3704,Transom,1,1,100,15,1,1,1,100,10,1
+3709,Valance,1,1,100,15,1,1,1,100,10,1
+3710,Windurstian Sill,1,1,100,15,1,1,1,100,10,1
+3712,Bastokan Sill,1,1,100,15,1,1,1,100,10,1
+3729,Light Chest,1,1,100,15,1,1,1,100,10,1
+3730,Bulky Coffer,1,1,100,15,1,1,1,100,10,1
+3731,Azure Chest,1,1,100,15,1,1,1,100,10,1
+3869,Simian Horn,1,1,100,15,1,1,1,100,10,1
+3870,Lock Of Simian Mane,1,1,100,15,1,1,1,100,10,1
+3888,Safeguard Palimpsest,1,1,100,15,1,1,1,100,10,1
+3889,Obliteration Palimpsest,1,1,100,15,1,1,1,100,10,1
+3890,Alacrity Palimpsest,1,1,100,15,1,1,1,100,10,1
+3891,Intimidation Palimpsest,1,1,100,15,1,1,1,100,10,1
+3893,Daimonic Mandible,1,1,100,15,1,1,1,100,10,1
+3894,Daimonic Casing,1,1,100,15,1,1,1,100,10,1
+3895,Rala Visage I,1,1,100,15,1,1,1,100,10,1
+3896,Rala Visage II,1,1,100,15,1,1,1,100,10,1
+3897,Rala Visage III,1,1,100,15,1,1,1,100,10,1
+3898,Rala Visage IV,1,1,100,15,1,1,1,100,10,1
+3899,Rala Visage V,1,1,100,15,1,1,1,100,10,1
+3910,Cirdas Visage I,1,1,100,15,1,1,1,100,10,1
+3911,Cirdas Visage II,1,1,100,15,1,1,1,100,10,1
+3912,Cirdas Visage III,1,1,100,15,1,1,1,100,10,1
+3913,Cirdas Visage IV,1,1,100,15,1,1,1,100,10,1
+3914,Cirdas Visage V,1,1,100,15,1,1,1,100,10,1
+3915,Saffron Blossom,1,1,100,15,1,1,1,100,10,1
+3916,Pinch Of Saffron,1,1,100,15,1,1,1,100,10,1
+3917,Leafkin Frond,1,1,100,15,1,1,1,100,10,1
+3918,Chunk Of Midrium Ore,1,1,100,15,1,1,1,100,10,1
+3919,Midrium Ingot,1,1,100,15,1,1,1,100,10,1
+3920,Chunk Of Vanadium Ore,1,1,100,15,1,1,1,100,10,1
+3921,Marble Nugget,1,1,100,15,1,1,1,100,10,1
+3922,Chunk Of Rhodium Ore,1,1,100,15,1,1,1,100,10,1
+3923,Rhodium Ingot,1,1,100,15,1,1,1,100,10,1
+3924,Scholar Stone,1,1,100,15,1,1,1,100,10,1
+3925,Tanzanite Jewel,1,1,100,15,1,1,1,100,10,1
+3926,Urunday Log,1,1,100,15,1,1,1,100,10,1
+3927,Piece Of Urunday Lumber,1,1,100,15,1,1,1,100,10,1
+3928,Velkk Necklace,1,1,100,15,1,1,1,100,10,1
+3929,Velkk Mask,1,1,100,15,1,1,1,100,10,1
+3930,Twitherym Wing,1,1,100,15,1,1,1,100,10,1
+3931,Twitherym Scale,1,1,100,15,1,1,1,100,10,1
+3932,Chapuli Horn,1,1,100,15,1,1,1,100,10,1
+3933,Craklaw Pincer,1,1,100,15,1,1,1,100,10,1
+3934,Matamata Shell,1,1,100,15,1,1,1,100,10,1
+3935,Jar Of Umbril Ooze,1,1,100,15,1,1,1,100,10,1
+3936,Jar Of Acuex Poison,1,1,100,15,1,1,1,100,10,1
+3937,Bottle Of Panopt Tears,1,1,100,15,1,1,1,100,10,1
+3938,Mantid Foreleg,1,1,100,15,1,1,1,100,10,1
+3939,Mantid Carapace,1,1,100,15,1,1,1,100,10,1
+3940,Carrier Crab Carapace,1,1,100,15,1,1,1,100,10,1
+3941,Chapuli Wing,1,1,100,15,1,1,1,100,10,1
+3942,Locust Elutriator,1,1,100,15,1,1,1,100,10,1
+3943,Bag Of Chapuli Fletchings,1,1,100,15,1,1,1,100,10,1
+3944,Handful Of Chapuli Arrowheads,1,1,100,15,1,1,1,100,10,1
+3945,Handful Of Midrium Bolt Heads,1,1,100,15,1,1,1,100,10,1
+3946,Handful Of Mantid Arrowheads,1,1,100,15,1,1,1,100,10,1
+3947,Handful Of Damascus Bolt Heads,1,1,100,15,1,1,1,100,10,1
+3948,Bag Of Tulfaire Fletchings,1,1,100,15,1,1,1,100,10,1
+3949,Handful Of Titanium Bolt Heads,1,1,100,15,1,1,1,100,10,1
+3958,Clump Of Yahse Humus,1,1,100,15,1,1,1,100,10,1
+3960,Celadon Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+3961,Zaffre Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+3962,Alizarin Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+3963,Midrium Sheet,1,1,100,15,1,1,1,100,10,1
+3964,Rhodium Sheet,1,1,100,15,1,1,1,100,10,1
+3965,Clump Of Adoulinian Kelp,1,1,100,15,1,1,1,100,10,1
+3974,Airlixir,1,1,100,15,1,1,1,100,10,1
+3975,Airlixir +1,1,1,100,15,1,1,1,100,10,1
+3976,Airlixir +2,1,1,100,15,1,1,1,100,10,1
+3977,Gabbrath Horn,1,1,100,15,1,1,1,100,10,1
+3978,Rockfin Fin,1,1,100,15,1,1,1,100,10,1
+3979,Rockfin Tooth,1,1,100,15,1,1,1,100,10,1
+3980,Bztavian Stinger,1,1,100,15,1,1,1,100,10,1
+3981,Bztavian Wing,1,1,100,15,1,1,1,100,10,1
+3982,Arborscent Seed,1,1,100,15,1,1,1,100,10,1
+3983,Arborfruit Seed,1,1,100,15,1,1,1,100,10,1
+3988,Garden Worm,1,1,100,15,1,1,1,100,10,1
+3989,Clump Of Grove Humus,1,1,100,15,1,1,1,100,10,1
+3990,Clump Of Coalition Humus,1,1,100,15,1,1,1,100,10,1
+3991,Grove Worm,1,1,100,15,1,1,1,100,10,1
+3992,Sack Of Grove Mulch,1,1,100,15,1,1,1,100,10,1
+3993,Bag Of Grove Cuttings,1,1,100,15,1,1,1,100,10,1
+3994,Jar Of Entisyrup,1,1,100,15,1,1,1,100,10,1
+3995,Onz Of Coalition Fertilizer,1,1,100,15,1,1,1,100,10,1
+3996,Vial Of Stone Serum,1,1,100,15,1,1,1,100,10,1
+3997,Vial Of Vein Serum,1,1,100,15,1,1,1,100,10,1
+3998,Vial Of Auserum,1,1,100,15,1,1,1,100,10,1
+3999,Vial Of Smelting Serum,1,1,100,15,1,1,1,100,10,1
+4000,Vial Of Coalition Serum,1,1,100,15,1,1,1,100,10,1
+4001,Sardine Sphere,1,1,100,15,1,1,1,100,10,1
+4002,Bass Sphere,1,1,100,15,1,1,1,100,10,1
+4003,Shrimp Sphere,1,1,100,15,1,1,1,100,10,1
+4004,Baitball,1,1,100,15,1,1,1,100,10,1
+4005,Super Baitball,1,1,100,15,1,1,1,100,10,1
+4006,Ponze Of Sardine Chum,1,1,100,15,1,1,1,100,10,1
+4007,Ponze Of Bass Chum,1,1,100,15,1,1,1,100,10,1
+4008,Ponze Of Shrimp Chum,1,1,100,15,1,1,1,100,10,1
+4009,Ponze Of Mincemeat Chum,1,1,100,15,1,1,1,100,10,1
+4010,Ponze Of Coalition Chum,1,1,100,15,1,1,1,100,10,1
+4011,Flask Of Grow-M-Good,1,1,100,15,1,1,1,100,10,1
+4012,Waktza Rostrum,1,1,100,15,1,1,1,100,10,1
+4013,Waktza Crest,1,1,100,15,1,1,1,100,10,1
+4014,Yggdreant Bole,1,1,100,15,1,1,1,100,10,1
+4015,Yggdreant Root,1,1,100,15,1,1,1,100,10,1
+4016,Tulfaire Feather,1,1,100,15,1,1,1,100,10,1
+4017,Mandragora Sprout,1,1,100,15,1,1,1,100,10,1
+4018,Guatambu Log,1,1,100,15,1,1,1,100,10,1
+4019,Piece Of Guatambu Lumber,1,1,100,15,1,1,1,100,10,1
+4020,Chunk Of Titanium Ore,1,1,100,15,1,1,1,100,10,1
+4021,Titanium Ingot,1,1,100,15,1,1,1,100,10,1
+4022,Titanium Sheet,1,1,100,15,1,1,1,100,10,1
+4023,Chunk Of Snowsteel Ore,1,1,100,15,1,1,1,100,10,1
+4024,Chunk Of Snowsteel,1,1,100,15,1,1,1,100,10,1
+4025,Snowsteel Sheet,1,1,100,15,1,1,1,100,10,1
+4026,Clump Of Akaso,1,1,100,15,1,1,1,100,10,1
+4027,Spool Of Akaso Thread,1,1,100,15,1,1,1,100,10,1
+4028,Square Of Akaso Cloth,1,1,100,15,1,1,1,100,10,1
+4030,Pot Of Sekishitsu,1,1,100,15,1,1,1,100,10,1
+4031,Bottle Of Snapweed Secretion,1,1,100,15,1,1,1,100,10,1
+4032,Snapweed Tendril,1,1,100,15,1,1,1,100,10,1
+4037,Yorcia Visage I,1,1,100,15,1,1,1,100,10,1
+4038,Yorcia Visage II,1,1,100,15,1,1,1,100,10,1
+4039,Yorcia Visage III,1,1,100,15,1,1,1,100,10,1
+4040,Yorcia Visage IV,1,1,100,15,1,1,1,100,10,1
+4041,Yorcia Visage V,1,1,100,15,1,1,1,100,10,1
+4051,Phial Of Alloy Tonic,1,1,100,15,1,1,1,100,10,1
+4052,Phial Of Alloy Tonic +1,1,1,100,15,1,1,1,100,10,1
+4053,Phial Of Alloy Tonic +2,1,1,100,15,1,1,1,100,10,1
+4057,Gelid Aggregate,1,1,100,15,1,1,1,100,10,1
+4058,Chunk Of Bismuth Ore,1,1,100,15,1,1,1,100,10,1
+4074,Thought Crystal,1,1,100,15,1,1,1,100,10,1
+4075,Hope Crystal,1,1,100,15,1,1,1,100,10,1
+4076,Fulfillment Crystal,1,1,100,15,1,1,1,100,10,1
+4077,Piece Of Moonbow Steel,1,1,100,15,1,1,1,100,10,1
+4078,Bolt Of Moonbow Cloth,1,1,100,15,1,1,1,100,10,1
+4079,Square Of Moonbow Leather,1,1,100,15,1,1,1,100,10,1
+4080,Pot Of Moonbow Urushi,1,1,100,15,1,1,1,100,10,1
+4081,Moonbow Stone,1,1,100,15,1,1,1,100,10,1
+4082,Piece Of Moonlight Coral,1,1,100,15,1,1,1,100,10,1
+4083,Handful Of Beryllium Arrowheads,1,1,100,15,1,1,1,100,10,1
+4084,Bag Of Mixed Fletchings,1,1,100,15,1,1,1,100,10,1
+4085,Handful Of Beryllium Bolt Heads,1,1,100,15,1,1,1,100,10,1
+4095,Bismuth Sheet,1,1,100,15,1,1,1,100,10,1
 4096,Fire Crystal,1,1,100,15,1,1,1,100,10,1
 4097,Ice Crystal,1,1,100,15,1,1,1,100,10,1
 4098,Wind Crystal,1,1,100,15,1,1,1,100,10,1
@@ -10223,6 +10424,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4157,Poison Potion,1,1,100,15,1,1,1,100,10,1
 4158,Venom Potion,1,1,100,15,1,1,1,100,10,1
 4159,Paralyze Potion,1,1,100,15,1,1,1,100,10,1
+4160,Flask Of Petrify Potion,1,1,100,15,1,1,1,100,10,1
 4161,Sleeping Potion,1,1,100,15,1,1,1,100,10,1
 4162,Silencing Potion,1,1,100,15,1,1,1,100,10,1
 4163,Blinding Potion,1,1,100,15,1,1,1,100,10,1
@@ -10376,6 +10578,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4364,Black Bread,1,1,100,15,1,1,1,100,10,1
 4365,Rolanberry,1,1,100,15,1,1,1,100,10,1
 4366,La Theine Cbg,1,1,100,15,1,1,1,100,10,1
+4367,Clump Of Batagreens,1,1,100,15,1,1,1,100,10,1
 4370,Honey,1,1,100,15,1,1,1,100,10,1
 4371,Grilled Hare,1,1,100,15,1,1,1,100,10,1
 4372,G,1,1,100,15,1,1,1,100,10,1
@@ -10675,6 +10878,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4689,Recall Meriph,1,1,100,15,1,1,1,100,10,1
 4690,Baramnesia,1,1,100,15,1,1,1,100,10,1
 4691,Baramnesra,1,1,100,15,1,1,1,100,10,1
+4692,Scroll Of Haste II,1,1,100,15,1,1,1,100,10,1
 4694,Barsleepra,1,1,100,15,1,1,1,100,10,1
 4695,Barpoisonra,1,1,100,15,1,1,1,100,10,1
 4696,Barparalyzra,1,1,100,15,1,1,1,100,10,1
@@ -10791,6 +10995,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4828,Poison,1,1,100,15,1,1,1,100,10,1
 4829,Poison II,1,1,100,15,1,1,1,100,10,1
 4833,Poisonga,1,1,100,15,1,1,1,100,10,1
+4834,Scroll Of Poisonga II,1,1,100,15,1,1,1,100,10,1
 4838,Bio,1,1,100,15,1,1,1,100,10,1
 4839,Bio II,1,1,100,15,1,1,1,100,10,1
 4843,Burn,1,1,100,15,1,1,1,100,10,1
@@ -10801,6 +11006,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4848,Drown,1,1,100,15,1,1,1,100,10,1
 4849,Addle,1,1,100,15,1,1,1,100,10,1
 4850,Refresh II,1,1,100,15,1,1,1,100,10,1
+4851,Scroll Of Meteor,1,1,100,15,1,1,1,100,10,1
 4853,Drain,1,1,100,15,1,1,1,100,10,1
 4854,Drain II,1,1,100,15,1,1,1,100,10,1
 4855,Aspir,1,1,100,15,1,1,1,100,10,1
@@ -10848,7 +11054,22 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4901,Water Spirit,1,1,100,15,1,1,1,100,10,1
 4902,Light Spirit,1,1,100,15,1,1,1,100,10,1
 4903,Dark Spirit,1,1,100,15,1,1,1,100,10,1
+4912,Scroll Of Distract,1,1,100,15,1,1,1,100,10,1
+4913,Scroll Of Distract II,1,1,100,15,1,1,1,100,10,1
 4914,Frazzle,1,1,100,15,1,1,1,100,10,1
+4915,Scroll Of Frazzle II,1,1,100,15,1,1,1,100,10,1
+4916,Scroll Of Fira,1,1,100,15,1,1,1,100,10,1
+4917,Scroll Of Fira II,1,1,100,15,1,1,1,100,10,1
+4918,Scroll Of Blizzara,1,1,100,15,1,1,1,100,10,1
+4919,Scroll Of Blizzara II,1,1,100,15,1,1,1,100,10,1
+4920,Scroll Of Aerora,1,1,100,15,1,1,1,100,10,1
+4921,Scroll Of Aerora II,1,1,100,15,1,1,1,100,10,1
+4922,Scroll Of Stonera,1,1,100,15,1,1,1,100,10,1
+4923,Scroll Of Stonera II,1,1,100,15,1,1,1,100,10,1
+4924,Scroll Of Thundara,1,1,100,15,1,1,1,100,10,1
+4925,Scroll Of Thundara II,1,1,100,15,1,1,1,100,10,1
+4926,Scroll Of Watera,1,1,100,15,1,1,1,100,10,1
+4927,Scroll Of Watera II,1,1,100,15,1,1,1,100,10,1
 4928,Katon: Ichi,1,1,100,15,1,1,1,100,10,1
 4929,Katon: Ni,1,1,100,15,1,1,1,100,10,1
 4931,Hyoton: Ichi,1,1,100,15,1,1,1,100,10,1
@@ -10988,7 +11209,12 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5098,Boost INT,1,1,100,15,1,1,1,100,10,1
 5099,Boost MND,1,1,100,15,1,1,1,100,10,1
 5100,Boost CHR,1,1,100,15,1,1,1,100,10,1
+5101,Scroll Of Arise,1,1,100,15,1,1,1,100,10,1
+5102,Scroll Of Foil,1,1,100,15,1,1,1,100,10,1
+5103,Scroll Of Crusade,1,1,100,15,1,1,1,100,10,1
 5104,Flurry,1,1,100,15,1,1,1,100,10,1
+5105,Scroll Of Flurry II,1,1,100,15,1,1,1,100,10,1
+5106,Scroll Of Inundation,1,1,100,15,1,1,1,100,10,1
 5120,Titanic Sawfish,1,1,100,15,1,1,1,100,10,1
 5121,Moorish Idol,1,1,100,15,1,1,1,100,10,1
 5122,Bibiki Slug,1,1,100,15,1,1,1,100,10,1
@@ -11130,6 +11356,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5319,Toolbag (Shino),1,1,100,15,1,1,1,100,10,1
 5327,Potion Drop,1,1,100,15,1,1,1,100,10,1
 5328,Hi Potion Drop,1,1,100,15,1,1,1,100,10,1
+5331,Qiqirn Mine,1,1,100,15,1,1,1,100,10,1
 5332,Kabura Quiver,1,1,100,15,1,1,1,100,10,1
 5333,Sleep Quiver,1,1,100,15,1,1,1,100,10,1
 5334,Bln,1,1,100,15,1,1,1,100,10,1
@@ -11230,6 +11457,11 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5503,Miser's Die,1,1,100,15,1,1,1,100,10,1
 5504,Companion's Die,1,1,100,15,1,1,1,100,10,1
 5505,Avenger's Die,1,1,100,15,1,1,1,100,10,1
+5531,Slice Of Lucerewe Meat,1,1,100,15,1,1,1,100,10,1
+5532,Ichinintousen Koma,1,1,100,15,1,1,1,100,10,1
+5534,Apkallufa,1,1,100,15,1,1,1,100,10,1
+5535,Deademoiselle,1,1,100,15,1,1,1,100,10,1
+5536,Yorchete,1,1,100,15,1,1,1,100,10,1
 5537,Soryu,1,1,100,15,1,1,1,100,10,1
 5538,Sekiryu,1,1,100,15,1,1,1,100,10,1
 5539,Hakuryu,1,1,100,15,1,1,1,100,10,1
@@ -11305,6 +11537,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5610,Hellsteak +1,1,1,100,15,1,1,1,100,10,1
 5611,Angler Stewpot,1,1,100,15,1,1,1,100,10,1
 5612,Prm,1,1,100,15,1,1,1,100,10,1
+5613,Prize Angler Stewpot,1,1,100,15,1,1,1,100,10,1
 5614,Konigskuchen,1,1,100,15,1,1,1,100,10,1
 5615,Uberkuchen,1,1,100,15,1,1,1,100,10,1
 5616,Lebkuchen House,1,1,100,15,1,1,1,100,10,1
@@ -11393,6 +11626,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5719,Marinara,1,1,100,15,1,1,1,100,10,1
 5721,Crab Sushi,1,1,100,15,1,1,1,100,10,1
 5722,Crab Sushi +1,1,1,100,15,1,1,1,100,10,1
+5724,Pinch Of Pungent Powder,1,1,100,15,1,1,1,100,10,1
 5725,Goshikitenge,1,1,100,15,1,1,1,100,10,1
 5726,Zucchini,1,1,100,15,1,1,1,100,10,1
 5727,Zaru Soba,1,1,100,15,1,1,1,100,10,1
@@ -11449,6 +11683,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5814,Crocodilos,1,1,100,15,1,1,1,100,10,1
 5815,Pelazoea,1,1,100,15,1,1,1,100,10,1
 5816,King Perch,1,1,100,15,1,1,1,100,10,1
+5817,Tiger Shark,1,1,100,15,1,1,1,100,10,1
+5818,Aurora Bass,1,1,100,15,1,1,1,100,10,1
 5819,Antlion Quiver,1,1,100,15,1,1,1,100,10,1
 5820,Dkl,1,1,100,15,1,1,1,100,10,1
 5821,Fsn,1,1,100,15,1,1,1,100,10,1
@@ -11472,6 +11708,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5881,Shisai Kaboku,1,1,100,15,1,1,1,100,10,1
 5882,Marine Bliss,1,1,100,15,1,1,1,100,10,1
 5883,Falling Star,1,1,100,15,1,1,1,100,10,1
+5884,Rengedama,1,1,100,15,1,1,1,100,10,1
 5885,Saltena,1,1,100,15,1,1,1,100,10,1
 5886,Elshena,1,1,100,15,1,1,1,100,10,1
 5887,Montagna,1,1,100,15,1,1,1,100,10,1
@@ -11480,11 +11717,106 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5890,Poultry Pitaru,1,1,100,15,1,1,1,100,10,1
 5891,Seafood Pitaru,1,1,100,15,1,1,1,100,10,1
 5892,B,1,1,100,15,1,1,1,100,10,1
+5893,Marine Stewpot,1,1,100,15,1,1,1,100,10,1
+5894,Prime Marine Stewpot,1,1,100,15,1,1,1,100,10,1
 5907,Winterflower,1,1,100,15,1,1,1,100,10,1
 5908,Butterpear,1,1,100,15,1,1,1,100,10,1
+5909,Pickled Rarab Tail,1,1,100,15,1,1,1,100,10,1
 5912,Gargou,1,1,100,15,1,1,1,100,10,1
+5913,Adaman Bolt Quiver,1,1,100,15,1,1,1,100,10,1
 5914,O,1,1,100,15,1,1,1,100,10,1
 5915,A,1,1,100,15,1,1,1,100,10,1
+5922,Walnut Cookie,1,1,100,15,1,1,1,100,10,1
+5923,Juglan Jumble,1,1,100,15,1,1,1,100,10,1
+5924,Smoldering Salisbury Steak,1,1,100,15,1,1,1,100,10,1
+5925,Charred Salisbury Steak,1,1,100,15,1,1,1,100,10,1
+5926,Cup Of Date Tea,1,1,100,15,1,1,1,100,10,1
+5927,Cup Of Caravan Tea,1,1,100,15,1,1,1,100,10,1
+5928,Himesama Rice Ball,1,1,100,15,1,1,1,100,10,1
+5929,Ojo Rice Ball,1,1,100,15,1,1,1,100,10,1
+5930,Bowl Of Sprightly Soup,1,1,100,15,1,1,1,100,10,1
+5931,Bowl Of Shimmy Soup,1,1,100,15,1,1,1,100,10,1
+5932,Bottle Of Kitron Juice,1,1,100,15,1,1,1,100,10,1
+5933,Flask Of Dragon Fruit Au Lait,1,1,100,15,1,1,1,100,10,1
+5934,Chocobiscuit,1,1,100,15,1,1,1,100,10,1
+5935,Bowl Of Moogurt,1,1,100,15,1,1,1,100,10,1
+5940,Trail Cookie,1,1,100,15,1,1,1,100,10,1
+5941,Bar Of Campfire Chocolate,1,1,100,15,1,1,1,100,10,1
+5942,Piece Of Cascade Candy,1,1,100,15,1,1,1,100,10,1
+5943,Strip Of Smoked Mackerel,1,1,100,15,1,1,1,100,10,1
+5944,Bottle Of Frontier Soda,1,1,100,15,1,1,1,100,10,1
+5945,Pinch Of Prize Powder,1,1,100,15,1,1,1,100,10,1
+5948,Black Prawn,1,1,100,15,1,1,1,100,10,1
+5949,Mussel,1,1,100,15,1,1,1,100,10,1
+5950,Mackerel,1,1,100,15,1,1,1,100,10,1
+5951,Bloodblotch,1,1,100,15,1,1,1,100,10,1
+5952,Ruddy Seema,1,1,100,15,1,1,1,100,10,1
+5953,Dragonfly Trout,1,1,100,15,1,1,1,100,10,1
+5954,Barnacle,1,1,100,15,1,1,1,100,10,1
+5955,Yawning Catfish,1,1,100,15,1,1,1,100,10,1
+5957,Shockfish,1,1,100,15,1,1,1,100,10,1
+5959,Dragonfish,1,1,100,15,1,1,1,100,10,1
+5960,Ulbukan Lobster,1,1,100,15,1,1,1,100,10,1
+5961,Contortopus,1,1,100,15,1,1,1,100,10,1
+5962,Contortacle,1,1,100,15,1,1,1,100,10,1
+5963,Senroh Sardine,1,1,100,15,1,1,1,100,10,1
+5964,Felicifruit,1,1,100,15,1,1,1,100,10,1
+5965,Head Of Isleracea,1,1,100,15,1,1,1,100,10,1
+5966,Ulbuconut,1,1,100,15,1,1,1,100,10,1
+5967,Verboshroom,1,1,100,15,1,1,1,100,10,1
+5968,Plate Of Seafood Paella,1,1,100,15,1,1,1,100,10,1
+5970,Plate Of Mushroom Paella,1,1,100,15,1,1,1,100,10,1
+5971,Plate Of Mushroom Paella +1,1,1,100,15,1,1,1,100,10,1
+5972,Plate Of Beef Paella,1,1,100,15,1,1,1,100,10,1
+5973,Plate Of Beef Paella +1,1,1,100,15,1,1,1,100,10,1
+5974,Plate Of Barnacle Paella,1,1,100,15,1,1,1,100,10,1
+5976,Bowl Of Ulbuconut Milk,1,1,100,15,1,1,1,100,10,1
+5977,Bowl Of Ulbuconut Milk +1,1,1,100,15,1,1,1,100,10,1
+5978,Plate Of Felicifruit Gelatin,1,1,100,15,1,1,1,100,10,1
+5979,Plate Of Dulcet Panettones,1,1,100,15,1,1,1,100,10,1
+5980,Plate Of Boiled Barnacles,1,1,100,15,1,1,1,100,10,1
+5981,Plate Of Boiled Barnacles +1,1,1,100,15,1,1,1,100,10,1
+5982,Senroh Skewer,1,1,100,15,1,1,1,100,10,1
+5984,Branch Of Gnatbane,1,1,100,15,1,1,1,100,10,1
+5985,Sprig Of Hemlock,1,1,100,15,1,1,1,100,10,1
+5993,Senroh Frog,1,1,100,15,1,1,1,100,10,1
+5995,Malicious Perch,1,1,100,15,1,1,1,100,10,1
+5997,Shen,1,1,100,15,1,1,1,100,10,1
+5998,Bowl Of Adoulinian Soup,1,1,100,15,1,1,1,100,10,1
+5999,Bowl Of Adoulinian Soup +1,1,1,100,15,1,1,1,100,10,1
+6001,Clotflagration,1,1,100,15,1,1,1,100,10,1
+6009,Bowl Of Mog Pudding,1,1,100,15,1,1,1,100,10,1
+6010,Sakura Biscuit,1,1,100,15,1,1,1,100,10,1
+6011,Celadon Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6012,Celadon Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6013,Celadon Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6014,Celadon Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6015,Celadon Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6016,Zaffre Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6017,Zaffre Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6018,Zaffre Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6019,Zaffre Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6020,Zaffre Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6021,Alizarin Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6022,Alizarin Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6023,Alizarin Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6024,Alizarin Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6025,Alizarin Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6026,Celadon Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6027,Celadon Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6028,Celadon Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6029,Celadon Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6030,Celadon Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6031,Zaffre Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6032,Zaffre Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6033,Zaffre Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6034,Zaffre Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6035,Zaffre Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6036,Alizarin Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6037,Alizarin Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6038,Alizarin Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6039,Alizarin Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6040,Alizarin Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
 6041,Pyrohelix,1,1,100,15,1,1,1,100,10,1
 6042,Hydrohelix,1,1,100,15,1,1,1,100,10,1
 6043,Ionohelix,1,1,100,15,1,1,1,100,10,1
@@ -11505,9 +11837,535 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6060,Animus Minuo,1,1,100,15,1,1,1,100,10,1
 6061,Adloquium,1,1,100,15,1,1,1,100,10,1
 6063,Fruit Parfait,1,1,100,15,1,1,1,100,10,1
+6068,Slice Of Gabbrath Meat,1,1,100,15,1,1,1,100,10,1
+6069,Bowl Of Riverfin Soup,1,1,100,15,1,1,1,100,10,1
+6070,Bowl Of Oceanfin Soup,1,1,100,15,1,1,1,100,10,1
+6071,Magma Steak,1,1,100,15,1,1,1,100,10,1
+6072,Magma Steak +1,1,1,100,15,1,1,1,100,10,1
+6073,Plate Of Indi-Regen,1,1,100,15,1,1,1,100,10,1
+6074,Plate Of Indi-Poison,1,1,100,15,1,1,1,100,10,1
+6075,Plate Of Indi-Refresh,1,1,100,15,1,1,1,100,10,1
+6076,Plate Of Indi-STR,1,1,100,15,1,1,1,100,10,1
+6077,Plate Of Indi-DEX,1,1,100,15,1,1,1,100,10,1
+6078,Plate Of Indi-VIT,1,1,100,15,1,1,1,100,10,1
+6079,Plate Of Indi-AGI,1,1,100,15,1,1,1,100,10,1
+6080,Plate Of Indi-INT,1,1,100,15,1,1,1,100,10,1
+6081,Plate Of Indi-MND,1,1,100,15,1,1,1,100,10,1
+6082,Plate Of Indi-CHR,1,1,100,15,1,1,1,100,10,1
+6083,Plate Of Indi-Fury,1,1,100,15,1,1,1,100,10,1
+6084,Plate Of Indi-Barrier,1,1,100,15,1,1,1,100,10,1
+6085,Plate Of Indi-Acumen,1,1,100,15,1,1,1,100,10,1
+6086,Plate Of Indi-Fend,1,1,100,15,1,1,1,100,10,1
+6087,Plate Of Indi-Precision,1,1,100,15,1,1,1,100,10,1
+6088,Plate Of Indi-Voidance,1,1,100,15,1,1,1,100,10,1
+6089,Plate Of Indi-Focus,1,1,100,15,1,1,1,100,10,1
+6090,Plate Of Indi-Attunement,1,1,100,15,1,1,1,100,10,1
+6091,Plate Of Indi-Wilt,1,1,100,15,1,1,1,100,10,1
+6092,Plate Of Indi-Frailty,1,1,100,15,1,1,1,100,10,1
+6093,Plate Of Indi-Fade,1,1,100,15,1,1,1,100,10,1
+6094,Plate Of Indi-Malaise,1,1,100,15,1,1,1,100,10,1
+6095,Plate Of Indi-Slip,1,1,100,15,1,1,1,100,10,1
+6096,Plate Of Indi-Torpor,1,1,100,15,1,1,1,100,10,1
+6097,Plate Of Indi-Vex,1,1,100,15,1,1,1,100,10,1
+6098,Plate Of Indi-Languor,1,1,100,15,1,1,1,100,10,1
+6099,Plate Of Indi-Slow,1,1,100,15,1,1,1,100,10,1
+6100,Plate Of Indi-Paralysis,1,1,100,15,1,1,1,100,10,1
+6101,Plate Of Indi-Gravity,1,1,100,15,1,1,1,100,10,1
+6102,Geo-Regen,1,1,100,15,1,1,1,100,10,1
+6103,Geo-Poison,1,1,100,15,1,1,1,100,10,1
+6104,Geo-Refresh,1,1,100,15,1,1,1,100,10,1
+6105,Geo-STR,1,1,100,15,1,1,1,100,10,1
+6106,Geo-DEX,1,1,100,15,1,1,1,100,10,1
+6107,Geo-VIT,1,1,100,15,1,1,1,100,10,1
+6108,Geo-AGI,1,1,100,15,1,1,1,100,10,1
+6109,Geo-INT,1,1,100,15,1,1,1,100,10,1
+6110,Geo-MND,1,1,100,15,1,1,1,100,10,1
+6111,Geo-CHR,1,1,100,15,1,1,1,100,10,1
+6112,Geo-Fury,1,1,100,15,1,1,1,100,10,1
+6113,Geo-Barrier,1,1,100,15,1,1,1,100,10,1
+6114,Geo-Acumen,1,1,100,15,1,1,1,100,10,1
+6115,Geo-Fend,1,1,100,15,1,1,1,100,10,1
+6116,Geo-Precision,1,1,100,15,1,1,1,100,10,1
+6117,Geo-Voidance,1,1,100,15,1,1,1,100,10,1
+6118,Geo-Focus,1,1,100,15,1,1,1,100,10,1
+6119,Geo-Attunement,1,1,100,15,1,1,1,100,10,1
+6120,Geo-Wilt,1,1,100,15,1,1,1,100,10,1
+6121,Geo-Frailty,1,1,100,15,1,1,1,100,10,1
+6122,Geo-Fade,1,1,100,15,1,1,1,100,10,1
+6123,Geo-Malaise,1,1,100,15,1,1,1,100,10,1
+6124,Geo-Slip,1,1,100,15,1,1,1,100,10,1
+6125,Geo-Torpor,1,1,100,15,1,1,1,100,10,1
+6126,Geo-Vex,1,1,100,15,1,1,1,100,10,1
+6127,Geo-Languor,1,1,100,15,1,1,1,100,10,1
+6128,Geo-Slow,1,1,100,15,1,1,1,100,10,1
+6129,Geo-Paralysis,1,1,100,15,1,1,1,100,10,1
+6130,Geo-Gravity,1,1,100,15,1,1,1,100,10,1
+6131,Plate Of Indi-Haste,1,1,100,15,1,1,1,100,10,1
+6132,Geo-Haste,1,1,100,15,1,1,1,100,10,1
+6137,Chapuli Quiver,1,1,100,15,1,1,1,100,10,1
+6138,Mantid Quiver,1,1,100,15,1,1,1,100,10,1
+6139,Midrium Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6140,Damascus Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6141,Oxidant Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6142,Midrium Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6143,Damascus Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6144,Frigorifish,1,1,100,15,1,1,1,100,10,1
+6145,Dwarf Remora,1,1,100,15,1,1,1,100,10,1
+6146,Remora,1,1,100,15,1,1,1,100,10,1
+6148,Dagger Enchiridion,1,1,100,15,1,1,1,100,10,1
+6149,Copy Of Swing And Stab,1,1,100,15,1,1,1,100,10,1
+6152,Copy Of Death For Dimwits,1,1,100,15,1,1,1,100,10,1
+6154,Copy Of Clash Of Titans,1,1,100,15,1,1,1,100,10,1
+6160,Copy Of Barrels Of Fun,1,1,100,15,1,1,1,100,10,1
+6161,Throwing Weapon Enchiridion,1,1,100,15,1,1,1,100,10,1
+6164,Copy Of The Successor,1,1,100,15,1,1,1,100,10,1
+6167,Copy Of Coveffe Barrows Musings,1,1,100,15,1,1,1,100,10,1
+6168,Copy Of Aid For All,1,1,100,15,1,1,1,100,10,1
+6169,Investigative Report,1,1,100,15,1,1,1,100,10,1
+6170,Bounty List,1,1,100,15,1,1,1,100,10,1
+6171,Copy Of Dark Deeds,1,1,100,15,1,1,1,100,10,1
+6172,Copy Of Breezy Libretto,1,1,100,15,1,1,1,100,10,1
+6173,Cavernous Score,1,1,100,15,1,1,1,100,10,1
+6174,Beaming Score,1,1,100,15,1,1,1,100,10,1
+6176,Copy Of Astral Homeland,1,1,100,15,1,1,1,100,10,1
+6177,Copy Of Life-form Study,1,1,100,15,1,1,1,100,10,1
+6179,Copy Of The Bell Tolls,1,1,100,15,1,1,1,100,10,1
+6186,Slime Rocket,1,1,100,15,1,1,1,100,10,1
+6190,Spriggan Spark,1,1,100,15,1,1,1,100,10,1
+6201,Tulfaire Quiver,1,1,100,15,1,1,1,100,10,1
+6202,Raaz Quiver,1,1,100,15,1,1,1,100,10,1
+6205,Titanium Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6206,Bismuth Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6209,Titanium Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6210,Bismuth Bullet Pouch,1,1,100,15,1,1,1,100,10,1
 6211,Marinara Slice,1,1,100,15,1,1,1,100,10,1
+6213,Slice Of Margherita Pizza,1,1,100,15,1,1,1,100,10,1
+6214,Slice Of Margherita Pizza +1,1,1,100,15,1,1,1,100,10,1
+6215,Slice Of Pepperoni Pizza,1,1,100,15,1,1,1,100,10,1
+6216,Slice Of Pepperoni Pizza +1,1,1,100,15,1,1,1,100,10,1
+6217,Slice Of Anchovy Pizza,1,1,100,15,1,1,1,100,10,1
+6218,Slice Of Anchovy Pizza +1,1,1,100,15,1,1,1,100,10,1
+6219,Warthog Stewpot,1,1,100,15,1,1,1,100,10,1
+6220,Prime Warthog Stewpot,1,1,100,15,1,1,1,100,10,1
+6221,Prized Warthog Stewpot,1,1,100,15,1,1,1,100,10,1
+6222,Slice Of Warthog Meat,1,1,100,15,1,1,1,100,10,1
+6223,Cehuetzi Snow Cone,1,1,100,15,1,1,1,100,10,1
+6224,Apingaut Snow Cone,1,1,100,15,1,1,1,100,10,1
+6225,Cyclical Coalescence,1,1,100,15,1,1,1,100,10,1
+6227,Phlox Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6228,Phlox Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6229,Phlox Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6230,Phlox Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6231,Phlox Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6232,Russet Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6233,Russet Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6234,Russet Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6235,Russet Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6236,Russet Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6237,Aster Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6238,Aster Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6239,Aster Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6240,Aster Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6241,Aster Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6242,Phlox Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6243,Phlox Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6244,Phlox Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6245,Phlox Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6246,Phlox Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6247,Russet Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6248,Russet Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6249,Russet Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6250,Russet Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6251,Russet Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6252,Aster Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6253,Aster Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6254,Aster Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6255,Aster Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6256,Aster Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6257,Jar Of Jungle Nectar,1,1,100,15,1,1,1,100,10,1
+6258,Piece Of Shiromochi,1,1,100,15,1,1,1,100,10,1
+6259,Piece Of Shiromochi +1,1,1,100,15,1,1,1,100,10,1
+6260,Piece Of Akamochi,1,1,100,15,1,1,1,100,10,1
+6261,Piece Of Akamochi +1,1,1,100,15,1,1,1,100,10,1
+6262,Piece Of Kusamochi,1,1,100,15,1,1,1,100,10,1
+6263,Piece Of Kusamochi +1,1,1,100,15,1,1,1,100,10,1
+6265,Toolbag (ranka),1,1,100,15,1,1,1,100,10,1
+6266,Toolbag (furusumi),1,1,100,15,1,1,1,100,10,1
+6268,Komanezumi,1,1,100,15,1,1,1,100,10,1
+6272,Fried Pototo,1,1,100,15,1,1,1,100,10,1
+6273,Fried Pototo +1,1,1,100,15,1,1,1,100,10,1
+6274,Pukatrice Egg,1,1,100,15,1,1,1,100,10,1
+6275,Pukatrice Egg +1,1,1,100,15,1,1,1,100,10,1
+6276,Deep-fried Shrimp,1,1,100,15,1,1,1,100,10,1
+6277,Deep-fried Shrimp +1,1,1,100,15,1,1,1,100,10,1
+6278,Abrasion Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6279,Righteous Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6297,Juji Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6298,Manji Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6299,Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6300,Koga Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6301,Togakushi Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6302,Fuma Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6303,Iga Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6304,Roppo Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6305,Roppo Shuriken +1 Pouch,1,1,100,15,1,1,1,100,10,1
+6306,Happo Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6307,Happo Shuriken +1 Pouch,1,1,100,15,1,1,1,100,10,1
+6308,Hachiya Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6309,Suppa Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6310,Gashing Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6311,Decimating Bullet Pouch,1,1,100,15,1,1,1,100,10,1
+6333,Translucent Salpa,1,1,100,15,1,1,1,100,10,1
+6335,White Lobster,1,1,100,15,1,1,1,100,10,1
+6336,Bonefish,1,1,100,15,1,1,1,100,10,1
+6337,Thysanopeltis,1,1,100,15,1,1,1,100,10,1
+6338,Cameroceras,1,1,100,15,1,1,1,100,10,1
+6339,Rolanberry Daifuku,1,1,100,15,1,1,1,100,10,1
+6340,Rolanberry Daifuku +1,1,1,100,15,1,1,1,100,10,1
+6341,Bean Daifuku,1,1,100,15,1,1,1,100,10,1
+6342,Bean Daifuku +1,1,1,100,15,1,1,1,100,10,1
+6343,Grape Daifuku,1,1,100,15,1,1,1,100,10,1
+6344,Grape Daifuku +1,1,1,100,15,1,1,1,100,10,1
+6368,Geomancer Die,1,1,100,15,1,1,1,100,10,1
+6369,Rune Fencer Die,1,1,100,15,1,1,1,100,10,1
+6371,Quicksilver Blade,1,1,100,15,1,1,1,100,10,1
+6372,Lord Of Ulbuka,1,1,100,15,1,1,1,100,10,1
+6373,Ancient Carp,1,1,100,15,1,1,1,100,10,1
+6375,Phantom Serpent,1,1,100,15,1,1,1,100,10,1
+6376,Tusoteuthis Longa,1,1,100,15,1,1,1,100,10,1
+6393,Cut Of Porxie Pork,1,1,100,15,1,1,1,100,10,1
+6394,Pork Cutlet,1,1,100,15,1,1,1,100,10,1
+6395,Pork Cutlet +1,1,1,100,15,1,1,1,100,10,1
+6396,Cutlet Sandwich,1,1,100,15,1,1,1,100,10,1
+6397,Cutlet Sandwich +1,1,1,100,15,1,1,1,100,10,1
+6406,Pork Cutlet Rice Bowl,1,1,100,15,1,1,1,100,10,1
+6407,Pork Cutlet Rice Bowl +1,1,1,100,15,1,1,1,100,10,1
+6410,Shadow Throne,1,1,100,15,1,1,1,100,10,1
+6414,Porxie Quiver,1,1,100,15,1,1,1,100,10,1
+6415,Seki Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6416,Hunk Of Behemoth Meat,1,1,100,15,1,1,1,100,10,1
+6417,Divine Quiver,1,1,100,15,1,1,1,100,10,1
+6418,Beryllium Quiver,1,1,100,15,1,1,1,100,10,1
+6419,Raetic Quiver,1,1,100,15,1,1,1,100,10,1
+6427,Divine Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6428,Beryllium Bolt Quiver,1,1,100,15,1,1,1,100,10,1
+6437,Divine Bullet Quiver,1,1,100,15,1,1,1,100,10,1
+6447,Sasuke Shuriken Pouch,1,1,100,15,1,1,1,100,10,1
+6448,Sasuke Shuriken Pouch +1,1,1,100,15,1,1,1,100,10,1
+6457,Flarelet,1,1,100,15,1,1,1,100,10,1
+6458,Bowl Of Soy Ramen,1,1,100,15,1,1,1,100,10,1
+6459,Bowl Of Soy Ramen +1,1,1,100,15,1,1,1,100,10,1
+6460,Bowl Of Miso Ramen,1,1,100,15,1,1,1,100,10,1
+6461,Bowl Of Miso Ramen +1,1,1,100,15,1,1,1,100,10,1
+6462,Bowl Of Salt Ramen,1,1,100,15,1,1,1,100,10,1
+6463,Bowl Of Salt Ramen +1,1,1,100,15,1,1,1,100,10,1
+6464,Behemoth Steak,1,1,100,15,1,1,1,100,10,1
+6465,Behemoth Steak +1,1,1,100,15,1,1,1,100,10,1
+6466,Bowl Of Miso Soup,1,1,100,15,1,1,1,100,10,1
+6467,Bowl Of Miso Soup +1,1,1,100,15,1,1,1,100,10,1
+6468,Plate Of Sublime Sushi,1,1,100,15,1,1,1,100,10,1
+6469,Plate Of Sublime Sushi +1,1,1,100,15,1,1,1,100,10,1
+6489,Far East Puffer,1,1,100,15,1,1,1,100,10,1
+6530,Rolanberry Pickled Rarab Tail,1,1,100,15,1,1,1,100,10,1
+6535,Pinch Of Pungent Powder II,1,1,100,15,1,1,1,100,10,1
+8457,Strobe II,1,1,100,15,1,1,1,100,10,1
+8458,Tension Spring III,1,1,100,15,1,1,1,100,10,1
+8459,Inhibitor II,1,1,100,15,1,1,1,100,10,1
+8460,Tension Spring IV,1,1,100,15,1,1,1,100,10,1
+8461,Heat Capacitor II,1,1,100,15,1,1,1,100,10,1
+8462,Speedloader,1,1,100,15,1,1,1,100,10,1
+8463,Speedloader II,1,1,100,15,1,1,1,100,10,1
+8489,Loudspeaker III,1,1,100,15,1,1,1,100,10,1
+8490,Tranquilizer II,1,1,100,15,1,1,1,100,10,1
+8491,Amplifier,1,1,100,15,1,1,1,100,10,1
+8492,Loudspeaker IV,1,1,100,15,1,1,1,100,10,1
+8493,Tranquilizer III,1,1,100,15,1,1,1,100,10,1
+8494,Amplifier II,1,1,100,15,1,1,1,100,10,1
+8522,Accelerator III,1,1,100,15,1,1,1,100,10,1
+8523,Scope II,1,1,100,15,1,1,1,100,10,1
+8524,Repeater,1,1,100,15,1,1,1,100,10,1
+8525,Accelerator IV,1,1,100,15,1,1,1,100,10,1
+8526,Scope III,1,1,100,15,1,1,1,100,10,1
+8553,Shock Absorber II,1,1,100,15,1,1,1,100,10,1
+8554,Armor Plate III,1,1,100,15,1,1,1,100,10,1
+8555,Barrier Module,1,1,100,15,1,1,1,100,10,1
+8556,Armor Plate IV,1,1,100,15,1,1,1,100,10,1
+8557,Shock Absorber III,1,1,100,15,1,1,1,100,10,1
+8585,Stabilizer III,1,1,100,15,1,1,1,100,10,1
+8586,Coiler II,1,1,100,15,1,1,1,100,10,1
+8587,Dynamo II,1,1,100,15,1,1,1,100,10,1
+8588,Stabilizer IV,1,1,100,15,1,1,1,100,10,1
+8589,Dynamo III,1,1,100,15,1,1,1,100,10,1
+8617,Mana Jammer III,1,1,100,15,1,1,1,100,10,1
+8618,Stealth Screen II,1,1,100,15,1,1,1,100,10,1
+8619,Resister,1,1,100,15,1,1,1,100,10,1
+8620,Resister II,1,1,100,15,1,1,1,100,10,1
+8621,Mana Jammer IV,1,1,100,15,1,1,1,100,10,1
+8622,Mana Channeler II,1,1,100,15,1,1,1,100,10,1
+8650,Auto-repair Kit III,1,1,100,15,1,1,1,100,10,1
+8651,Arcanic Cell,1,1,100,15,1,1,1,100,10,1
+8652,Arcanic Cell II,1,1,100,15,1,1,1,100,10,1
+8653,Auto-repair Kit IV,1,1,100,15,1,1,1,100,10,1
+8654,Optic Fiber II,1,1,100,15,1,1,1,100,10,1
+8655,Damage Gauge II,1,1,100,15,1,1,1,100,10,1
+8681,Mana Tank III,1,1,100,15,1,1,1,100,10,1
+8682,Regulator,1,1,100,15,1,1,1,100,10,1
+8683,Mana Tank IV,1,1,100,15,1,1,1,100,10,1
+8704,Bismuth Ingot,1,1,100,15,1,1,1,100,10,1
+8705,Handful Of Bismuth Bolt Heads,1,1,100,15,1,1,1,100,10,1
+8706,Handful Of Raaz Arrowheads,1,1,100,15,1,1,1,100,10,1
+8707,Raaz Hide,1,1,100,15,1,1,1,100,10,1
+8708,Square Of Raaz Leather,1,1,100,15,1,1,1,100,10,1
+8709,Raaz Tusk,1,1,100,15,1,1,1,100,10,1
+8719,Piece Of Maliyakaleya Coral,1,1,100,15,1,1,1,100,10,1
+8720,Maliyakaleya Orb,1,1,100,15,1,1,1,100,10,1
+8721,Chunk Of Hepatizon Ore,1,1,100,15,1,1,1,100,10,1
+8722,Hepatizon Ingot,1,1,100,15,1,1,1,100,10,1
+8723,Chunk Of Beryllium Ore,1,1,100,15,1,1,1,100,10,1
+8724,Beryllium Ingot,1,1,100,15,1,1,1,100,10,1
+8725,Exalted Log,1,1,100,15,1,1,1,100,10,1
+8726,Piece Of Exalted Lumber,1,1,100,15,1,1,1,100,10,1
+8739,Vial Of Wyrm Blood,1,1,100,15,1,1,1,100,10,1
+8740,Pizza Cutter,1,1,100,15,1,1,1,100,10,1
+8752,Cehuetzi Claw,1,1,100,15,1,1,1,100,10,1
+8753,Cehuetzi Ice Shard,1,1,100,15,1,1,1,100,10,1
+8754,Cehuetzi Pelt,1,1,100,15,1,1,1,100,10,1
+8755,Phlox Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+8756,Russet Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+8757,Aster Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+8800,Azuki Bean,1,1,100,15,1,1,1,100,10,1
+8803,Ranka,1,1,100,15,1,1,1,100,10,1
+8804,Furusumi,1,1,100,15,1,1,1,100,10,1
+8805,Woodworking Kit 5,1,1,100,15,1,1,1,100,10,1
+8806,Woodworking Kit 10,1,1,100,15,1,1,1,100,10,1
+8807,Woodworking Kit 15,1,1,100,15,1,1,1,100,10,1
+8808,Woodworking Kit 20,1,1,100,15,1,1,1,100,10,1
+8809,Woodworking Kit 25,1,1,100,15,1,1,1,100,10,1
+8810,Woodworking Kit 30,1,1,100,15,1,1,1,100,10,1
+8811,Woodworking Kit 35,1,1,100,15,1,1,1,100,10,1
+8812,Woodworking Kit 40,1,1,100,15,1,1,1,100,10,1
+8813,Woodworking Kit 45,1,1,100,15,1,1,1,100,10,1
+8814,Woodworking Kit 50,1,1,100,15,1,1,1,100,10,1
+8815,Woodworking Kit 55,1,1,100,15,1,1,1,100,10,1
+8819,Smithing Kit 5,1,1,100,15,1,1,1,100,10,1
+8820,Smithing Kit 10,1,1,100,15,1,1,1,100,10,1
+8821,Smithing Kit 15,1,1,100,15,1,1,1,100,10,1
+8822,Smithing Kit 20,1,1,100,15,1,1,1,100,10,1
+8823,Smithing Kit 25,1,1,100,15,1,1,1,100,10,1
+8824,Smithing Kit 30,1,1,100,15,1,1,1,100,10,1
+8825,Smithing Kit 35,1,1,100,15,1,1,1,100,10,1
+8826,Smithing Kit 40,1,1,100,15,1,1,1,100,10,1
+8827,Smithing Kit 45,1,1,100,15,1,1,1,100,10,1
+8828,Smithing Kit 50,1,1,100,15,1,1,1,100,10,1
+8829,Smithing Kit 55,1,1,100,15,1,1,1,100,10,1
+8833,Goldsmithing Kit 5,1,1,100,15,1,1,1,100,10,1
+8834,Goldsmithing Kit 10,1,1,100,15,1,1,1,100,10,1
+8835,Goldsmithing Kit 15,1,1,100,15,1,1,1,100,10,1
+8836,Goldsmithing Kit 20,1,1,100,15,1,1,1,100,10,1
+8837,Goldsmithing Kit 25,1,1,100,15,1,1,1,100,10,1
+8838,Goldsmithing Kit 30,1,1,100,15,1,1,1,100,10,1
+8839,Goldsmithing Kit 35,1,1,100,15,1,1,1,100,10,1
+8840,Goldsmithing Kit 40,1,1,100,15,1,1,1,100,10,1
+8841,Goldsmithing Kit 45,1,1,100,15,1,1,1,100,10,1
+8842,Goldsmithing Kit 50,1,1,100,15,1,1,1,100,10,1
+8843,Goldsmithing Kit 55,1,1,100,15,1,1,1,100,10,1
+8847,Clothcraft Kit 5,1,1,100,15,1,1,1,100,10,1
+8848,Clothcraft Kit 10,1,1,100,15,1,1,1,100,10,1
+8849,Clothcraft Kit 15,1,1,100,15,1,1,1,100,10,1
+8850,Clothcraft Kit 20,1,1,100,15,1,1,1,100,10,1
+8851,Clothcraft Kit 25,1,1,100,15,1,1,1,100,10,1
+8852,Clothcraft Kit 30,1,1,100,15,1,1,1,100,10,1
+8853,Clothcraft Kit 35,1,1,100,15,1,1,1,100,10,1
+8854,Clothcraft Kit 40,1,1,100,15,1,1,1,100,10,1
+8855,Clothcraft Kit 45,1,1,100,15,1,1,1,100,10,1
+8856,Clothcraft Kit 50,1,1,100,15,1,1,1,100,10,1
+8857,Clothcraft Kit 55,1,1,100,15,1,1,1,100,10,1
+8861,Leathercraft Kit 5,1,1,100,15,1,1,1,100,10,1
+8862,Leathercraft Kit 10,1,1,100,15,1,1,1,100,10,1
+8863,Leathercraft Kit 15,1,1,100,15,1,1,1,100,10,1
+8864,Leathercraft Kit 20,1,1,100,15,1,1,1,100,10,1
+8865,Leathercraft Kit 25,1,1,100,15,1,1,1,100,10,1
+8866,Leathercraft Kit 30,1,1,100,15,1,1,1,100,10,1
+8867,Leathercraft Kit 35,1,1,100,15,1,1,1,100,10,1
+8868,Leathercraft Kit 40,1,1,100,15,1,1,1,100,10,1
+8869,Leathercraft Kit 45,1,1,100,15,1,1,1,100,10,1
+8870,Leathercraft Kit 50,1,1,100,15,1,1,1,100,10,1
+8871,Leathercraft Kit 55,1,1,100,15,1,1,1,100,10,1
+8875,Bonecraft Kit 5,1,1,100,15,1,1,1,100,10,1
+8876,Bonecraft Kit 10,1,1,100,15,1,1,1,100,10,1
+8877,Bonecraft Kit 15,1,1,100,15,1,1,1,100,10,1
+8878,Bonecraft Kit 20,1,1,100,15,1,1,1,100,10,1
+8879,Bonecraft Kit 25,1,1,100,15,1,1,1,100,10,1
+8880,Bonecraft Kit 30,1,1,100,15,1,1,1,100,10,1
+8881,Bonecraft Kit 35,1,1,100,15,1,1,1,100,10,1
+8882,Bonecraft Kit 40,1,1,100,15,1,1,1,100,10,1
+8883,Bonecraft Kit 45,1,1,100,15,1,1,1,100,10,1
+8884,Bonecraft Kit 50,1,1,100,15,1,1,1,100,10,1
+8885,Bonecraft Kit 55,1,1,100,15,1,1,1,100,10,1
+8889,Alchemy Kit 5,1,1,100,15,1,1,1,100,10,1
+8890,Alchemy Kit 10,1,1,100,15,1,1,1,100,10,1
+8891,Alchemy Kit 15,1,1,100,15,1,1,1,100,10,1
+8892,Alchemy Kit 20,1,1,100,15,1,1,1,100,10,1
+8893,Alchemy Kit 25,1,1,100,15,1,1,1,100,10,1
+8894,Alchemy Kit 30,1,1,100,15,1,1,1,100,10,1
+8895,Alchemy Kit 35,1,1,100,15,1,1,1,100,10,1
+8896,Alchemy Kit 40,1,1,100,15,1,1,1,100,10,1
+8897,Alchemy Kit 45,1,1,100,15,1,1,1,100,10,1
+8898,Alchemy Kit 50,1,1,100,15,1,1,1,100,10,1
+8899,Alchemy Kit 55,1,1,100,15,1,1,1,100,10,1
+8903,Cooking Kit 5,1,1,100,15,1,1,1,100,10,1
+8904,Cooking Kit 10,1,1,100,15,1,1,1,100,10,1
+8905,Cooking Kit 15,1,1,100,15,1,1,1,100,10,1
+8906,Cooking Kit 20,1,1,100,15,1,1,1,100,10,1
+8907,Cooking Kit 25,1,1,100,15,1,1,1,100,10,1
+8908,Cooking Kit 30,1,1,100,15,1,1,1,100,10,1
+8909,Cooking Kit 35,1,1,100,15,1,1,1,100,10,1
+8910,Cooking Kit 40,1,1,100,15,1,1,1,100,10,1
+8911,Cooking Kit 45,1,1,100,15,1,1,1,100,10,1
+8912,Cooking Kit 50,1,1,100,15,1,1,1,100,10,1
+8913,Cooking Kit 55,1,1,100,15,1,1,1,100,10,1
+8917,Queen Of The Night,1,1,100,15,1,1,1,100,10,1
+8918,Pinch Of Soot,1,1,100,15,1,1,1,100,10,1
+8919,Ifritear,1,1,100,15,1,1,1,100,10,1
+8920,Leviatear,1,1,100,15,1,1,1,100,10,1
+8921,Ramutear,1,1,100,15,1,1,1,100,10,1
+8922,Garutear,1,1,100,15,1,1,1,100,10,1
+8923,Titatear,1,1,100,15,1,1,1,100,10,1
+8924,Shivatear,1,1,100,15,1,1,1,100,10,1
+8925,Carbutear,1,1,100,15,1,1,1,100,10,1
+8926,Fenritear,1,1,100,15,1,1,1,100,10,1
+8927,Handful Of Abrasion Bolt Heads,1,1,100,15,1,1,1,100,10,1
+8928,Handful Of Righteous Bolt Heads,1,1,100,15,1,1,1,100,10,1
+8966,Eudaemon Blade,1,1,100,15,1,1,1,100,10,1
+8967,Eudaemon Cape,1,1,100,15,1,1,1,100,10,1
+8968,Eudaemon Ring,1,1,100,15,1,1,1,100,10,1
+8969,Eudaemon Sash,1,1,100,15,1,1,1,100,10,1
+8970,Eudaemon Shield,1,1,100,15,1,1,1,100,10,1
+8971,Onz Of Miracle Mulch,1,1,100,15,1,1,1,100,10,1
+8995,Cracked Matamata Shell,1,1,100,15,1,1,1,100,10,1
+9000,Clump Of Florid Leaf Mold,1,1,100,15,1,1,1,100,10,1
+9001,Vial Of Rockoil,1,1,100,15,1,1,1,100,10,1
+9002,Vial Of Plovid Effluvium,1,1,100,15,1,1,1,100,10,1
+9003,Chunk Of Plovid Flesh,1,1,100,15,1,1,1,100,10,1
+9004,Macuil Plating,1,1,100,15,1,1,1,100,10,1
+9005,Macuil Horn,1,1,100,15,1,1,1,100,10,1
+9006,Defiant Scarf,1,1,100,15,1,1,1,100,10,1
+9007,Vial Of Defiant Sweat,1,1,100,15,1,1,1,100,10,1
+9008,Vial Of Befouled Water,1,1,100,15,1,1,1,100,10,1
+9049,Refractive Crystal,1,1,100,15,1,1,1,100,10,1
+9052,Golden Coil,1,1,100,15,1,1,1,100,10,1
+9053,Platinum Gear,1,1,100,15,1,1,1,100,10,1
+9060,Stick Of Ethereal Incense,1,1,100,15,1,1,1,100,10,1
+9062,Chunk Of Dark Matter,1,1,100,15,1,1,1,100,10,1
+9063,Tartarian Soul,1,1,100,15,1,1,1,100,10,1
+9064,Tartarian Chain,1,1,100,15,1,1,1,100,10,1
+9075,Chunk Of Vulcanite Ore,1,1,100,15,1,1,1,100,10,1
+9076,Gravewood Log,1,1,100,15,1,1,1,100,10,1
+9077,Duskcrawler,1,1,100,15,1,1,1,100,10,1
+9078,Tuft Of Ashweed,1,1,100,15,1,1,1,100,10,1
+9082,Clump Of Bee Pollen,1,1,100,15,1,1,1,100,10,1
+9083,Mandragora Dewdrop,1,1,100,15,1,1,1,100,10,1
+9084,Eschalixir,1,1,100,15,1,1,1,100,10,1
+9085,Eschalixir +1,1,1,100,15,1,1,1,100,10,1
+9086,Eschalixir +2,1,1,100,15,1,1,1,100,10,1
+9145,Orichalcum Gearbox,1,1,100,15,1,1,1,100,10,1
+9146,Ashen Crayfish,1,1,100,15,1,1,1,100,10,1
+9147,Porxie Wing,1,1,100,15,1,1,1,100,10,1
+9172,Bag Of Porxie Fletchings,1,1,100,15,1,1,1,100,10,1
+9193,Jar Of Miso,1,1,100,15,1,1,1,100,10,1
+9194,Bottle Of Soy Sauce,1,1,100,15,1,1,1,100,10,1
+9195,Handful Of Dried Bonito,1,1,100,15,1,1,1,100,10,1
+9196,Container Of Ramen Noodles,1,1,100,15,1,1,1,100,10,1
+9197,Bowl Of Soy Sauce-based Ramen Soup,1,1,100,15,1,1,1,100,10,1
+9198,Bowl Of Miso-based Ramen Soup,1,1,100,15,1,1,1,100,10,1
+9199,Bowl Of Salt-based Ramen Soup,1,1,100,15,1,1,1,100,10,1
 9200,Dollop Of Wasabi,1,1,100,15,1,1,1,100,10,1
+9201,Handful Of Bamboo Shoots,1,1,100,15,1,1,1,100,10,1
+9214,Void Crystal,1,1,100,15,1,1,1,100,10,1
+9215,Tuft Of Void Grass,1,1,100,15,1,1,1,100,10,1
+9216,Voidsnapper,1,1,100,15,1,1,1,100,10,1
+9232,Tropical Cactus,1,1,100,15,1,1,1,100,10,1
+9245,Cypress Log,1,1,100,15,1,1,1,100,10,1
+9246,Piece Of Cypress Lumber,1,1,100,15,1,1,1,100,10,1
+9247,Chunk Of Niobium Ore,1,1,100,15,1,1,1,100,10,1
+9248,Niobium Ingot,1,1,100,15,1,1,1,100,10,1
+9249,Chunk Of Ruthenium Ore,1,1,100,15,1,1,1,100,10,1
+9250,Ruthenium Ingot,1,1,100,15,1,1,1,100,10,1
+9251,Spool Of Khoma Thread,1,1,100,15,1,1,1,100,10,1
+9252,Bolt Of Khoma Cloth,1,1,100,15,1,1,1,100,10,1
+9253,Square Of Synthetic Faulpie Leather,1,1,100,15,1,1,1,100,10,1
+9254,Square Of Faulpie Leather,1,1,100,15,1,1,1,100,10,1
+9255,Fragment Of Cyan Coral,1,1,100,15,1,1,1,100,10,1
+9256,Cyan Orb,1,1,100,15,1,1,1,100,10,1
+9257,Azure Leaf,1,1,100,15,1,1,1,100,10,1
+9258,Azure Cermet,1,1,100,15,1,1,1,100,10,1
+9259,Chunk Of Pagodite,1,1,100,15,1,1,1,100,10,1
 10148,Cipher Of Gilgamesh's Alter Ego,1,1,100,15,1,1,1,100,10,1
+10240,Hexed Haubert,1,1,100,15,1,1,1,100,10,1
+10241,Hexed Domaru,1,1,100,15,1,1,1,100,10,1
+10242,Hexed Jacket,1,1,100,15,1,1,1,100,10,1
+10243,Hexed Doublet,1,1,100,15,1,1,1,100,10,1
+10244,Hexed Bliaut,1,1,100,15,1,1,1,100,10,1
+10245,Hexed Haubert -1,1,1,100,15,1,1,1,100,10,1
+10246,Hexed Domaru -1,1,1,100,15,1,1,1,100,10,1
+10247,Hexed Jacket -1,1,1,100,15,1,1,1,100,10,1
+10248,Hexed Doublet -1,1,1,100,15,1,1,1,100,10,1
+10249,Hexed Bliaut -1,1,1,100,15,1,1,1,100,10,1
+10272,Dux Scale Mail,1,1,100,15,1,1,1,100,10,1
+10273,Dux Scale Mail +1,1,1,100,15,1,1,1,100,10,1
+10274,Chelona Blazer,1,1,100,15,1,1,1,100,10,1
+10275,Chelona Blazer +1,1,1,100,15,1,1,1,100,10,1
+10297,Sortiarius Earring,1,1,100,15,1,1,1,100,10,1
+10303,Hexed Gauntlets,1,1,100,15,1,1,1,100,10,1
+10304,Hexed Tekko,1,1,100,15,1,1,1,100,10,1
+10305,Hexed Wristbands,1,1,100,15,1,1,1,100,10,1
+10306,Hexed Gages,1,1,100,15,1,1,1,100,10,1
+10307,Hexed Cuffs,1,1,100,15,1,1,1,100,10,1
+10308,Hexed Gauntlets -1,1,1,100,15,1,1,1,100,10,1
+10309,Hexed Tekko -1,1,1,100,15,1,1,1,100,10,1
+10310,Hexed Wristbands -1,1,1,100,15,1,1,1,100,10,1
+10311,Hexed Gages -1,1,1,100,15,1,1,1,100,10,1
+10312,Hexed Cuffs -1,1,1,100,15,1,1,1,100,10,1
+10316,Dux Finger Gauntlets,1,1,100,15,1,1,1,100,10,1
+10317,Dux Finger Gauntlets +1,1,1,100,15,1,1,1,100,10,1
+10318,Chelona Gloves,1,1,100,15,1,1,1,100,10,1
+10319,Chelona Gloves +1,1,1,100,15,1,1,1,100,10,1
+10346,Dux Cuisses,1,1,100,15,1,1,1,100,10,1
+10347,Dux Cuisses +1,1,1,100,15,1,1,1,100,10,1
+10348,Chelona Trousers,1,1,100,15,1,1,1,100,10,1
+10349,Chelona Trousers +1,1,1,100,15,1,1,1,100,10,1
+10353,Hexed Gambieras,1,1,100,15,1,1,1,100,10,1
+10354,Hexed Sune-ate,1,1,100,15,1,1,1,100,10,1
+10355,Hexed Gamashes,1,1,100,15,1,1,1,100,10,1
+10356,Hexed Nails,1,1,100,15,1,1,1,100,10,1
+10357,Hexed Boots,1,1,100,15,1,1,1,100,10,1
+10358,Hexed Gambieras -1,1,1,100,15,1,1,1,100,10,1
+10359,Hexed Sune-ate -1,1,1,100,15,1,1,1,100,10,1
+10360,Hexed Gamashes -1,1,1,100,15,1,1,1,100,10,1
+10361,Hexed Nails -1,1,1,100,15,1,1,1,100,10,1
+10362,Hexed Boots -1,1,1,100,15,1,1,1,100,10,1
+10363,Dux Greaves,1,1,100,15,1,1,1,100,10,1
+10364,Dux Greaves +1,1,1,100,15,1,1,1,100,10,1
+10365,Chelona Boots,1,1,100,15,1,1,1,100,10,1
+10366,Chelona Boots +1,1,1,100,15,1,1,1,100,10,1
+10392,Malison Medallion,1,1,100,15,1,1,1,100,10,1
+10393,Debilis Medallion,1,1,100,15,1,1,1,100,10,1
+10410,Ugol Salade,1,1,100,15,1,1,1,100,10,1
+10411,Mavros Salade,1,1,100,15,1,1,1,100,10,1
+10412,Urja Helm,1,1,100,15,1,1,1,100,10,1
+10413,Sthira Helm,1,1,100,15,1,1,1,100,10,1
+10414,Spolia Chapeau,1,1,100,15,1,1,1,100,10,1
+10415,Opima Chapeau,1,1,100,15,1,1,1,100,10,1
+10419,Hexed Coronet,1,1,100,15,1,1,1,100,10,1
+10420,Hexed Somen,1,1,100,15,1,1,1,100,10,1
+10421,Hexed Bonnet,1,1,100,15,1,1,1,100,10,1
+10422,Hexed Coif,1,1,100,15,1,1,1,100,10,1
+10423,Hexed Mitra,1,1,100,15,1,1,1,100,10,1
+10424,Hexed Coronet -1,1,1,100,15,1,1,1,100,10,1
+10425,Hexed Somen -1,1,1,100,15,1,1,1,100,10,1
+10426,Hexed Bonnet -1,1,1,100,15,1,1,1,100,10,1
+10427,Hexed Coif -1,1,1,100,15,1,1,1,100,10,1
+10428,Hexed Mitra -1,1,1,100,15,1,1,1,100,10,1
 10434,Dux Visor,1,1,100,15,1,1,1,100,10,1
 10435,Dux Visor+1,1,1,100,15,1,1,1,100,10,1
 10436,Chelona Hat,1,1,100,15,1,1,1,100,10,1
@@ -11521,14 +12379,55 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10459,Kacura Harness +1,1,1,100,15,1,1,1,100,10,1
 10460,Sweven Coat,1,1,100,15,1,1,1,100,10,1
 10461,Sweven Coat +1,1,1,100,15,1,1,1,100,10,1
+10462,Calma Breastplate,1,1,100,15,1,1,1,100,10,1
+10463,Mustela Harness,1,1,100,15,1,1,1,100,10,1
+10464,Magavan Frock,1,1,100,15,1,1,1,100,10,1
+10465,Fulad-zereh,1,1,100,15,1,1,1,100,10,1
+10466,Gunman Gambison,1,1,100,15,1,1,1,100,10,1
+10467,Pharmakeia Robe,1,1,100,15,1,1,1,100,10,1
+10494,Ugol Haubert,1,1,100,15,1,1,1,100,10,1
+10495,Mavros Haubert,1,1,100,15,1,1,1,100,10,1
+10496,Urja Jerkin,1,1,100,15,1,1,1,100,10,1
+10497,Sthira Jerkin,1,1,100,15,1,1,1,100,10,1
+10498,Spolia Saio,1,1,100,15,1,1,1,100,10,1
+10499,Opima Saio,1,1,100,15,1,1,1,100,10,1
 10503,Brego Gloves,1,1,100,15,1,1,1,100,10,1
 10504,Iuvenalis Mittens,1,1,100,15,1,1,1,100,10,1
+10505,Nomkahpa Mittens,1,1,100,15,1,1,1,100,10,1
 10506,Avant Gauntlets,1,1,100,15,1,1,1,100,10,1
 10507,Avant Gauntlets +1,1,1,100,15,1,1,1,100,10,1
 10508,Kacura Mittens,1,1,100,15,1,1,1,100,10,1
 10509,Kacura Mittens +1,1,1,100,15,1,1,1,100,10,1
 10510,Sweven Mitts,1,1,100,15,1,1,1,100,10,1
 10511,Sweven Mitts +1,1,1,100,15,1,1,1,100,10,1
+10512,Calma Gauntlets,1,1,100,15,1,1,1,100,10,1
+10513,Mustela Gloves,1,1,100,15,1,1,1,100,10,1
+10514,Magavan Mitts,1,1,100,15,1,1,1,100,10,1
+10515,Miodio Gloves,1,1,100,15,1,1,1,100,10,1
+10516,Antias Mitts,1,1,100,15,1,1,1,100,10,1
+10517,Repartie Gloves,1,1,100,15,1,1,1,100,10,1
+10544,Ugol Moufles,1,1,100,15,1,1,1,100,10,1
+10545,Mavros Moufles,1,1,100,15,1,1,1,100,10,1
+10546,Urja Gloves,1,1,100,15,1,1,1,100,10,1
+10547,Sthira Gloves,1,1,100,15,1,1,1,100,10,1
+10548,Spolia Cuffs,1,1,100,15,1,1,1,100,10,1
+10549,Opima Cuffs,1,1,100,15,1,1,1,100,10,1
+10575,Ugol Brayettes,1,1,100,15,1,1,1,100,10,1
+10576,Mavros Brayettes,1,1,100,15,1,1,1,100,10,1
+10577,Urja Trousers,1,1,100,15,1,1,1,100,10,1
+10578,Sthira Trousers,1,1,100,15,1,1,1,100,10,1
+10579,Spolia Trews,1,1,100,15,1,1,1,100,10,1
+10580,Opima Trews,1,1,100,15,1,1,1,100,10,1
+10583,Hexed Hose,1,1,100,15,1,1,1,100,10,1
+10584,Hexed Hakama,1,1,100,15,1,1,1,100,10,1
+10585,Hexed Kecks,1,1,100,15,1,1,1,100,10,1
+10586,Hexed Slops,1,1,100,15,1,1,1,100,10,1
+10587,Hexed Tights,1,1,100,15,1,1,1,100,10,1
+10588,Hexed Hose -1,1,1,100,15,1,1,1,100,10,1
+10589,Hexed Hakama -1,1,1,100,15,1,1,1,100,10,1
+10590,Hexed Kecks -1,1,1,100,15,1,1,1,100,10,1
+10591,Hexed Slops -1,1,1,100,15,1,1,1,100,10,1
+10592,Hexed Tights -1,1,1,100,15,1,1,1,100,10,1
 10603,Scopuli Nails,1,1,100,15,1,1,1,100,10,1
 10604,Avant Leggings,1,1,100,15,1,1,1,100,10,1
 10605,Avant Leggings +1,1,1,100,15,1,1,1,100,10,1
@@ -11536,6 +12435,16 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10607,Kacura Leggings +1,1,1,100,15,1,1,1,100,10,1
 10608,Sweven Boots,1,1,100,15,1,1,1,100,10,1
 10609,Sweven Boots +1,1,1,100,15,1,1,1,100,10,1
+10610,Calma Leggings,1,1,100,15,1,1,1,100,10,1
+10611,Mustela Boots,1,1,100,15,1,1,1,100,10,1
+10612,Magavan Clogs,1,1,100,15,1,1,1,100,10,1
+10614,Wrathwing Nails,1,1,100,15,1,1,1,100,10,1
+10643,Urja Ledelsens,1,1,100,15,1,1,1,100,10,1
+10644,Sthira Ledelsens,1,1,100,15,1,1,1,100,10,1
+10645,Spolia Pigaches,1,1,100,15,1,1,1,100,10,1
+10646,Opima Pigaches,1,1,100,15,1,1,1,100,10,1
+10647,Areion Boots,1,1,100,15,1,1,1,100,10,1
+10648,Areion Boots +1,1,1,100,15,1,1,1,100,10,1
 10750,Tyrant's Ring,1,1,100,15,1,1,1,100,10,1
 10751,Valseur's Ring,1,1,100,15,1,1,1,100,10,1
 10752,Prolix Ring,1,1,100,15,1,1,1,100,10,1
@@ -11545,6 +12454,23 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10764,Sheltered Ring,1,1,100,15,1,1,1,100,10,1
 10765,Arvina Ringlet,1,1,100,15,1,1,1,100,10,1
 10766,Lunette Ring,1,1,100,15,1,1,1,100,10,1
+10775,Gaiardas Ring,1,1,100,15,1,1,1,100,10,1
+10776,Gaubious Ring,1,1,100,15,1,1,1,100,10,1
+10777,Caloussu Ring,1,1,100,15,1,1,1,100,10,1
+10778,Nanger Ring,1,1,100,15,1,1,1,100,10,1
+10779,Sophia Ring,1,1,100,15,1,1,1,100,10,1
+10780,Quies Ring,1,1,100,15,1,1,1,100,10,1
+10781,Cynosure Ring,1,1,100,15,1,1,1,100,10,1
+10782,Ambuscade Ring,1,1,100,15,1,1,1,100,10,1
+10783,Veneficium Ring,1,1,100,15,1,1,1,100,10,1
+10784,Dhanurveda Ring,1,1,100,15,1,1,1,100,10,1
+10785,Provocare Ring,1,1,100,15,1,1,1,100,10,1
+10787,Asklepian Ring,1,1,100,15,1,1,1,100,10,1
+10788,Maquette Ring,1,1,100,15,1,1,1,100,10,1
+10790,Ephedra Ring,1,1,100,15,1,1,1,100,10,1
+10792,Saida Ring,1,1,100,15,1,1,1,100,10,1
+10797,Dagaz Ring,1,1,100,15,1,1,1,100,10,1
+10798,Eihwaz Ring,1,1,100,15,1,1,1,100,10,1
 10800,Castellan's Shield,1,1,100,15,1,1,1,100,10,1
 10801,Psychist Shield,1,1,100,15,1,1,1,100,10,1
 10802,Majorelle Shield,1,1,100,15,1,1,1,100,10,1
@@ -11565,6 +12491,18 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10828,Windbuffet Belt,1,1,100,15,1,1,1,100,10,1
 10829,Artful Belt,1,1,100,15,1,1,1,100,10,1
 10830,Artful Belt +1,1,1,100,15,1,1,1,100,10,1
+10831,Paewr Belt,1,1,100,15,1,1,1,100,10,1
+10835,Slipor Sash,1,1,100,15,1,1,1,100,10,1
+10836,Phos Belt,1,1,100,15,1,1,1,100,10,1
+10837,Phos Belt +1,1,1,100,15,1,1,1,100,10,1
+10838,Patentia Sash,1,1,100,15,1,1,1,100,10,1
+10839,Othila Sash,1,1,100,15,1,1,1,100,10,1
+10847,Orc Belt,1,1,100,15,1,1,1,100,10,1
+10848,Quadav Belt,1,1,100,15,1,1,1,100,10,1
+10849,Yagudo Belt,1,1,100,15,1,1,1,100,10,1
+10850,Leech Belt,1,1,100,15,1,1,1,100,10,1
+10851,Slime Belt,1,1,100,15,1,1,1,100,10,1
+10852,Hecteyes Belt,1,1,100,15,1,1,1,100,10,1
 10864,Ocelo,1,1,100,15,1,1,1,100,10,1
 10865,Nefer Khat,1,1,100,15,1,1,1,100,10,1
 10866,Mekira oto,1,1,100,15,1,1,1,100,10,1
@@ -11613,6 +12551,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10947,Saevus Pendant,1,1,100,15,1,1,1,100,10,1
 10957,Stoicheion Medal,1,1,100,15,1,1,1,100,10,1
 10958,Nefarious Collar,1,1,100,15,1,1,1,100,10,1
+10961,Lavalier,1,1,100,15,1,1,1,100,10,1
+10962,Lavalier +1,1,1,100,15,1,1,1,100,10,1
 10964,Eloquence Cape,1,1,100,15,1,1,1,100,10,1
 10965,Eloquence Cape +1,1,1,100,15,1,1,1,100,10,1
 10966,Aisance Mantle,1,1,100,15,1,1,1,100,10,1
@@ -11638,6 +12578,17 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10989,Tempered Cape,1,1,100,15,1,1,1,100,10,1
 10990,Engulfer Cape,1,1,100,15,1,1,1,100,10,1
 10991,Rancorous Mantle,1,1,100,15,1,1,1,100,10,1
+10993,Drachenblut Cape,1,1,100,15,1,1,1,100,10,1
+10994,Chuparrosa Mantle,1,1,100,15,1,1,1,100,10,1
+10995,Zaffre Cape,1,1,100,15,1,1,1,100,10,1
+10996,Testudo Mantle,1,1,100,15,1,1,1,100,10,1
+10997,Testudo Mantle +1,1,1,100,15,1,1,1,100,10,1
+10999,Dauntless Mantle,1,1,100,15,1,1,1,100,10,1
+11000,Swith Cape,1,1,100,15,1,1,1,100,10,1
+11001,Swith Cape +1,1,1,100,15,1,1,1,100,10,1
+11002,Dragon Tank,1,1,100,15,1,1,1,100,10,1
+11003,Prodigious Mantle,1,1,100,15,1,1,1,100,10,1
+11004,Algidus Cape,1,1,100,15,1,1,1,100,10,1
 11014,Flame Pearl,1,1,100,15,1,1,1,100,10,1
 11015,Snow Pearl,1,1,100,15,1,1,1,100,10,1
 11016,Breeze Pearl,1,1,100,15,1,1,1,100,10,1
@@ -11661,7 +12612,23 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 11037,Earthcry Earring,1,1,100,15,1,1,1,100,10,1
 11038,Dragonkin Earring,1,1,100,15,1,1,1,100,10,1
 11039,Brachyura Earring,1,1,100,15,1,1,1,100,10,1
+11042,Rebel Earring,1,1,100,15,1,1,1,100,10,1
 11043,Giant's Earring,1,1,100,15,1,1,1,100,10,1
+11044,Corybant Pearl,1,1,100,15,1,1,1,100,10,1
+11045,Saviesa Pearl,1,1,100,15,1,1,1,100,10,1
+11046,Ouesk Pearl,1,1,100,15,1,1,1,100,10,1
+11047,Belatz Pearl,1,1,100,15,1,1,1,100,10,1
+11048,Cytherea Pearl,1,1,100,15,1,1,1,100,10,1
+11049,Myrddin Pearl,1,1,100,15,1,1,1,100,10,1
+11050,Puissant Pearl,1,1,100,15,1,1,1,100,10,1
+11051,Hearty Earring,1,1,100,15,1,1,1,100,10,1
+11055,Aredan Earring,1,1,100,15,1,1,1,100,10,1
+11056,Ghillie Earring,1,1,100,15,1,1,1,100,10,1
+11057,Ghillie Earring +1,1,1,100,15,1,1,1,100,10,1
+11058,Hajduk Ring,1,1,100,15,1,1,1,100,10,1
+11059,Hajduk Ring +1,1,1,100,15,1,1,1,100,10,1
+11060,Evader Earring,1,1,100,15,1,1,1,100,10,1
+11061,Evader Earring +1,1,1,100,15,1,1,1,100,10,1
 11285,Mrgn,1,1,100,15,1,1,1,100,10,1
 11286,Avalon Breastplate,1,1,100,15,1,1,1,100,10,1
 11287,Antares Harness,1,1,100,15,1,1,1,100,10,1
@@ -11823,9 +12790,11 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 11676,Flock Ring,1,1,100,15,1,1,1,100,10,1
 11678,Flame Earring,1,1,100,15,1,1,1,100,10,1
 11679,Thunder Earring,1,1,100,15,1,1,1,100,10,1
+11680,Soil Earring,1,1,100,15,1,1,1,100,10,1
 11681,Breeze Earring,1,1,100,15,1,1,1,100,10,1
 11682,Snow Earring,1,1,100,15,1,1,1,100,10,1
 11683,Aqua Earring,1,1,100,15,1,1,1,100,10,1
+11684,Light Earring,1,1,100,15,1,1,1,100,10,1
 11685,Darkness Earring,1,1,100,15,1,1,1,100,10,1
 11686,Vulcan's Earring,1,1,100,15,1,1,1,100,10,1
 11687,Jupiter's Earring,1,1,100,15,1,1,1,100,10,1
@@ -11974,6 +12943,12 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 11977,Kacura Subligar +1,1,1,100,15,1,1,1,100,10,1
 11978,Sweven Slacks,1,1,100,15,1,1,1,100,10,1
 11979,Sweven Slacks +1,1,1,100,15,1,1,1,100,10,1
+11980,Calma Hose,1,1,100,15,1,1,1,100,10,1
+11981,Mustela Brais,1,1,100,15,1,1,1,100,10,1
+11982,Magavan Slops,1,1,100,15,1,1,1,100,10,1
+11983,Triplus Subligar,1,1,100,15,1,1,1,100,10,1
+11984,Induro Cuisses,1,1,100,15,1,1,1,100,10,1
+11985,Tussle Breeches,1,1,100,15,1,1,1,100,10,1
 12117,Ebon Armet,1,1,100,15,1,1,1,100,10,1
 12120,Ebon Mask,1,1,100,15,1,1,1,100,10,1
 12141,Ebon Beret,1,1,100,15,1,1,1,100,10,1
@@ -12649,6 +13624,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 13051,Coarse Leggings,1,1,100,15,1,1,1,100,10,1
 13052,Light Soleas,1,1,100,15,1,1,1,100,10,1
 13054,Fuma Kyahan,1,1,100,15,1,1,1,100,10,1
+13055,Spirit Moccasins,1,1,100,15,1,1,1,100,10,1
 13056,Peacock Charm,1,1,100,15,1,1,1,100,10,1
 13057,Buburimu Gorget,1,1,100,15,1,1,1,100,10,1
 13058,Bloodbead Amulet,1,1,100,15,1,1,1,100,10,1
@@ -12669,6 +13645,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 13073,Holy Phial,1,1,100,15,1,1,1,100,10,1
 13075,Feather Collar,1,1,100,15,1,1,1,100,10,1
 13076,Fang Necklace,1,1,100,15,1,1,1,100,10,1
+13077,Star Pendant,1,1,100,15,1,1,1,100,10,1
 13079,Darksteel Gorget,1,1,100,15,1,1,1,100,10,1
 13080,Gorget,1,1,100,15,1,1,1,100,10,1
 13081,Leather Gorget,1,1,100,15,1,1,1,100,10,1
@@ -12761,6 +13738,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 13182,Oscar Scarf,1,1,100,15,1,1,1,100,10,1
 13184,White Belt,1,1,100,15,1,1,1,100,10,1
 13185,Muscle Belt,1,1,100,15,1,1,1,100,10,1
+13187,Tiger Belt,1,1,100,15,1,1,1,100,10,1
 13188,Star Sash,1,1,100,15,1,1,1,100,10,1
 13189,Speed Belt,1,1,100,15,1,1,1,100,10,1
 13190,Heko Obi +1,1,1,100,15,1,1,1,100,10,1
@@ -12953,7 +13931,9 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 13391,Genius Earring,1,1,100,15,1,1,1,100,10,1
 13392,Grace Earring,1,1,100,15,1,1,1,100,10,1
 13393,Serenity Earring,1,1,100,15,1,1,1,100,10,1
+13394,Vigor Earring,1,1,100,15,1,1,1,100,10,1
 13395,Mana Earring,1,1,100,15,1,1,1,100,10,1
+13396,Allure Earring,1,1,100,15,1,1,1,100,10,1
 13397,Ptm,1,1,100,15,1,1,1,100,10,1
 13398,Physical Earring,1,1,100,15,1,1,1,100,10,1
 13400,Bitter Earring,1,1,100,15,1,1,1,100,10,1
@@ -13145,6 +14125,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 13611,Red Cape +1,1,1,100,15,1,1,1,100,10,1
 13612,Dino Mantle,1,1,100,15,1,1,1,100,10,1
 13613,Traveler's Mantle,1,1,100,15,1,1,1,100,10,1
+13614,Bonze Cape,1,1,100,15,1,1,1,100,10,1
 13615,Sentinel's Mantle,1,1,100,15,1,1,1,100,10,1
 13616,Dodge Cape,1,1,100,15,1,1,1,100,10,1
 13617,Lightning Mantle,1,1,100,15,1,1,1,100,10,1
@@ -13889,6 +14870,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 14649,Telluric Ring,1,1,100,15,1,1,1,100,10,1
 14650,Marksman's Ring,1,1,100,15,1,1,1,100,10,1
 14651,Mana Ring,1,1,100,15,1,1,1,100,10,1
+14652,Protean Ring,1,1,100,15,1,1,1,100,10,1
+14653,Variable Ring,1,1,100,15,1,1,1,100,10,1
 14654,Poisona Ring,1,1,100,15,1,1,1,100,10,1
 14655,Venerer Ring,1,1,100,15,1,1,1,100,10,1
 14656,Poseidon's Ring,1,1,100,15,1,1,1,100,10,1
@@ -13987,6 +14970,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 14781,Wind Earring,1,1,100,15,1,1,1,100,10,1
 14782,Astral Earring,1,1,100,15,1,1,1,100,10,1
 14783,Vampire Earring,1,1,100,15,1,1,1,100,10,1
+14784,Sangha Earring,1,1,100,15,1,1,1,100,10,1
 14790,Reraise Earring,1,1,100,15,1,1,1,100,10,1
 14804,Harvest Earring,1,1,100,15,1,1,1,100,10,1
 14805,Heims Earring,1,1,100,15,1,1,1,100,10,1
@@ -14420,6 +15404,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 15923,Grenadier Belt,1,1,100,15,1,1,1,100,10,1
 15924,Demagogue's Sash,1,1,100,15,1,1,1,100,10,1
 15933,Stirge Belt,1,1,100,15,1,1,1,100,10,1
+15937,Fettle Belt,1,1,100,15,1,1,1,100,10,1
+15938,Esprit Belt,1,1,100,15,1,1,1,100,10,1
 15939,Griot Belt,1,1,100,15,1,1,1,100,10,1
 15941,Headlong Belt,1,1,100,15,1,1,1,100,10,1
 15945,Volant Belt,1,1,100,15,1,1,1,100,10,1
@@ -14446,6 +15432,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 15997,L,1,1,100,15,1,1,1,100,10,1
 16001,Crapaud Earring,1,1,100,15,1,1,1,100,10,1
 16002,Roundel Earring,1,1,100,15,1,1,1,100,10,1
+16008,Aptus Earring,1,1,100,15,1,1,1,100,10,1
 16009,Pennon Earring,1,1,100,15,1,1,1,100,10,1
 16010,Pennon Earring +1,1,1,100,15,1,1,1,100,10,1
 16014,Stormer Earring,1,1,100,15,1,1,1,100,10,1
@@ -14549,6 +15536,11 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 16246,Viator Cape,1,1,100,15,1,1,1,100,10,1
 16247,Caloyer Cape,1,1,100,15,1,1,1,100,10,1
 16249,Elixir Tank,1,1,100,15,1,1,1,100,10,1
+16252,Resilient Mantle,1,1,100,15,1,1,1,100,10,1
+16253,Chiffon Cape,1,1,100,15,1,1,1,100,10,1
+16254,Altius Mantle,1,1,100,15,1,1,1,100,10,1
+16255,Cortege Cape,1,1,100,15,1,1,1,100,10,1
+16256,Rugged Mantle,1,1,100,15,1,1,1,100,10,1
 16257,Ghost Cape,1,1,100,15,1,1,1,100,10,1
 16261,Mohbwa Scarf,1,1,100,15,1,1,1,100,10,1
 16262,Mohbwa Scarf +1,1,1,100,15,1,1,1,100,10,1
@@ -14562,6 +15554,12 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 16278,Piper's Torque,1,1,100,15,1,1,1,100,10,1
 16281,Buffoon's Collar,1,1,100,15,1,1,1,100,10,1
 16282,Bfn,1,1,100,15,1,1,1,100,10,1
+16286,Nitid Choker,1,1,100,15,1,1,1,100,10,1
+16287,Pneuma Collar,1,1,100,15,1,1,1,100,10,1
+16288,Aureate Necklace,1,1,100,15,1,1,1,100,10,1
+16289,Alloy Torque,1,1,100,15,1,1,1,100,10,1
+16290,Burly Gorget,1,1,100,15,1,1,1,100,10,1
+16295,Varius Torque,1,1,100,15,1,1,1,100,10,1
 16296,Armiger's Lace,1,1,100,15,1,1,1,100,10,1
 16301,Focus Collar,1,1,100,15,1,1,1,100,10,1
 16304,Focus Collar +1,1,1,100,15,1,1,1,100,10,1
@@ -14577,6 +15575,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 16355,Bedivere's Hose,1,1,100,15,1,1,1,100,10,1
 16365,Argent Hose,1,1,100,15,1,1,1,100,10,1
 16366,Platino Hose,1,1,100,15,1,1,1,100,10,1
+16372,Stearc Subligar,1,1,100,15,1,1,1,100,10,1
 16373,Kyoshu Sitabaki,1,1,100,15,1,1,1,100,10,1
 16377,Kyo,1,1,100,15,1,1,1,100,10,1
 16381,Tumbler Trunks,1,1,100,15,1,1,1,100,10,1
@@ -15140,6 +16139,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 17001,Giant Shell Bug,1,1,100,15,1,1,1,100,10,1
 17002,Robber Rig,1,1,100,15,1,1,1,100,10,1
 17003,Super Scoop,1,1,100,15,1,1,1,100,10,1
+17004,Judge Minnow,1,1,100,15,1,1,1,100,10,1
 17005,Lufaise Fly,1,1,100,15,1,1,1,100,10,1
 17014,Hume Fishing Rod,1,1,100,15,1,1,1,100,10,1
 17015,Halcyon Rod,1,1,100,15,1,1,1,100,10,1
@@ -15880,6 +16880,22 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 17903,Shadowy Broth,1,1,100,15,1,1,1,100,10,1
 17904,Briny Broth,1,1,100,15,1,1,1,100,10,1
 17905,Wormy Broth,1,1,100,15,1,1,1,100,10,1
+17906,Jug Of Auroral Broth,1,1,100,15,1,1,1,100,10,1
+17907,Jug Of Swirling Broth,1,1,100,15,1,1,1,100,10,1
+17908,Jug Of Shimmering Broth,1,1,100,15,1,1,1,100,10,1
+17909,Jug Of Spicy Broth,1,1,100,15,1,1,1,100,10,1
+17911,Jug Of Salubrious Broth,1,1,100,15,1,1,1,100,10,1
+17912,Jug Of Fizzy Broth,1,1,100,15,1,1,1,100,10,1
+17913,Jug Of Saline Broth,1,1,100,15,1,1,1,100,10,1
+17914,Jug Of Wispy Broth,1,1,100,15,1,1,1,100,10,1
+17915,Jug Of Viscous Broth,1,1,100,15,1,1,1,100,10,1
+17916,Jug Of Fermented Broth,1,1,100,15,1,1,1,100,10,1
+17917,Jug Of Bubbly Broth,1,1,100,15,1,1,1,100,10,1
+17918,Handful Of Windy Greens,1,1,100,15,1,1,1,100,10,1
+17919,Jug Of Tantalizing Broth,1,1,100,15,1,1,1,100,10,1
+17920,Jug Of Meaty Broth,1,1,100,15,1,1,1,100,10,1
+17921,Jug Of Muddy Broth,1,1,100,15,1,1,1,100,10,1
+17922,Jug Of Blackwater Broth,1,1,100,15,1,1,1,100,10,1
 17928,Juggernaut,1,1,100,15,1,1,1,100,10,1
 17929,Bastokan Axe,1,1,100,15,1,1,1,100,10,1
 17930,Republic Axe,1,1,100,15,1,1,1,100,10,1
@@ -16188,6 +17204,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18452,Rindomaru,1,1,100,15,1,1,1,100,10,1
 18462,Sasanuki,1,1,100,15,1,1,1,100,10,1
 18463,Sasanuki +1,1,1,100,15,1,1,1,100,10,1
+18472,Psilomene,1,1,100,15,1,1,1,100,10,1
 18481,Lucent Axe,1,1,100,15,1,1,1,100,10,1
 18482,Amood,1,1,100,15,1,1,1,100,10,1
 18483,Amood +1,1,1,100,15,1,1,1,100,10,1
@@ -16299,6 +17316,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18756,Cobra Baghnakhs,1,1,100,15,1,1,1,100,10,1
 18757,Gnole Sainti,1,1,100,15,1,1,1,100,10,1
 18758,Gnole Sainti +1,1,1,100,15,1,1,1,100,10,1
+18759,Shenlong's Baghnakhs,1,1,100,15,1,1,1,100,10,1
 18760,Useshi,1,1,100,15,1,1,1,100,10,1
 18761,Acantha Shavers,1,1,100,15,1,1,1,100,10,1
 18764,Oberon's Knuckles,1,1,100,15,1,1,1,100,10,1
@@ -16580,6 +17598,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 19778,Hasty Pinion,1,1,100,15,1,1,1,100,10,1
 19779,Potestas Bomblet,1,1,100,15,1,1,1,100,10,1
 19780,Mana Ampulla,1,1,100,15,1,1,1,100,10,1
+19783,Iga Shuriken,1,1,100,15,1,1,1,100,10,1
 19784,Lanner Bow,1,1,100,15,1,1,1,100,10,1
 19785,Lanner Bow +1,1,1,100,15,1,1,1,100,10,1
 19786,Nurigomeyumi,1,1,100,15,1,1,1,100,10,1
@@ -16593,6 +17612,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 19796,Rosschinder,1,1,100,15,1,1,1,100,10,1
 19797,Rosschinder +1,1,1,100,15,1,1,1,100,10,1
 19800,Gargouille Arrow,1,1,100,15,1,1,1,100,10,1
+19801,Adaman Bolt,1,1,100,15,1,1,1,100,10,1
 19802,Orichalc,1,1,100,15,1,1,1,100,10,1
 19803,Adaman Bullet,1,1,100,15,1,1,1,100,10,1
 19895,Daboya,1,1,100,15,1,1,1,100,10,1
@@ -16636,6 +17656,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 20774,Voay Sword +1,1,1,100,15,1,1,1,100,10,1
 20779,Senbaak Nagan,1,1,100,15,1,1,1,100,10,1
 20780,Senbaak Nagan +1,1,1,100,15,1,1,1,100,10,1
+20783,Uruz Blade,1,1,100,15,1,1,1,100,10,1
+20784,Uruz Blade +1,1,1,100,15,1,1,1,100,10,1
 20785,Thurisaz Blade,1,1,100,15,1,1,1,100,10,1
 20786,Thurisaz Blade +1,1,1,100,15,1,1,1,100,10,1
 20788,Hatzoaar Sword +1,1,1,100,15,1,1,1,100,10,1
@@ -16728,59 +17750,176 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 21290,Donderbuss +1,1,1,100,15,1,1,1,100,10,1
 21292,Bandeiras Gun,1,1,100,15,1,1,1,100,10,1
 21293,Bandeiras Gun +1,1,1,100,15,1,1,1,100,10,1
+21295,Beryllium Arrow,1,1,100,15,1,1,1,100,10,1
+21300,Divine Arrow,1,1,100,15,1,1,1,100,10,1
+21301,Porxie Arrow,1,1,100,15,1,1,1,100,10,1
+21304,Raaz Arrow,1,1,100,15,1,1,1,100,10,1
+21305,Tulfaire Arrow,1,1,100,15,1,1,1,100,10,1
+21308,Mantid Arrow,1,1,100,15,1,1,1,100,10,1
+21309,Chapuli Arrow,1,1,100,15,1,1,1,100,10,1
+21310,Raetic Arrow,1,1,100,15,1,1,1,100,10,1
+21312,Divine Bolt,1,1,100,15,1,1,1,100,10,1
+21313,Gashing Bolt,1,1,100,15,1,1,1,100,10,1
+21314,Abrasion Bolt,1,1,100,15,1,1,1,100,10,1
+21315,Righteous Bolt,1,1,100,15,1,1,1,100,10,1
+21318,Bismuth Bolt,1,1,100,15,1,1,1,100,10,1
+21319,Titanium Bolt,1,1,100,15,1,1,1,100,10,1
+21322,Damascus Bolt,1,1,100,15,1,1,1,100,10,1
+21323,Oxidant Bolt,1,1,100,15,1,1,1,100,10,1
+21324,Midrium Bolt,1,1,100,15,1,1,1,100,10,1
+21328,Divine Bullet,1,1,100,15,1,1,1,100,10,1
+21330,Decimating Bullet,1,1,100,15,1,1,1,100,10,1
+21333,Bismuth Bullet,1,1,100,15,1,1,1,100,10,1
+21335,Titanium Bullet,1,1,100,15,1,1,1,100,10,1
+21338,Damascus Bullet,1,1,100,15,1,1,1,100,10,1
+21339,Midrium Bullet,1,1,100,15,1,1,1,100,10,1
 21340,Halakaala,1,1,100,15,1,1,1,100,10,1
+21351,Roppo Shuriken,1,1,100,15,1,1,1,100,10,1
+21352,Roppo Shuriken +1,1,1,100,15,1,1,1,100,10,1
+21353,Happo Shuriken,1,1,100,15,1,1,1,100,10,1
+21354,Happo Shuriken +1,1,1,100,15,1,1,1,100,10,1
 21364,Elder's Grip +1,1,1,100,15,1,1,1,100,10,1
 21365,Dilettante's Grip +1,1,1,100,15,1,1,1,100,10,1
+21378,Yetshila,1,1,100,15,1,1,1,100,10,1
+21379,Yetshila +1,1,1,100,15,1,1,1,100,10,1
+21380,Vanir Battery,1,1,100,15,1,1,1,100,10,1
+21382,Dosis Tathlum,1,1,100,15,1,1,1,100,10,1
+21384,Kalboron Stone,1,1,100,15,1,1,1,100,10,1
+21385,Aqreaqa Bomblet,1,1,100,15,1,1,1,100,10,1
+21386,Jukukik Feather,1,1,100,15,1,1,1,100,10,1
+21392,Animator Z,1,1,100,15,1,1,1,100,10,1
+21393,Arasy Sachet,1,1,100,15,1,1,1,100,10,1
+21394,Sancus Sachet,1,1,100,15,1,1,1,100,10,1
+21395,Sancus Sachet +1,1,1,100,15,1,1,1,100,10,1
 21400,Blurred Harp,1,1,100,15,1,1,1,100,10,1
 21401,Blurred Harp +1,1,1,100,15,1,1,1,100,10,1
 21424,Zuuxowu Grip,1,1,100,15,1,1,1,100,10,1
 21426,Achaq Grip,1,1,100,15,1,1,1,100,10,1
+21438,Jug Of Poisonous Broth,1,1,100,15,1,1,1,100,10,1
+21439,Jug Of Venomous Broth,1,1,100,15,1,1,1,100,10,1
+21440,Jug Of Sugary Broth,1,1,100,15,1,1,1,100,10,1
+21441,Jug Of Glazed Broth,1,1,100,15,1,1,1,100,10,1
+21442,Sticky Webbing,1,1,100,15,1,1,1,100,10,1
+21443,Slimy Webbing,1,1,100,15,1,1,1,100,10,1
+21444,Jug Of Livid Broth,1,1,100,15,1,1,1,100,10,1
+21445,Jug Of Lyrical Broth,1,1,100,15,1,1,1,100,10,1
+21446,Jug Of Airy Broth,1,1,100,15,1,1,1,100,10,1
+21447,Handful Of Crumbly Soil,1,1,100,15,1,1,1,100,10,1
+21448,Jug Of Pale Sap,1,1,100,15,1,1,1,100,10,1
+21449,Jug Of Dire Broth,1,1,100,15,1,1,1,100,10,1
+21450,Jug Of Electrified Broth,1,1,100,15,1,1,1,100,10,1
+21451,Jug Of Bug-ridden Broth,1,1,100,15,1,1,1,100,10,1
+21456,Animator P,1,1,100,15,1,1,1,100,10,1
+21457,Animator P +1,1,1,100,15,1,1,1,100,10,1
+21458,Animator P II,1,1,100,15,1,1,1,100,10,1
+21459,Animator P II +1,1,1,100,15,1,1,1,100,10,1
 21463,Nepote Bell,1,1,100,15,1,1,1,100,10,1
 21478,Moros Crossbow +1,1,1,100,15,1,1,1,100,10,1
 21480,Blurred Crossbow,1,1,100,15,1,1,1,100,10,1
 21481,Blurred Crossbow +1,1,1,100,15,1,1,1,100,10,1
+21492,Jug Of Insipid Broth,1,1,100,15,1,1,1,100,10,1
+21493,Jug Of Deepwater Broth,1,1,100,15,1,1,1,100,10,1
+21494,Jug Of Wetlands Broth,1,1,100,15,1,1,1,100,10,1
+21495,Jug Of Heavenly Broth,1,1,100,15,1,1,1,100,10,1
+21496,Jug Of Furious Broth,1,1,100,15,1,1,1,100,10,1
+21497,Jug Of Rapid Broth,1,1,100,15,1,1,1,100,10,1
+21498,Jug Of Crackling Broth,1,1,100,15,1,1,1,100,10,1
+21499,Jug Of Creepy Broth,1,1,100,15,1,1,1,100,10,1
 21504,Arasy Sainti,1,1,100,15,1,1,1,100,10,1
 21505,Arasy Sainti +1,1,1,100,15,1,1,1,100,10,1
 21506,Jolt Counter,1,1,100,15,1,1,1,100,10,1
 21507,Jolt Counter +1,1,1,100,15,1,1,1,100,10,1
+21511,Hepatizon Baghnakhs,1,1,100,15,1,1,1,100,10,1
+21512,Hepatizon Baghnakhs +1,1,1,100,15,1,1,1,100,10,1
+21513,Pair Of Raetic Baghnakhs,1,1,100,15,1,1,1,100,10,1
+21514,Pair Of Raetic Baghnakhs +1,1,1,100,15,1,1,1,100,10,1
 21554,Arasy Knife,1,1,100,15,1,1,1,100,10,1
 21555,Arasy Knife +1,1,1,100,15,1,1,1,100,10,1
+21556,Beryllium Kris,1,1,100,15,1,1,1,100,10,1
+21557,Beryllium Kris +1,1,1,100,15,1,1,1,100,10,1
+21558,Rune Kris,1,1,100,15,1,1,1,100,10,1
+21559,Raetic Kris,1,1,100,15,1,1,1,100,10,1
+21560,Raetic Kris +1,1,1,100,15,1,1,1,100,10,1
 21604,Arasy Sword,1,1,100,15,1,1,1,100,10,1
 21605,Arasy Sword +1,1,1,100,15,1,1,1,100,10,1
 21606,Enriching Sword,1,1,100,15,1,1,1,100,10,1
 21607,Enriching Sword +1,1,1,100,15,1,1,1,100,10,1
+21610,Hepatizon Rapier,1,1,100,15,1,1,1,100,10,1
+21611,Hepatizon Rapier +1,1,1,100,15,1,1,1,100,10,1
+21612,Raetic Blade,1,1,100,15,1,1,1,100,10,1
+21613,Raetic Blade +1,1,1,100,15,1,1,1,100,10,1
+21614,Hepatizon Sapara,1,1,100,15,1,1,1,100,10,1
+21615,Hepatizon Sapara +1,1,1,100,15,1,1,1,100,10,1
 21654,Arasy Claymore,1,1,100,15,1,1,1,100,10,1
 21655,Arasy Claymore +1,1,1,100,15,1,1,1,100,10,1
 21656,Dyrnwyn,1,1,100,15,1,1,1,100,10,1
 21657,Dyrnwyn +1,1,1,100,15,1,1,1,100,10,1
+21659,Beryllium Sword,1,1,100,15,1,1,1,100,10,1
+21660,Beryllium Sword +1,1,1,100,15,1,1,1,100,10,1
+21661,Rune Algol,1,1,100,15,1,1,1,100,10,1
+21662,Raetic Algol,1,1,100,15,1,1,1,100,10,1
+21663,Raetic Algol +1,1,1,100,15,1,1,1,100,10,1
 21700,Blurred Claymore,1,1,100,15,1,1,1,100,10,1
 21701,Blurred Claymore +1,1,1,100,15,1,1,1,100,10,1
 21704,Arasy Tabar,1,1,100,15,1,1,1,100,10,1
 21705,Arasy Tabar +1,1,1,100,15,1,1,1,100,10,1
 21706,Barbarity,1,1,100,15,1,1,1,100,10,1
 21707,Barbarity +1,1,1,100,15,1,1,1,100,10,1
+21708,Beryllium Pick,1,1,100,15,1,1,1,100,10,1
+21709,Beryllium Pick +1,1,1,100,15,1,1,1,100,10,1
+21710,Raetic Axe,1,1,100,15,1,1,1,100,10,1
+21711,Raetic Axe +1,1,1,100,15,1,1,1,100,10,1
 21762,Arasy Axe,1,1,100,15,1,1,1,100,10,1
 21763,Arasy Axe +1,1,1,100,15,1,1,1,100,10,1
+21765,Hepatizon Axe,1,1,100,15,1,1,1,100,10,1
+21766,Hepatizon Axe +1,1,1,100,15,1,1,1,100,10,1
+21767,Raetic Chopper,1,1,100,15,1,1,1,100,10,1
+21768,Raetic Chopper +1,1,1,100,15,1,1,1,100,10,1
 21812,Arasy Scythe,1,1,100,15,1,1,1,100,10,1
 21813,Arasy Scythe +1,1,1,100,15,1,1,1,100,10,1
+21815,Maliya Sickle,1,1,100,15,1,1,1,100,10,1
+21816,Maliya Sickle +1,1,1,100,15,1,1,1,100,10,1
+21817,Rune Scythe,1,1,100,15,1,1,1,100,10,1
+21818,Raetic Scythe,1,1,100,15,1,1,1,100,10,1
+21819,Raetic Scythe +1,1,1,100,15,1,1,1,100,10,1
 21865,Arasy Lance,1,1,100,15,1,1,1,100,10,1
 21866,Arasy Lance +1,1,1,100,15,1,1,1,100,10,1
+21869,Exalted Spear,1,1,100,15,1,1,1,100,10,1
+21870,Exalted Spear +1,1,1,100,15,1,1,1,100,10,1
+21871,Raetic Halberd,1,1,100,15,1,1,1,100,10,1
+21872,Raetic Halberd +1,1,1,100,15,1,1,1,100,10,1
 21909,Yoshikiri,1,1,100,15,1,1,1,100,10,1
 21910,Yoshikiri +1,1,1,100,15,1,1,1,100,10,1
 21960,Ashijiro No Tachi,1,1,100,15,1,1,1,100,10,1
 21961,Ashijiro No Tachi +1,1,1,100,15,1,1,1,100,10,1
+21963,Beryllium Tachi,1,1,100,15,1,1,1,100,10,1
+21964,Beryllium Tachi +1,1,1,100,15,1,1,1,100,10,1
 22015,Arasy Rod,1,1,100,15,1,1,1,100,10,1
 22016,Arasy Rod +1,1,1,100,15,1,1,1,100,10,1
 22021,Ames,1,1,100,15,1,1,1,100,10,1
 22022,Ames +1,1,1,100,15,1,1,1,100,10,1
+22023,Beryllium Mace,1,1,100,15,1,1,1,100,10,1
+22024,Beryllium Mace +1,1,1,100,15,1,1,1,100,10,1
+22025,Raetic Rod,1,1,100,15,1,1,1,100,10,1
+22026,Raetic Rod +1,1,1,100,15,1,1,1,100,10,1
 22074,Arasy Staff,1,1,100,15,1,1,1,100,10,1
 22075,Arasy Staff +1,1,1,100,15,1,1,1,100,10,1
 22076,Was,1,1,100,15,1,1,1,100,10,1
 22077,Was +1,1,1,100,15,1,1,1,100,10,1
+22078,Exalted Staff,1,1,100,15,1,1,1,100,10,1
+22079,Exalted Staff +1,1,1,100,15,1,1,1,100,10,1
+22080,Raetic Staff,1,1,100,15,1,1,1,100,10,1
+22081,Raetic Staff +1,1,1,100,15,1,1,1,100,10,1
 22122,Arasy Bow,1,1,100,15,1,1,1,100,10,1
 22123,Arasy Bow +1,1,1,100,15,1,1,1,100,10,1
+22125,Exalted Bow,1,1,100,15,1,1,1,100,10,1
+22126,Exalted Bow +1,1,1,100,15,1,1,1,100,10,1
+22127,Raetic Bow,1,1,100,15,1,1,1,100,10,1
+22128,Raetic Bow +1,1,1,100,15,1,1,1,100,10,1
 22135,Arasy Gun,1,1,100,15,1,1,1,100,10,1
 22136,Arasy Gun +1,1,1,100,15,1,1,1,100,10,1
+22137,Exalted Crossbow,1,1,100,15,1,1,1,100,10,1
+22138,Exalted Crossbow +1,1,1,100,15,1,1,1,100,10,1
 22200,Clerisy Strap,1,1,100,15,1,1,1,100,10,1
 22201,Clerisy Strap +1,1,1,100,15,1,1,1,100,10,1
 22202,Irenic Strap,1,1,100,15,1,1,1,100,10,1
@@ -16793,9 +17932,177 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 22209,Mensch Strap +1,1,1,100,15,1,1,1,100,10,1
 22210,Elan Strap,1,1,100,15,1,1,1,100,10,1
 22211,Elan Strap +1,1,1,100,15,1,1,1,100,10,1
+22276,Sasuke Shuriken,1,1,100,15,1,1,1,100,10,1
+22277,Sasuke Shuriken +1,1,1,100,15,1,1,1,100,10,1
 22278,Staunch Tathlum,1,1,100,15,1,1,1,100,10,1
 22279,Staunch Tathlum+1,1,1,100,15,1,1,1,100,10,1
+22285,Beryllium Bolt,1,1,100,15,1,1,1,100,10,1
+25549,Oshosi Mask,1,1,100,15,1,1,1,100,10,1
+25550,Oshosi Mask +1,1,1,100,15,1,1,1,100,10,1
+25551,Kendatsuba Jinpachi,1,1,100,15,1,1,1,100,10,1
+25552,Kendatsuba Jinpachi +1,1,1,100,15,1,1,1,100,10,1
+25553,Ea Hat,1,1,100,15,1,1,1,100,10,1
+25554,Ea Hat +1,1,1,100,15,1,1,1,100,10,1
+25555,Ratri Sallet,1,1,100,15,1,1,1,100,10,1
+25556,Ratri Sallet +1,1,1,100,15,1,1,1,100,10,1
+25557,Arke Zuchetto,1,1,100,15,1,1,1,100,10,1
+25558,Arke Zuchetto +1,1,1,100,15,1,1,1,100,10,1
+25559,Pinga Crown,1,1,100,15,1,1,1,100,10,1
+25560,Pinga Crown +1,1,1,100,15,1,1,1,100,10,1
+25561,Mousai Turban,1,1,100,15,1,1,1,100,10,1
+25562,Mousai Turban +1,1,1,100,15,1,1,1,100,10,1
+25563,Heyoka Cap,1,1,100,15,1,1,1,100,10,1
+25564,Heyoka Cap +1,1,1,100,15,1,1,1,100,10,1
+25565,Baayami Hat,1,1,100,15,1,1,1,100,10,1
+25566,Baayami Hat +1,1,1,100,15,1,1,1,100,10,1
+25567,Turms Cap,1,1,100,15,1,1,1,100,10,1
+25568,Turms Cap +1,1,1,100,15,1,1,1,100,10,1
+25619,Vexed Coronet,1,1,100,15,1,1,1,100,10,1
+25620,Jinxed Coronet,1,1,100,15,1,1,1,100,10,1
+25621,Vexed Somen,1,1,100,15,1,1,1,100,10,1
+25622,Jinxed Somen,1,1,100,15,1,1,1,100,10,1
+25623,Vexed Bonnet,1,1,100,15,1,1,1,100,10,1
+25624,Jinxed Bonnet,1,1,100,15,1,1,1,100,10,1
+25625,Vexed Coif,1,1,100,15,1,1,1,100,10,1
+25626,Jinxed Coif,1,1,100,15,1,1,1,100,10,1
+25627,Vexed Mitra,1,1,100,15,1,1,1,100,10,1
+25628,Jinxed Mitra,1,1,100,15,1,1,1,100,10,1
+25692,Vexed Haubert,1,1,100,15,1,1,1,100,10,1
+25693,Jinxed Haubert,1,1,100,15,1,1,1,100,10,1
+25694,Vexed Domaru,1,1,100,15,1,1,1,100,10,1
+25695,Jinxed Domaru,1,1,100,15,1,1,1,100,10,1
+25696,Vexed Jacket,1,1,100,15,1,1,1,100,10,1
+25697,Jinxed Jacket,1,1,100,15,1,1,1,100,10,1
+25698,Vexed Doublet,1,1,100,15,1,1,1,100,10,1
+25699,Jinxed Doublet,1,1,100,15,1,1,1,100,10,1
+25700,Vexed Bliaut,1,1,100,15,1,1,1,100,10,1
+25701,Jinxed Bliaut,1,1,100,15,1,1,1,100,10,1
+25864,Stinky Subligar,1,1,100,15,1,1,1,100,10,1
+25889,Oshosi Trousers,1,1,100,15,1,1,1,100,10,1
+25890,Oshosi Trousers +1,1,1,100,15,1,1,1,100,10,1
+25891,Kendatsuba Hakama,1,1,100,15,1,1,1,100,10,1
+25892,Kendatsuba Hakama +1,1,1,100,15,1,1,1,100,10,1
+25893,Ea Slops,1,1,100,15,1,1,1,100,10,1
+25894,Ea Slops +1,1,1,100,15,1,1,1,100,10,1
+25895,Ratri Cuisses,1,1,100,15,1,1,1,100,10,1
+25896,Ratri Cuisses +1,1,1,100,15,1,1,1,100,10,1
+25897,Arke Cosciales,1,1,100,15,1,1,1,100,10,1
+25898,Arke Cosciales +1,1,1,100,15,1,1,1,100,10,1
+25899,Pinga Pants,1,1,100,15,1,1,1,100,10,1
+25900,Pinga Pants +1,1,1,100,15,1,1,1,100,10,1
+25901,Mousai Seraweels,1,1,100,15,1,1,1,100,10,1
+25902,Mousai Seraweels +1,1,1,100,15,1,1,1,100,10,1
+25903,Heyoka Subligar,1,1,100,15,1,1,1,100,10,1
+25904,Heyoka Subligar +1,1,1,100,15,1,1,1,100,10,1
+25905,Baayami Slops,1,1,100,15,1,1,1,100,10,1
+25906,Baayami Slops +1,1,1,100,15,1,1,1,100,10,1
+25907,Turms Subligar,1,1,100,15,1,1,1,100,10,1
+25908,Turms Subligar +1,1,1,100,15,1,1,1,100,10,1
+25956,Oshosi Leggings,1,1,100,15,1,1,1,100,10,1
+25957,Oshosi Leggings +1,1,1,100,15,1,1,1,100,10,1
+25958,Kendatsuba Sune-ate,1,1,100,15,1,1,1,100,10,1
+25959,Kendatsuba Sune-ate +1,1,1,100,15,1,1,1,100,10,1
+25960,Ea Pigaches,1,1,100,15,1,1,1,100,10,1
+25961,Ea Pigaches +1,1,1,100,15,1,1,1,100,10,1
+25962,Ratri Sollerets,1,1,100,15,1,1,1,100,10,1
+25963,Ratri Sollerets +1,1,1,100,15,1,1,1,100,10,1
+25964,Arke Gambieras,1,1,100,15,1,1,1,100,10,1
+25965,Arke Gambieras +1,1,1,100,15,1,1,1,100,10,1
+25966,Pinga Pumps,1,1,100,15,1,1,1,100,10,1
+25967,Pinga Pumps +1,1,1,100,15,1,1,1,100,10,1
+25968,Mousai Crackows,1,1,100,15,1,1,1,100,10,1
+25969,Mousai Crackows +1,1,1,100,15,1,1,1,100,10,1
+25970,Heyoka Leggings,1,1,100,15,1,1,1,100,10,1
+25971,Heyoka Leggings +1,1,1,100,15,1,1,1,100,10,1
+25972,Baayami Sabots,1,1,100,15,1,1,1,100,10,1
+25973,Baayami Sabots +1,1,1,100,15,1,1,1,100,10,1
+25974,Turms Leggings,1,1,100,15,1,1,1,100,10,1
+25975,Turms Leggings +1,1,1,100,15,1,1,1,100,10,1
+25976,Oshosi Gloves,1,1,100,15,1,1,1,100,10,1
+25977,Oshosi Gloves +1,1,1,100,15,1,1,1,100,10,1
+25978,Kendatsuba Tekko,1,1,100,15,1,1,1,100,10,1
+25979,Kendatsuba Tekko +1,1,1,100,15,1,1,1,100,10,1
+25980,Ea Cuffs,1,1,100,15,1,1,1,100,10,1
+25981,Ea Cuffs +1,1,1,100,15,1,1,1,100,10,1
+25982,Ratri Gadlings,1,1,100,15,1,1,1,100,10,1
+25983,Ratri Gadlings +1,1,1,100,15,1,1,1,100,10,1
+25984,Arke Manopolas,1,1,100,15,1,1,1,100,10,1
+25985,Arke Manopolas +1,1,1,100,15,1,1,1,100,10,1
+25986,Pinga Mittens,1,1,100,15,1,1,1,100,10,1
+25987,Pinga Mittens +1,1,1,100,15,1,1,1,100,10,1
+25988,Mousai Gages,1,1,100,15,1,1,1,100,10,1
+25989,Mousai Gages +1,1,1,100,15,1,1,1,100,10,1
+25990,Heyoka Mittens,1,1,100,15,1,1,1,100,10,1
+25991,Heyoka Mittens +1,1,1,100,15,1,1,1,100,10,1
+25992,Baayami Cuffs,1,1,100,15,1,1,1,100,10,1
+25993,Baayami Cuffs +1,1,1,100,15,1,1,1,100,10,1
+25994,Turms Mittens,1,1,100,15,1,1,1,100,10,1
+25995,Turms Mittens +1,1,1,100,15,1,1,1,100,10,1
+25996,Raetic Bangles,1,1,100,15,1,1,1,100,10,1
+25997,Raetic Bangles +1,1,1,100,15,1,1,1,100,10,1
+26031,Brioso Whistle,1,1,100,15,1,1,1,100,10,1
+26032,Moonbow Whistle,1,1,100,15,1,1,1,100,10,1
+26033,Moonbow Whistle +1,1,1,100,15,1,1,1,100,10,1
+26034,Moonbeam Nodowa,1,1,100,15,1,1,1,100,10,1
+26035,Moonlight Nodowa,1,1,100,15,1,1,1,100,10,1
+26036,Moonbeam Necklace,1,1,100,15,1,1,1,100,10,1
+26037,Moonlight Necklace,1,1,100,15,1,1,1,100,10,1
+26080,Mache Earring,1,1,100,15,1,1,1,100,10,1
+26081,Mache Earring +1,1,1,100,15,1,1,1,100,10,1
+26179,Varar Ring,1,1,100,15,1,1,1,100,10,1
+26180,Varar Ring +1,1,1,100,15,1,1,1,100,10,1
+26181,Chirich Ring,1,1,100,15,1,1,1,100,10,1
+26182,Chirich Ring +1,1,1,100,15,1,1,1,100,10,1
+26183,Stikini Ring,1,1,100,15,1,1,1,100,10,1
+26184,Stikini Ring +1,1,1,100,15,1,1,1,100,10,1
+26189,Moonbeam Ring,1,1,100,15,1,1,1,100,10,1
+26190,Moonlight Ring,1,1,100,15,1,1,1,100,10,1
+26268,Moonbeam Cape,1,1,100,15,1,1,1,100,10,1
+26269,Moonlight Cape,1,1,100,15,1,1,1,100,10,1
+26331,Tempus Fugit,1,1,100,15,1,1,1,100,10,1
+26332,Tempus Fugit +1,1,1,100,15,1,1,1,100,10,1
+26333,Ioskeha Belt,1,1,100,15,1,1,1,100,10,1
+26334,Ioskeha Belt +1,1,1,100,15,1,1,1,100,10,1
+26335,Klouskap Sash,1,1,100,15,1,1,1,100,10,1
+26336,Klouskap Sash +1,1,1,100,15,1,1,1,100,10,1
+26337,Kwahu Kachina Belt,1,1,100,15,1,1,1,100,10,1
+26338,Kwahu Kachina Belt +1,1,1,100,15,1,1,1,100,10,1
+26339,Comaa Belt,1,1,100,15,1,1,1,100,10,1
+26340,Moonbow Belt,1,1,100,15,1,1,1,100,10,1
+26341,Moonbow Belt +1,1,1,100,15,1,1,1,100,10,1
 26406,Kupo Shield,1,1,100,15,1,1,1,100,10,1
+26525,Oshosi Vest,1,1,100,15,1,1,1,100,10,1
+26526,Oshosi Vest +1,1,1,100,15,1,1,1,100,10,1
+26527,Kendatsuba Samue,1,1,100,15,1,1,1,100,10,1
+26528,Kendatsuba Samue +1,1,1,100,15,1,1,1,100,10,1
+26529,Ea Houppelande,1,1,100,15,1,1,1,100,10,1
+26530,Ea Houppelande +1,1,1,100,15,1,1,1,100,10,1
+26531,Ratri Breastplate,1,1,100,15,1,1,1,100,10,1
+26532,Ratri Breastplate +1,1,1,100,15,1,1,1,100,10,1
+26533,Arke Corazza,1,1,100,15,1,1,1,100,10,1
+26534,Arke Corazza +1,1,1,100,15,1,1,1,100,10,1
+26535,Pinga Tunic,1,1,100,15,1,1,1,100,10,1
+26536,Pinga Tunic +1,1,1,100,15,1,1,1,100,10,1
+26537,Mousai Manteel,1,1,100,15,1,1,1,100,10,1
+26538,Mousai Manteel +1,1,1,100,15,1,1,1,100,10,1
+26539,Heyoka Harness,1,1,100,15,1,1,1,100,10,1
+26540,Heyoka Harness +1,1,1,100,15,1,1,1,100,10,1
+26541,Baayami Robe,1,1,100,15,1,1,1,100,10,1
+26542,Baayami Robe +1,1,1,100,15,1,1,1,100,10,1
+26543,Turms Harness,1,1,100,15,1,1,1,100,10,1
+26544,Turms Harness +1,1,1,100,15,1,1,1,100,10,1
+26680,Bewitched Cap,1,1,100,15,1,1,1,100,10,1
+26681,Voodoo Cap,1,1,100,15,1,1,1,100,10,1
+26682,Bewitched Schaller,1,1,100,15,1,1,1,100,10,1
+26683,Voodoo Schaller,1,1,100,15,1,1,1,100,10,1
+26684,Bewitched Celata,1,1,100,15,1,1,1,100,10,1
+26685,Voodoo Celata,1,1,100,15,1,1,1,100,10,1
+26686,Bewitched Kabuto,1,1,100,15,1,1,1,100,10,1
+26687,Voodoo Kabuto,1,1,100,15,1,1,1,100,10,1
+26688,Bewitched Crown,1,1,100,15,1,1,1,100,10,1
+26689,Voodoo Crown,1,1,100,15,1,1,1,100,10,1
+26690,Bewitched Mask,1,1,100,15,1,1,1,100,10,1
+26691,Voodoo Mask,1,1,100,15,1,1,1,100,10,1
 26695,Fugacity Beret+1,1,1,100,15,1,1,1,100,10,1
 26696,Pixie Hairpin+1,1,1,100,15,1,1,1,100,10,1
 26697,Accord Hat+1,1,1,100,15,1,1,1,100,10,1
@@ -16807,10 +18114,192 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 26725,Sombra Tiara+1,1,1,100,15,1,1,1,100,10,1
 26726,Revealers Crown,1,1,100,15,1,1,1,100,10,1
 26727,Reveal Crown+1,1,1,100,15,1,1,1,100,10,1
+26856,Bewitched Harness,1,1,100,15,1,1,1,100,10,1
+26857,Voodoo Harness,1,1,100,15,1,1,1,100,10,1
+26858,Bewitched Cuirass,1,1,100,15,1,1,1,100,10,1
+26859,Voodoo Cuirass,1,1,100,15,1,1,1,100,10,1
+26860,Bewitched Hauberk,1,1,100,15,1,1,1,100,10,1
+26861,Voodoo Hauberk,1,1,100,15,1,1,1,100,10,1
+26862,Bewitched Togi,1,1,100,15,1,1,1,100,10,1
+26863,Voodoo Togi,1,1,100,15,1,1,1,100,10,1
+26864,Bewitched Dalmatica,1,1,100,15,1,1,1,100,10,1
+26865,Voodoo Dalmatica,1,1,100,15,1,1,1,100,10,1
+26866,Bewitched Mail,1,1,100,15,1,1,1,100,10,1
+26867,Voodoo Mail,1,1,100,15,1,1,1,100,10,1
+26875,Ravenous Breastplate,1,1,100,15,1,1,1,100,10,1
+26876,Ravenous Breastplate +1,1,1,100,15,1,1,1,100,10,1
+26877,Foppish Tunica,1,1,100,15,1,1,1,100,10,1
+26878,Foppish Tunica +1,1,1,100,15,1,1,1,100,10,1
+26879,Wretched Coat,1,1,100,15,1,1,1,100,10,1
+26880,Wretched Coat +1,1,1,100,15,1,1,1,100,10,1
+26881,Gefechtbrust,1,1,100,15,1,1,1,100,10,1
+26882,Wildheitbrust,1,1,100,15,1,1,1,100,10,1
+26883,Sombra Harness,1,1,100,15,1,1,1,100,10,1
+26884,Sombra Harness +1,1,1,100,15,1,1,1,100,10,1
+27032,Bewitched Gloves,1,1,100,15,1,1,1,100,10,1
+27033,Voodoo Gloves,1,1,100,15,1,1,1,100,10,1
+27034,Bewitched Handschuhs,1,1,100,15,1,1,1,100,10,1
+27035,Voodoo Handschuhs,1,1,100,15,1,1,1,100,10,1
+27036,Bewitched Mufflers,1,1,100,15,1,1,1,100,10,1
+27037,Voodoo Mufflers,1,1,100,15,1,1,1,100,10,1
+27038,Bewitched Kote,1,1,100,15,1,1,1,100,10,1
+27039,Voodoo Kote,1,1,100,15,1,1,1,100,10,1
+27040,Bewitched Mitts,1,1,100,15,1,1,1,100,10,1
+27041,Voodoo Mitts,1,1,100,15,1,1,1,100,10,1
+27042,Bewitched Finger Gauntlets,1,1,100,15,1,1,1,100,10,1
+27043,Voodoo Finger Gauntlets,1,1,100,15,1,1,1,100,10,1
+27123,Vexed Gauntlets,1,1,100,15,1,1,1,100,10,1
+27124,Jinxed Gauntlets,1,1,100,15,1,1,1,100,10,1
+27125,Vexed Kote,1,1,100,15,1,1,1,100,10,1
+27126,Jinxed Kote,1,1,100,15,1,1,1,100,10,1
+27127,Vexed Wristbands,1,1,100,15,1,1,1,100,10,1
+27128,Jinxed Wristbands,1,1,100,15,1,1,1,100,10,1
+27129,Vexed Gages,1,1,100,15,1,1,1,100,10,1
+27130,Jinxed Gages,1,1,100,15,1,1,1,100,10,1
+27131,Vexed Cuffs,1,1,100,15,1,1,1,100,10,1
+27132,Jinxed Cuffs,1,1,100,15,1,1,1,100,10,1
+27208,Bewitched Subligar,1,1,100,15,1,1,1,100,10,1
+27209,Voodoo Subligar,1,1,100,15,1,1,1,100,10,1
+27210,Bewitched Diechlings,1,1,100,15,1,1,1,100,10,1
+27211,Voodoo Diechlings,1,1,100,15,1,1,1,100,10,1
+27212,Bewitched Breeches,1,1,100,15,1,1,1,100,10,1
+27213,Voodoo Breeches,1,1,100,15,1,1,1,100,10,1
+27214,Bewitched Haidate,1,1,100,15,1,1,1,100,10,1
+27215,Voodoo Haidate,1,1,100,15,1,1,1,100,10,1
+27216,Bewitched Slacks,1,1,100,15,1,1,1,100,10,1
+27217,Voodoo Slacks,1,1,100,15,1,1,1,100,10,1
+27218,Bewitched Cuisses,1,1,100,15,1,1,1,100,10,1
+27219,Voodoo Cuisses,1,1,100,15,1,1,1,100,10,1
+27224,Gefechtdiechlings,1,1,100,15,1,1,1,100,10,1
+27225,Wildheitdiechlings,1,1,100,15,1,1,1,100,10,1
+27226,Sombra Tights,1,1,100,15,1,1,1,100,10,1
+27227,Sombra Tights +1,1,1,100,15,1,1,1,100,10,1
+27308,Vexed Hose,1,1,100,15,1,1,1,100,10,1
+27309,Jinxed Hose,1,1,100,15,1,1,1,100,10,1
+27310,Vexed Hakama,1,1,100,15,1,1,1,100,10,1
+27311,Jinxed Hakama,1,1,100,15,1,1,1,100,10,1
+27312,Vexed Kecks,1,1,100,15,1,1,1,100,10,1
+27313,Jinxed Kecks,1,1,100,15,1,1,1,100,10,1
+27314,Vexed Slops,1,1,100,15,1,1,1,100,10,1
+27315,Jinxed Slops,1,1,100,15,1,1,1,100,10,1
+27316,Vexed Tights,1,1,100,15,1,1,1,100,10,1
+27317,Jinxed Tights,1,1,100,15,1,1,1,100,10,1
+27384,Bewitched Leggings,1,1,100,15,1,1,1,100,10,1
+27385,Voodoo Leggings,1,1,100,15,1,1,1,100,10,1
+27386,Bewitched Schuhs,1,1,100,15,1,1,1,100,10,1
+27387,Voodoo Schuhs,1,1,100,15,1,1,1,100,10,1
+27388,Bewitched Sollerets,1,1,100,15,1,1,1,100,10,1
+27389,Voodoo Sollerets,1,1,100,15,1,1,1,100,10,1
+27390,Bewitched Sune-ate,1,1,100,15,1,1,1,100,10,1
+27391,Voodoo Sune-ate,1,1,100,15,1,1,1,100,10,1
+27392,Bewitched Pumps,1,1,100,15,1,1,1,100,10,1
+27393,Voodoo Pumps,1,1,100,15,1,1,1,100,10,1
+27394,Bewitched Greaves,1,1,100,15,1,1,1,100,10,1
+27395,Voodoo Greaves,1,1,100,15,1,1,1,100,10,1
+27396,Gefechtschuhs,1,1,100,15,1,1,1,100,10,1
+27397,Wildheitschuhs,1,1,100,15,1,1,1,100,10,1
+27398,Sombra Leggings,1,1,100,15,1,1,1,100,10,1
+27399,Sombra Leggings +1,1,1,100,15,1,1,1,100,10,1
+27479,Vexed Gambieras,1,1,100,15,1,1,1,100,10,1
+27480,Jinxed Gambieras,1,1,100,15,1,1,1,100,10,1
+27481,Vexed Sune-ate,1,1,100,15,1,1,1,100,10,1
+27482,Jinxed Sune-ate,1,1,100,15,1,1,1,100,10,1
+27483,Vexed Gamashes,1,1,100,15,1,1,1,100,10,1
+27484,Jinxed Gamashes,1,1,100,15,1,1,1,100,10,1
+27485,Vexed Nails,1,1,100,15,1,1,1,100,10,1
+27486,Jinxed Nails,1,1,100,15,1,1,1,100,10,1
+27487,Vexed Boots,1,1,100,15,1,1,1,100,10,1
+27488,Jinxed Boots,1,1,100,15,1,1,1,100,10,1
+27564,Ifrit Ring,1,1,100,15,1,1,1,100,10,1
+27565,Ifrit Ring +1,1,1,100,15,1,1,1,100,10,1
+27566,Leviathan Ring,1,1,100,15,1,1,1,100,10,1
+27567,Leviathan Ring +1,1,1,100,15,1,1,1,100,10,1
+27568,Ramuh Ring,1,1,100,15,1,1,1,100,10,1
+27569,Ramuh Ring +1,1,1,100,15,1,1,1,100,10,1
+27570,Titan Ring,1,1,100,15,1,1,1,100,10,1
+27571,Titan Ring +1,1,1,100,15,1,1,1,100,10,1
+27572,Garuda Ring,1,1,100,15,1,1,1,100,10,1
+27573,Garuda Ring +1,1,1,100,15,1,1,1,100,10,1
+27574,Shiva Ring,1,1,100,15,1,1,1,100,10,1
+27575,Shiva Ring +1,1,1,100,15,1,1,1,100,10,1
+27576,Carbuncle Ring,1,1,100,15,1,1,1,100,10,1
+27577,Carbuncle Ring +1,1,1,100,15,1,1,1,100,10,1
+27578,Fenrir Ring,1,1,100,15,1,1,1,100,10,1
+27579,Fenrir Ring +1,1,1,100,15,1,1,1,100,10,1
+27603,Aptitude Mantle,1,1,100,15,1,1,1,100,10,1
+27604,Aptitude Mantle +1,1,1,100,15,1,1,1,100,10,1
+27643,Blurred Shield,1,1,100,15,1,1,1,100,10,1
+27644,Blurred Shield +1,1,1,100,15,1,1,1,100,10,1
 27735,Enedron Glasses,1,1,100,15,1,1,1,100,10,1
 27746,Aetosaur Helm,1,1,100,15,1,1,1,100,10,1
 27747,Aetosaur Helm+1,1,1,100,15,1,1,1,100,10,1
 27748,Shabti Armet,1,1,100,15,1,1,1,100,10,1
 27749,Shabti Armet+1,1,1,100,15,1,1,1,100,10,1
+27750,Haruspex Hat,1,1,100,15,1,1,1,100,10,1
+27751,Haruspex Hat +1,1,1,100,15,1,1,1,100,10,1
+27889,Aetosaur Jerkin,1,1,100,15,1,1,1,100,10,1
+27890,Aetosaur Jerkin +1,1,1,100,15,1,1,1,100,10,1
+27891,Shabti Cuirass,1,1,100,15,1,1,1,100,10,1
+27892,Shabti Cuirass +1,1,1,100,15,1,1,1,100,10,1
+27893,Haruspex Coat,1,1,100,15,1,1,1,100,10,1
+27894,Haruspex Coat +1,1,1,100,15,1,1,1,100,10,1
+27920,Pak Corselet,1,1,100,15,1,1,1,100,10,1
+27921,Pak Corselet +1,1,1,100,15,1,1,1,100,10,1
+27987,Gefechthentzes,1,1,100,15,1,1,1,100,10,1
+27988,Wildheithentzes,1,1,100,15,1,1,1,100,10,1
+27989,Sombra Mittens,1,1,100,15,1,1,1,100,10,1
+27990,Sombra Mittens +1,1,1,100,15,1,1,1,100,10,1
+28007,Nomkahpa Mittens +1,1,1,100,15,1,1,1,100,10,1
+28036,Aetosaur Gloves,1,1,100,15,1,1,1,100,10,1
+28037,Aetosaur Gloves +1,1,1,100,15,1,1,1,100,10,1
+28038,Shabti Gauntlets,1,1,100,15,1,1,1,100,10,1
+28039,Shabti Gauntlets +1,1,1,100,15,1,1,1,100,10,1
+28040,Haruspex Cuffs,1,1,100,15,1,1,1,100,10,1
+28041,Haruspex Cuffs +1,1,1,100,15,1,1,1,100,10,1
+28176,Aetosaur Trousers,1,1,100,15,1,1,1,100,10,1
+28177,Aetosaur Trousers +1,1,1,100,15,1,1,1,100,10,1
+28178,Shabti Cuisses,1,1,100,15,1,1,1,100,10,1
+28179,Shabti Cuisses +1,1,1,100,15,1,1,1,100,10,1
+28180,Haruspex Slops,1,1,100,15,1,1,1,100,10,1
+28181,Haruspex Slops +1,1,1,100,15,1,1,1,100,10,1
+28314,Aetosaur Ledelsens,1,1,100,15,1,1,1,100,10,1
+28315,Aetosaur Ledelsens +1,1,1,100,15,1,1,1,100,10,1
+28316,Shabti Sabatons,1,1,100,15,1,1,1,100,10,1
+28317,Shabti Sabatons +1,1,1,100,15,1,1,1,100,10,1
+28318,Haruspex Pigaches,1,1,100,15,1,1,1,100,10,1
+28319,Haruspex Pigaches +1,1,1,100,15,1,1,1,100,10,1
+28374,Dakatsu-no-nodowa,1,1,100,15,1,1,1,100,10,1
+28375,Dakatsu-no-nodowa +1,1,1,100,15,1,1,1,100,10,1
+28404,Ej Necklace,1,1,100,15,1,1,1,100,10,1
+28405,Ej Necklace +1,1,1,100,15,1,1,1,100,10,1
+28406,Nuna Gorget,1,1,100,15,1,1,1,100,10,1
+28407,Nuna Gorget +1,1,1,100,15,1,1,1,100,10,1
+28446,Sweordfaetels,1,1,100,15,1,1,1,100,10,1
+28447,Sweordfaetels +1,1,1,100,15,1,1,1,100,10,1
+28466,Dynamic Belt,1,1,100,15,1,1,1,100,10,1
+28467,Dynamic Belt +1,1,1,100,15,1,1,1,100,10,1
+28526,Tati Earring,1,1,100,15,1,1,1,100,10,1
+28527,Tati Earring +1,1,1,100,15,1,1,1,100,10,1
+28542,Rhodium Ring,1,1,100,15,1,1,1,100,10,1
+28543,Rhodium Ring +1,1,1,100,15,1,1,1,100,10,1
+28544,Yacuruna Ring,1,1,100,15,1,1,1,100,10,1
+28545,Yacuruna Ring +1,1,1,100,15,1,1,1,100,10,1
+28568,Resolution Ring,1,1,100,15,1,1,1,100,10,1
+28583,Vexer Ring,1,1,100,15,1,1,1,100,10,1
+28584,Vexer Ring +1,1,1,100,15,1,1,1,100,10,1
+28601,Seshaw Cape,1,1,100,15,1,1,1,100,10,1
+28602,Seshaw Cape +1,1,1,100,15,1,1,1,100,10,1
+28606,Aput Mantle,1,1,100,15,1,1,1,100,10,1
+28607,Aput Mantle +1,1,1,100,15,1,1,1,100,10,1
+28644,Ogapepo Cape,1,1,100,15,1,1,1,100,10,1
+28645,Ogapepo Cape +1,1,1,100,15,1,1,1,100,10,1
+28646,Radical Mantle,1,1,100,15,1,1,1,100,10,1
+28647,Radical Mantle +1,1,1,100,15,1,1,1,100,10,1
 28657,Kaidate,1,1,100,15,1,1,1,100,10,1
 28658,Sors Shield,1,1,100,15,1,1,1,100,10,1
+28664,Killedar Shield,1,1,100,15,1,1,1,100,10,1
+28665,Killedar Shield +1,1,1,100,15,1,1,1,100,10,1
+28667,Matamata Shield,1,1,100,15,1,1,1,100,10,1
+28668,Matamata Shield +1,1,1,100,15,1,1,1,100,10,1
+28669,Butznar Shield +1,1,1,100,15,1,1,1,100,10,1
+28671,Butznar Shield,1,1,100,15,1,1,1,100,10,1
