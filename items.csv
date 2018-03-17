@@ -1840,6 +1840,106 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3918,Chunk Of Midrium Ore,1,1,100,15,1,1,1,100,10,1
 3919,Midrium Ingot,1,1,100,15,1,1,1,100,10,1
 3920,Chunk Of Vanadium Ore,1,1,100,15,1,1,1,100,10,1
+3921,Marble Nugget,1,1,100,15,1,1,1,100,10,1
+3922,Chunk Of Rhodium Ore,1,1,100,15,1,1,1,100,10,1
+3923,Rhodium Ingot,1,1,100,15,1,1,1,100,10,1
+3924,Scholar Stone,1,1,100,15,1,1,1,100,10,1
+3925,Tanzanite Jewel,1,1,100,15,1,1,1,100,10,1
+3926,Urunday Log,1,1,100,15,1,1,1,100,10,1
+3927,Piece Of Urunday Lumber,1,1,100,15,1,1,1,100,10,1
+3928,Velkk Necklace,1,1,100,15,1,1,1,100,10,1
+3929,Velkk Mask,1,1,100,15,1,1,1,100,10,1
+3930,Twitherym Wing,1,1,100,15,1,1,1,100,10,1
+3931,Twitherym Scale,1,1,100,15,1,1,1,100,10,1
+3932,Chapuli Horn,1,1,100,15,1,1,1,100,10,1
+3933,Craklaw Pincer,1,1,100,15,1,1,1,100,10,1
+3934,Matamata Shell,1,1,100,15,1,1,1,100,10,1
+3935,Jar Of Umbril Ooze,1,1,100,15,1,1,1,100,10,1
+3936,Jar Of Acuex Poison,1,1,100,15,1,1,1,100,10,1
+3937,Bottle Of Panopt Tears,1,1,100,15,1,1,1,100,10,1
+3938,Mantid Foreleg,1,1,100,15,1,1,1,100,10,1
+3939,Mantid Carapace,1,1,100,15,1,1,1,100,10,1
+3940,Carrier Crab Carapace,1,1,100,15,1,1,1,100,10,1
+3941,Chapuli Wing,1,1,100,15,1,1,1,100,10,1
+3942,Locust Elutriator,1,1,100,15,1,1,1,100,10,1
+3943,Bag Of Chapuli Fletchings,1,1,100,15,1,1,1,100,10,1
+3944,Handful Of Chapuli Arrowheads,1,1,100,15,1,1,1,100,10,1
+3945,Handful Of Midrium Bolt Heads,1,1,100,15,1,1,1,100,10,1
+3946,Handful Of Mantid Arrowheads,1,1,100,15,1,1,1,100,10,1
+3947,Handful Of Damascus Bolt Heads,1,1,100,15,1,1,1,100,10,1
+3948,Bag Of Tulfaire Fletchings,1,1,100,15,1,1,1,100,10,1
+3949,Handful Of Titanium Bolt Heads,1,1,100,15,1,1,1,100,10,1
+3958,Clump Of Yahse Humus,1,1,100,15,1,1,1,100,10,1
+3963,Midrium Sheet,1,1,100,15,1,1,1,100,10,1
+3964,Rhodium Sheet,1,1,100,15,1,1,1,100,10,1
+3965,Clump Of Adoulinian Kelp,1,1,100,15,1,1,1,100,10,1
+3974,Airlixir,1,1,100,15,1,1,1,100,10,1
+3975,Airlixir +1,1,1,100,15,1,1,1,100,10,1
+3976,Airlixir +2,1,1,100,15,1,1,1,100,10,1
+3977,Gabbrath Horn,1,1,100,15,1,1,1,100,10,1
+3978,Rockfin Fin,1,1,100,15,1,1,1,100,10,1
+3979,Rockfin Tooth,1,1,100,15,1,1,1,100,10,1
+3980,Bztavian Stinger,1,1,100,15,1,1,1,100,10,1
+3981,Bztavian Wing,1,1,100,15,1,1,1,100,10,1
+3982,Arborscent Seed,1,1,100,15,1,1,1,100,10,1
+3983,Arborfruit Seed,1,1,100,15,1,1,1,100,10,1
+3988,Garden Worm,1,1,100,15,1,1,1,100,10,1
+3989,Clump Of Grove Humus,1,1,100,15,1,1,1,100,10,1
+3990,Clump Of Coalition Humus,1,1,100,15,1,1,1,100,10,1
+3991,Grove Worm,1,1,100,15,1,1,1,100,10,1
+3992,Sack Of Grove Mulch,1,1,100,15,1,1,1,100,10,1
+3993,Bag Of Grove Cuttings,1,1,100,15,1,1,1,100,10,1
+3994,Jar Of Entisyrup,1,1,100,15,1,1,1,100,10,1
+3995,Onz Of Coalition Fertilizer,1,1,100,15,1,1,1,100,10,1
+3996,Vial Of Stone Serum,1,1,100,15,1,1,1,100,10,1
+3997,Vial Of Vein Serum,1,1,100,15,1,1,1,100,10,1
+3998,Vial Of Auserum,1,1,100,15,1,1,1,100,10,1
+3999,Vial Of Smelting Serum,1,1,100,15,1,1,1,100,10,1
+4000,Vial Of Coalition Serum,1,1,100,15,1,1,1,100,10,1
+4001,Sardine Sphere,1,1,100,15,1,1,1,100,10,1
+4002,Bass Sphere,1,1,100,15,1,1,1,100,10,1
+4003,Shrimp Sphere,1,1,100,15,1,1,1,100,10,1
+4004,Baitball,1,1,100,15,1,1,1,100,10,1
+4005,Super Baitball,1,1,100,15,1,1,1,100,10,1
+4006,Ponze Of Sardine Chum,1,1,100,15,1,1,1,100,10,1
+4007,Ponze Of Bass Chum,1,1,100,15,1,1,1,100,10,1
+4008,Ponze Of Shrimp Chum,1,1,100,15,1,1,1,100,10,1
+4009,Ponze Of Mincemeat Chum,1,1,100,15,1,1,1,100,10,1
+4010,Ponze Of Coalition Chum,1,1,100,15,1,1,1,100,10,1
+4011,Flask Of Grow-M-Good,1,1,100,15,1,1,1,100,10,1
+4012,Waktza Rostrum,1,1,100,15,1,1,1,100,10,1
+4013,Waktza Crest,1,1,100,15,1,1,1,100,10,1
+4014,Yggdreant Bole,1,1,100,15,1,1,1,100,10,1
+4015,Yggdreant Root,1,1,100,15,1,1,1,100,10,1
+4016,Tulfaire Feather,1,1,100,15,1,1,1,100,10,1
+4017,Mandragora Sprout,1,1,100,15,1,1,1,100,10,1
+4018,Guatambu Log,1,1,100,15,1,1,1,100,10,1
+4019,Piece Of Guatambu Lumber,1,1,100,15,1,1,1,100,10,1
+4020,Chunk Of Titanium Ore,1,1,100,15,1,1,1,100,10,1
+4021,Titanium Ingot,1,1,100,15,1,1,1,100,10,1
+4022,Titanium Sheet,1,1,100,15,1,1,1,100,10,1
+4023,Chunk Of Snowsteel Ore,1,1,100,15,1,1,1,100,10,1
+4024,Chunk Of Snowsteel,1,1,100,15,1,1,1,100,10,1
+4025,Snowsteel Sheet,1,1,100,15,1,1,1,100,10,1
+4026,Clump Of Akaso,1,1,100,15,1,1,1,100,10,1
+4027,Spool Of Akaso Thread,1,1,100,15,1,1,1,100,10,1
+4028,Square Of Akaso Cloth,1,1,100,15,1,1,1,100,10,1
+4030,Pot Of Sekishitsu,1,1,100,15,1,1,1,100,10,1
+4031,Bottle Of Snapweed Secretion,1,1,100,15,1,1,1,100,10,1
+4032,Snapweed Tendril,1,1,100,15,1,1,1,100,10,1
+4037,Yorcia Visage I,1,1,100,15,1,1,1,100,10,1
+4038,Yorcia Visage II,1,1,100,15,1,1,1,100,10,1
+4039,Yorcia Visage III,1,1,100,15,1,1,1,100,10,1
+4040,Yorcia Visage IV,1,1,100,15,1,1,1,100,10,1
+4041,Yorcia Visage V,1,1,100,15,1,1,1,100,10,1
+4051,Phial Of Alloy Tonic,1,1,100,15,1,1,1,100,10,1
+4052,Phial Of Alloy Tonic +1,1,1,100,15,1,1,1,100,10,1
+4053,Phial Of Alloy Tonic +2,1,1,100,15,1,1,1,100,10,1
+4057,Gelid Aggregate,1,1,100,15,1,1,1,100,10,1
+4058,Chunk Of Bismuth Ore,1,1,100,15,1,1,1,100,10,1
+4074,Thought Crystal,1,1,100,15,1,1,1,100,10,1
+4075,Hope Crystal,1,1,100,15,1,1,1,100,10,1
+4076,Fulfillment Crystal,1,1,100,15,1,1,1,100,10,1
 4096,Fire Crystal,1,1,100,15,1,1,1,100,10,1
 4097,Ice Crystal,1,1,100,15,1,1,1,100,10,1
 4098,Wind Crystal,1,1,100,15,1,1,1,100,10,1
@@ -3184,6 +3284,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6061,Adloquium,1,1,100,15,1,1,1,100,10,1
 6063,Fruit Parfait,1,1,100,15,1,1,1,100,10,1
 6211,Marinara Slice,1,1,100,15,1,1,1,100,10,1
+8995,Cracked Matamata Shell,1,1,100,15,1,1,1,100,10,1
 9200,Dollop Of Wasabi,1,1,100,15,1,1,1,100,10,1
 10148,Cipher Of Gilgamesh's Alter Ego,1,1,100,15,1,1,1,100,10,1
 10434,Dux Visor,1,1,100,15,1,1,1,100,10,1
