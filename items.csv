@@ -1870,6 +1870,9 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 3948,Bag Of Tulfaire Fletchings,1,1,100,15,1,1,1,100,10,1
 3949,Handful Of Titanium Bolt Heads,1,1,100,15,1,1,1,100,10,1
 3958,Clump Of Yahse Humus,1,1,100,15,1,1,1,100,10,1
+3960,Celadon Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+3961,Zaffre Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+3962,Alizarin Yggrete Rock,1,1,100,15,1,1,1,100,10,1
 3963,Midrium Sheet,1,1,100,15,1,1,1,100,10,1
 3964,Rhodium Sheet,1,1,100,15,1,1,1,100,10,1
 3965,Clump Of Adoulinian Kelp,1,1,100,15,1,1,1,100,10,1
@@ -2465,6 +2468,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4689,Recall Meriph,1,1,100,15,1,1,1,100,10,1
 4690,Baramnesia,1,1,100,15,1,1,1,100,10,1
 4691,Baramnesra,1,1,100,15,1,1,1,100,10,1
+4692,Scroll Of Haste II,1,1,100,15,1,1,1,100,10,1
 4694,Barsleepra,1,1,100,15,1,1,1,100,10,1
 4695,Barpoisonra,1,1,100,15,1,1,1,100,10,1
 4696,Barparalyzra,1,1,100,15,1,1,1,100,10,1
@@ -2592,6 +2596,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4848,Drown,1,1,100,15,1,1,1,100,10,1
 4849,Addle,1,1,100,15,1,1,1,100,10,1
 4850,Refresh II,1,1,100,15,1,1,1,100,10,1
+4851,Scroll Of Meteor,1,1,100,15,1,1,1,100,10,1
 4853,Drain,1,1,100,15,1,1,1,100,10,1
 4854,Drain II,1,1,100,15,1,1,1,100,10,1
 4855,Aspir,1,1,100,15,1,1,1,100,10,1
@@ -2642,6 +2647,19 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4912,Scroll Of Distract,1,1,100,15,1,1,1,100,10,1
 4913,Scroll Of Distract II,1,1,100,15,1,1,1,100,10,1
 4914,Frazzle,1,1,100,15,1,1,1,100,10,1
+4915,Scroll Of Frazzle II,1,1,100,15,1,1,1,100,10,1
+4916,Scroll Of Fira,1,1,100,15,1,1,1,100,10,1
+4917,Scroll Of Fira II,1,1,100,15,1,1,1,100,10,1
+4918,Scroll Of Blizzara,1,1,100,15,1,1,1,100,10,1
+4919,Scroll Of Blizzara II,1,1,100,15,1,1,1,100,10,1
+4920,Scroll Of Aerora,1,1,100,15,1,1,1,100,10,1
+4921,Scroll Of Aerora II,1,1,100,15,1,1,1,100,10,1
+4922,Scroll Of Stonera,1,1,100,15,1,1,1,100,10,1
+4923,Scroll Of Stonera II,1,1,100,15,1,1,1,100,10,1
+4924,Scroll Of Thundara,1,1,100,15,1,1,1,100,10,1
+4925,Scroll Of Thundara II,1,1,100,15,1,1,1,100,10,1
+4926,Scroll Of Watera,1,1,100,15,1,1,1,100,10,1
+4927,Scroll Of Watera II,1,1,100,15,1,1,1,100,10,1
 4928,Katon: Ichi,1,1,100,15,1,1,1,100,10,1
 4929,Katon: Ni,1,1,100,15,1,1,1,100,10,1
 4931,Hyoton: Ichi,1,1,100,15,1,1,1,100,10,1
@@ -2781,7 +2799,12 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5098,Boost INT,1,1,100,15,1,1,1,100,10,1
 5099,Boost MND,1,1,100,15,1,1,1,100,10,1
 5100,Boost CHR,1,1,100,15,1,1,1,100,10,1
+5101,Scroll Of Arise,1,1,100,15,1,1,1,100,10,1
+5102,Scroll Of Foil,1,1,100,15,1,1,1,100,10,1
+5103,Scroll Of Crusade,1,1,100,15,1,1,1,100,10,1
 5104,Flurry,1,1,100,15,1,1,1,100,10,1
+5105,Scroll Of Flurry II,1,1,100,15,1,1,1,100,10,1
+5106,Scroll Of Inundation,1,1,100,15,1,1,1,100,10,1
 5120,Titanic Sawfish,1,1,100,15,1,1,1,100,10,1
 5121,Moorish Idol,1,1,100,15,1,1,1,100,10,1
 5122,Bibiki Slug,1,1,100,15,1,1,1,100,10,1
@@ -3354,6 +3377,36 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6001,Clotflagration,1,1,100,15,1,1,1,100,10,1
 6009,Bowl Of Mog Pudding,1,1,100,15,1,1,1,100,10,1
 6010,Sakura Biscuit,1,1,100,15,1,1,1,100,10,1
+6011,Celadon Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6012,Celadon Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6013,Celadon Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6014,Celadon Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6015,Celadon Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6016,Zaffre Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6017,Zaffre Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6018,Zaffre Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6019,Zaffre Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6020,Zaffre Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6021,Alizarin Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6022,Alizarin Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6023,Alizarin Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6024,Alizarin Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6025,Alizarin Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6026,Celadon Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6027,Celadon Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6028,Celadon Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6029,Celadon Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6030,Celadon Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6031,Zaffre Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6032,Zaffre Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6033,Zaffre Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6034,Zaffre Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6035,Zaffre Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6036,Alizarin Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6037,Alizarin Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6038,Alizarin Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6039,Alizarin Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6040,Alizarin Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
 6041,Pyrohelix,1,1,100,15,1,1,1,100,10,1
 6042,Hydrohelix,1,1,100,15,1,1,1,100,10,1
 6043,Ionohelix,1,1,100,15,1,1,1,100,10,1
@@ -3379,6 +3432,66 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6070,Bowl Of Oceanfin Soup,1,1,100,15,1,1,1,100,10,1
 6071,Magma Steak,1,1,100,15,1,1,1,100,10,1
 6072,Magma Steak +1,1,1,100,15,1,1,1,100,10,1
+6073,Plate Of Indi-Regen,1,1,100,15,1,1,1,100,10,1
+6074,Plate Of Indi-Poison,1,1,100,15,1,1,1,100,10,1
+6075,Plate Of Indi-Refresh,1,1,100,15,1,1,1,100,10,1
+6076,Plate Of Indi-STR,1,1,100,15,1,1,1,100,10,1
+6077,Plate Of Indi-DEX,1,1,100,15,1,1,1,100,10,1
+6078,Plate Of Indi-VIT,1,1,100,15,1,1,1,100,10,1
+6079,Plate Of Indi-AGI,1,1,100,15,1,1,1,100,10,1
+6080,Plate Of Indi-INT,1,1,100,15,1,1,1,100,10,1
+6081,Plate Of Indi-MND,1,1,100,15,1,1,1,100,10,1
+6082,Plate Of Indi-CHR,1,1,100,15,1,1,1,100,10,1
+6083,Plate Of Indi-Fury,1,1,100,15,1,1,1,100,10,1
+6084,Plate Of Indi-Barrier,1,1,100,15,1,1,1,100,10,1
+6085,Plate Of Indi-Acumen,1,1,100,15,1,1,1,100,10,1
+6086,Plate Of Indi-Fend,1,1,100,15,1,1,1,100,10,1
+6087,Plate Of Indi-Precision,1,1,100,15,1,1,1,100,10,1
+6088,Plate Of Indi-Voidance,1,1,100,15,1,1,1,100,10,1
+6089,Plate Of Indi-Focus,1,1,100,15,1,1,1,100,10,1
+6090,Plate Of Indi-Attunement,1,1,100,15,1,1,1,100,10,1
+6091,Plate Of Indi-Wilt,1,1,100,15,1,1,1,100,10,1
+6092,Plate Of Indi-Frailty,1,1,100,15,1,1,1,100,10,1
+6093,Plate Of Indi-Fade,1,1,100,15,1,1,1,100,10,1
+6094,Plate Of Indi-Malaise,1,1,100,15,1,1,1,100,10,1
+6095,Plate Of Indi-Slip,1,1,100,15,1,1,1,100,10,1
+6096,Plate Of Indi-Torpor,1,1,100,15,1,1,1,100,10,1
+6097,Plate Of Indi-Vex,1,1,100,15,1,1,1,100,10,1
+6098,Plate Of Indi-Languor,1,1,100,15,1,1,1,100,10,1
+6099,Plate Of Indi-Slow,1,1,100,15,1,1,1,100,10,1
+6100,Plate Of Indi-Paralysis,1,1,100,15,1,1,1,100,10,1
+6101,Plate Of Indi-Gravity,1,1,100,15,1,1,1,100,10,1
+6102,Geo-Regen,1,1,100,15,1,1,1,100,10,1
+6103,Geo-Poison,1,1,100,15,1,1,1,100,10,1
+6104,Geo-Refresh,1,1,100,15,1,1,1,100,10,1
+6105,Geo-STR,1,1,100,15,1,1,1,100,10,1
+6106,Geo-DEX,1,1,100,15,1,1,1,100,10,1
+6107,Geo-VIT,1,1,100,15,1,1,1,100,10,1
+6108,Geo-AGI,1,1,100,15,1,1,1,100,10,1
+6109,Geo-INT,1,1,100,15,1,1,1,100,10,1
+6110,Geo-MND,1,1,100,15,1,1,1,100,10,1
+6111,Geo-CHR,1,1,100,15,1,1,1,100,10,1
+6112,Geo-Fury,1,1,100,15,1,1,1,100,10,1
+6113,Geo-Barrier,1,1,100,15,1,1,1,100,10,1
+6114,Geo-Acumen,1,1,100,15,1,1,1,100,10,1
+6115,Geo-Fend,1,1,100,15,1,1,1,100,10,1
+6116,Geo-Precision,1,1,100,15,1,1,1,100,10,1
+6117,Geo-Voidance,1,1,100,15,1,1,1,100,10,1
+6118,Geo-Focus,1,1,100,15,1,1,1,100,10,1
+6119,Geo-Attunement,1,1,100,15,1,1,1,100,10,1
+6120,Geo-Wilt,1,1,100,15,1,1,1,100,10,1
+6121,Geo-Frailty,1,1,100,15,1,1,1,100,10,1
+6122,Geo-Fade,1,1,100,15,1,1,1,100,10,1
+6123,Geo-Malaise,1,1,100,15,1,1,1,100,10,1
+6124,Geo-Slip,1,1,100,15,1,1,1,100,10,1
+6125,Geo-Torpor,1,1,100,15,1,1,1,100,10,1
+6126,Geo-Vex,1,1,100,15,1,1,1,100,10,1
+6127,Geo-Languor,1,1,100,15,1,1,1,100,10,1
+6128,Geo-Slow,1,1,100,15,1,1,1,100,10,1
+6129,Geo-Paralysis,1,1,100,15,1,1,1,100,10,1
+6130,Geo-Gravity,1,1,100,15,1,1,1,100,10,1
+6131,Plate Of Indi-Haste,1,1,100,15,1,1,1,100,10,1
+6132,Geo-Haste,1,1,100,15,1,1,1,100,10,1
 6137,Chapuli Quiver,1,1,100,15,1,1,1,100,10,1
 6138,Mantid Quiver,1,1,100,15,1,1,1,100,10,1
 6139,Midrium Bolt Quiver,1,1,100,15,1,1,1,100,10,1
@@ -3429,6 +3542,36 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6223,Cehuetzi Snow Cone,1,1,100,15,1,1,1,100,10,1
 6224,Apingaut Snow Cone,1,1,100,15,1,1,1,100,10,1
 6225,Cyclical Coalescence,1,1,100,15,1,1,1,100,10,1
+6227,Phlox Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6228,Phlox Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6229,Phlox Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6230,Phlox Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6231,Phlox Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6232,Russet Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6233,Russet Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6234,Russet Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6235,Russet Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6236,Russet Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6237,Aster Yggrete Shard I,1,1,100,15,1,1,1,100,10,1
+6238,Aster Yggrete Shard II,1,1,100,15,1,1,1,100,10,1
+6239,Aster Yggrete Shard III,1,1,100,15,1,1,1,100,10,1
+6240,Aster Yggrete Shard IV,1,1,100,15,1,1,1,100,10,1
+6241,Aster Yggrete Shard V,1,1,100,15,1,1,1,100,10,1
+6242,Phlox Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6243,Phlox Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6244,Phlox Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6245,Phlox Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6246,Phlox Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6247,Russet Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6248,Russet Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6249,Russet Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6250,Russet Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6251,Russet Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
+6252,Aster Yggzi Bead I,1,1,100,15,1,1,1,100,10,1
+6253,Aster Yggzi Bead II,1,1,100,15,1,1,1,100,10,1
+6254,Aster Yggzi Bead III,1,1,100,15,1,1,1,100,10,1
+6255,Aster Yggzi Bead IV,1,1,100,15,1,1,1,100,10,1
+6256,Aster Yggzi Bead V,1,1,100,15,1,1,1,100,10,1
 6257,Jar Of Jungle Nectar,1,1,100,15,1,1,1,100,10,1
 6258,Piece Of Shiromochi,1,1,100,15,1,1,1,100,10,1
 6259,Piece Of Shiromochi +1,1,1,100,15,1,1,1,100,10,1
@@ -3473,6 +3616,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6342,Bean Daifuku +1,1,1,100,15,1,1,1,100,10,1
 6343,Grape Daifuku,1,1,100,15,1,1,1,100,10,1
 6344,Grape Daifuku +1,1,1,100,15,1,1,1,100,10,1
+6368,Geomancer Die,1,1,100,15,1,1,1,100,10,1
+6369,Rune Fencer Die,1,1,100,15,1,1,1,100,10,1
 6371,Quicksilver Blade,1,1,100,15,1,1,1,100,10,1
 6372,Lord Of Ulbuka,1,1,100,15,1,1,1,100,10,1
 6373,Ancient Carp,1,1,100,15,1,1,1,100,10,1
@@ -3575,6 +3720,9 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 8752,Cehuetzi Claw,1,1,100,15,1,1,1,100,10,1
 8753,Cehuetzi Ice Shard,1,1,100,15,1,1,1,100,10,1
 8754,Cehuetzi Pelt,1,1,100,15,1,1,1,100,10,1
+8755,Phlox Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+8756,Russet Yggrete Rock,1,1,100,15,1,1,1,100,10,1
+8757,Aster Yggrete Rock,1,1,100,15,1,1,1,100,10,1
 8800,Azuki Bean,1,1,100,15,1,1,1,100,10,1
 8803,Ranka,1,1,100,15,1,1,1,100,10,1
 8804,Furusumi,1,1,100,15,1,1,1,100,10,1
@@ -3693,6 +3841,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 9005,Macuil Horn,1,1,100,15,1,1,1,100,10,1
 9006,Defiant Scarf,1,1,100,15,1,1,1,100,10,1
 9007,Vial Of Defiant Sweat,1,1,100,15,1,1,1,100,10,1
+9008,Vial Of Befouled Water,1,1,100,15,1,1,1,100,10,1
 9049,Refractive Crystal,1,1,100,15,1,1,1,100,10,1
 9052,Golden Coil,1,1,100,15,1,1,1,100,10,1
 9053,Platinum Gear,1,1,100,15,1,1,1,100,10,1
@@ -3756,6 +3905,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10273,Dux Scale Mail +1,1,1,100,15,1,1,1,100,10,1
 10274,Chelona Blazer,1,1,100,15,1,1,1,100,10,1
 10275,Chelona Blazer +1,1,1,100,15,1,1,1,100,10,1
+10297,Sortiarius Earring,1,1,100,15,1,1,1,100,10,1
 10303,Hexed Gauntlets,1,1,100,15,1,1,1,100,10,1
 10304,Hexed Tekko,1,1,100,15,1,1,1,100,10,1
 10305,Hexed Wristbands,1,1,100,15,1,1,1,100,10,1
@@ -3819,6 +3969,12 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10459,Kacura Harness +1,1,1,100,15,1,1,1,100,10,1
 10460,Sweven Coat,1,1,100,15,1,1,1,100,10,1
 10461,Sweven Coat +1,1,1,100,15,1,1,1,100,10,1
+10462,Calma Breastplate,1,1,100,15,1,1,1,100,10,1
+10463,Mustela Harness,1,1,100,15,1,1,1,100,10,1
+10464,Magavan Frock,1,1,100,15,1,1,1,100,10,1
+10465,Fulad-zereh,1,1,100,15,1,1,1,100,10,1
+10466,Gunman Gambison,1,1,100,15,1,1,1,100,10,1
+10467,Pharmakeia Robe,1,1,100,15,1,1,1,100,10,1
 10494,Ugol Haubert,1,1,100,15,1,1,1,100,10,1
 10495,Mavros Haubert,1,1,100,15,1,1,1,100,10,1
 10496,Urja Jerkin,1,1,100,15,1,1,1,100,10,1
@@ -3827,12 +3983,19 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10499,Opima Saio,1,1,100,15,1,1,1,100,10,1
 10503,Brego Gloves,1,1,100,15,1,1,1,100,10,1
 10504,Iuvenalis Mittens,1,1,100,15,1,1,1,100,10,1
+10505,Nomkahpa Mittens,1,1,100,15,1,1,1,100,10,1
 10506,Avant Gauntlets,1,1,100,15,1,1,1,100,10,1
 10507,Avant Gauntlets +1,1,1,100,15,1,1,1,100,10,1
 10508,Kacura Mittens,1,1,100,15,1,1,1,100,10,1
 10509,Kacura Mittens +1,1,1,100,15,1,1,1,100,10,1
 10510,Sweven Mitts,1,1,100,15,1,1,1,100,10,1
 10511,Sweven Mitts +1,1,1,100,15,1,1,1,100,10,1
+10512,Calma Gauntlets,1,1,100,15,1,1,1,100,10,1
+10513,Mustela Gloves,1,1,100,15,1,1,1,100,10,1
+10514,Magavan Mitts,1,1,100,15,1,1,1,100,10,1
+10515,Miodio Gloves,1,1,100,15,1,1,1,100,10,1
+10516,Antias Mitts,1,1,100,15,1,1,1,100,10,1
+10517,Repartie Gloves,1,1,100,15,1,1,1,100,10,1
 10544,Ugol Moufles,1,1,100,15,1,1,1,100,10,1
 10545,Mavros Moufles,1,1,100,15,1,1,1,100,10,1
 10546,Urja Gloves,1,1,100,15,1,1,1,100,10,1
@@ -3862,6 +4025,10 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10607,Kacura Leggings +1,1,1,100,15,1,1,1,100,10,1
 10608,Sweven Boots,1,1,100,15,1,1,1,100,10,1
 10609,Sweven Boots +1,1,1,100,15,1,1,1,100,10,1
+10610,Calma Leggings,1,1,100,15,1,1,1,100,10,1
+10611,Mustela Boots,1,1,100,15,1,1,1,100,10,1
+10612,Magavan Clogs,1,1,100,15,1,1,1,100,10,1
+10614,Wrathwing Nails,1,1,100,15,1,1,1,100,10,1
 10643,Urja Ledelsens,1,1,100,15,1,1,1,100,10,1
 10644,Sthira Ledelsens,1,1,100,15,1,1,1,100,10,1
 10645,Spolia Pigaches,1,1,100,15,1,1,1,100,10,1
@@ -3877,8 +4044,23 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10764,Sheltered Ring,1,1,100,15,1,1,1,100,10,1
 10765,Arvina Ringlet,1,1,100,15,1,1,1,100,10,1
 10766,Lunette Ring,1,1,100,15,1,1,1,100,10,1
+10775,Gaiardas Ring,1,1,100,15,1,1,1,100,10,1
+10776,Gaubious Ring,1,1,100,15,1,1,1,100,10,1
+10777,Caloussu Ring,1,1,100,15,1,1,1,100,10,1
+10778,Nanger Ring,1,1,100,15,1,1,1,100,10,1
+10779,Sophia Ring,1,1,100,15,1,1,1,100,10,1
+10780,Quies Ring,1,1,100,15,1,1,1,100,10,1
+10781,Cynosure Ring,1,1,100,15,1,1,1,100,10,1
+10782,Ambuscade Ring,1,1,100,15,1,1,1,100,10,1
+10783,Veneficium Ring,1,1,100,15,1,1,1,100,10,1
+10784,Dhanurveda Ring,1,1,100,15,1,1,1,100,10,1
+10785,Provocare Ring,1,1,100,15,1,1,1,100,10,1
+10787,Asklepian Ring,1,1,100,15,1,1,1,100,10,1
+10788,Maquette Ring,1,1,100,15,1,1,1,100,10,1
 10790,Ephedra Ring,1,1,100,15,1,1,1,100,10,1
 10792,Saida Ring,1,1,100,15,1,1,1,100,10,1
+10797,Dagaz Ring,1,1,100,15,1,1,1,100,10,1
+10798,Eihwaz Ring,1,1,100,15,1,1,1,100,10,1
 10800,Castellan's Shield,1,1,100,15,1,1,1,100,10,1
 10801,Psychist Shield,1,1,100,15,1,1,1,100,10,1
 10802,Majorelle Shield,1,1,100,15,1,1,1,100,10,1
@@ -3899,8 +4081,12 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10828,Windbuffet Belt,1,1,100,15,1,1,1,100,10,1
 10829,Artful Belt,1,1,100,15,1,1,1,100,10,1
 10830,Artful Belt +1,1,1,100,15,1,1,1,100,10,1
+10831,Paewr Belt,1,1,100,15,1,1,1,100,10,1
+10835,Slipor Sash,1,1,100,15,1,1,1,100,10,1
 10836,Phos Belt,1,1,100,15,1,1,1,100,10,1
 10837,Phos Belt +1,1,1,100,15,1,1,1,100,10,1
+10838,Patentia Sash,1,1,100,15,1,1,1,100,10,1
+10839,Othila Sash,1,1,100,15,1,1,1,100,10,1
 10847,Orc Belt,1,1,100,15,1,1,1,100,10,1
 10848,Quadav Belt,1,1,100,15,1,1,1,100,10,1
 10849,Yagudo Belt,1,1,100,15,1,1,1,100,10,1
@@ -3982,12 +4168,17 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 10989,Tempered Cape,1,1,100,15,1,1,1,100,10,1
 10990,Engulfer Cape,1,1,100,15,1,1,1,100,10,1
 10991,Rancorous Mantle,1,1,100,15,1,1,1,100,10,1
+10993,Drachenblut Cape,1,1,100,15,1,1,1,100,10,1
+10994,Chuparrosa Mantle,1,1,100,15,1,1,1,100,10,1
+10995,Zaffre Cape,1,1,100,15,1,1,1,100,10,1
 10996,Testudo Mantle,1,1,100,15,1,1,1,100,10,1
 10997,Testudo Mantle +1,1,1,100,15,1,1,1,100,10,1
 10999,Dauntless Mantle,1,1,100,15,1,1,1,100,10,1
 11000,Swith Cape,1,1,100,15,1,1,1,100,10,1
 11001,Swith Cape +1,1,1,100,15,1,1,1,100,10,1
 11002,Dragon Tank,1,1,100,15,1,1,1,100,10,1
+11003,Prodigious Mantle,1,1,100,15,1,1,1,100,10,1
+11004,Algidus Cape,1,1,100,15,1,1,1,100,10,1
 11014,Flame Pearl,1,1,100,15,1,1,1,100,10,1
 11015,Snow Pearl,1,1,100,15,1,1,1,100,10,1
 11016,Breeze Pearl,1,1,100,15,1,1,1,100,10,1
@@ -4011,7 +4202,17 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 11037,Earthcry Earring,1,1,100,15,1,1,1,100,10,1
 11038,Dragonkin Earring,1,1,100,15,1,1,1,100,10,1
 11039,Brachyura Earring,1,1,100,15,1,1,1,100,10,1
+11042,Rebel Earring,1,1,100,15,1,1,1,100,10,1
 11043,Giant's Earring,1,1,100,15,1,1,1,100,10,1
+11044,Corybant Pearl,1,1,100,15,1,1,1,100,10,1
+11045,Saviesa Pearl,1,1,100,15,1,1,1,100,10,1
+11046,Ouesk Pearl,1,1,100,15,1,1,1,100,10,1
+11047,Belatz Pearl,1,1,100,15,1,1,1,100,10,1
+11048,Cytherea Pearl,1,1,100,15,1,1,1,100,10,1
+11049,Myrddin Pearl,1,1,100,15,1,1,1,100,10,1
+11050,Puissant Pearl,1,1,100,15,1,1,1,100,10,1
+11051,Hearty Earring,1,1,100,15,1,1,1,100,10,1
+11055,Aredan Earring,1,1,100,15,1,1,1,100,10,1
 11056,Ghillie Earring,1,1,100,15,1,1,1,100,10,1
 11057,Ghillie Earring +1,1,1,100,15,1,1,1,100,10,1
 11058,Hajduk Ring,1,1,100,15,1,1,1,100,10,1
@@ -4332,6 +4533,12 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 11977,Kacura Subligar +1,1,1,100,15,1,1,1,100,10,1
 11978,Sweven Slacks,1,1,100,15,1,1,1,100,10,1
 11979,Sweven Slacks +1,1,1,100,15,1,1,1,100,10,1
+11980,Calma Hose,1,1,100,15,1,1,1,100,10,1
+11981,Mustela Brais,1,1,100,15,1,1,1,100,10,1
+11982,Magavan Slops,1,1,100,15,1,1,1,100,10,1
+11983,Triplus Subligar,1,1,100,15,1,1,1,100,10,1
+11984,Induro Cuisses,1,1,100,15,1,1,1,100,10,1
+11985,Tussle Breeches,1,1,100,15,1,1,1,100,10,1
 12117,Ebon Armet,1,1,100,15,1,1,1,100,10,1
 12120,Ebon Mask,1,1,100,15,1,1,1,100,10,1
 12141,Ebon Beret,1,1,100,15,1,1,1,100,10,1
@@ -6353,6 +6560,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 14781,Wind Earring,1,1,100,15,1,1,1,100,10,1
 14782,Astral Earring,1,1,100,15,1,1,1,100,10,1
 14783,Vampire Earring,1,1,100,15,1,1,1,100,10,1
+14784,Sangha Earring,1,1,100,15,1,1,1,100,10,1
 14790,Reraise Earring,1,1,100,15,1,1,1,100,10,1
 14804,Harvest Earring,1,1,100,15,1,1,1,100,10,1
 14805,Heims Earring,1,1,100,15,1,1,1,100,10,1
@@ -8586,6 +8794,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18452,Rindomaru,1,1,100,15,1,1,1,100,10,1
 18462,Sasanuki,1,1,100,15,1,1,1,100,10,1
 18463,Sasanuki +1,1,1,100,15,1,1,1,100,10,1
+18472,Psilomene,1,1,100,15,1,1,1,100,10,1
 18481,Lucent Axe,1,1,100,15,1,1,1,100,10,1
 18482,Amood,1,1,100,15,1,1,1,100,10,1
 18483,Amood +1,1,1,100,15,1,1,1,100,10,1
@@ -9164,6 +9373,10 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 21378,Yetshila,1,1,100,15,1,1,1,100,10,1
 21379,Yetshila +1,1,1,100,15,1,1,1,100,10,1
 21380,Vanir Battery,1,1,100,15,1,1,1,100,10,1
+21382,Dosis Tathlum,1,1,100,15,1,1,1,100,10,1
+21384,Kalboron Stone,1,1,100,15,1,1,1,100,10,1
+21385,Aqreaqa Bomblet,1,1,100,15,1,1,1,100,10,1
+21386,Jukukik Feather,1,1,100,15,1,1,1,100,10,1
 21392,Animator Z,1,1,100,15,1,1,1,100,10,1
 21393,Arasy Sachet,1,1,100,15,1,1,1,100,10,1
 21394,Sancus Sachet,1,1,100,15,1,1,1,100,10,1
@@ -9626,6 +9839,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 27988,Wildheithentzes,1,1,100,15,1,1,1,100,10,1
 27989,Sombra Mittens,1,1,100,15,1,1,1,100,10,1
 27990,Sombra Mittens +1,1,1,100,15,1,1,1,100,10,1
+28007,Nomkahpa Mittens +1,1,1,100,15,1,1,1,100,10,1
 28036,Aetosaur Gloves,1,1,100,15,1,1,1,100,10,1
 28037,Aetosaur Gloves +1,1,1,100,15,1,1,1,100,10,1
 28038,Shabti Gauntlets,1,1,100,15,1,1,1,100,10,1
