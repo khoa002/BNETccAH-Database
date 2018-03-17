@@ -2438,7 +2438,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4901,Water Spirit,1,1,100,15,1,1,1,100,10,1
 4902,Light Spirit,1,1,100,15,1,1,1,100,10,1
 4903,Dark Spirit,1,1,100,15,1,1,1,100,10,1
-4914,Sickle,1,1,100,15,1,1,1,100,10,1
+4914,Frazzle,1,1,100,15,1,1,1,100,10,1
 4928,Katon: Ichi,1,1,100,15,1,1,1,100,10,1
 4929,Katon: Ni,1,1,100,15,1,1,1,100,10,1
 4931,Hyoton: Ichi,1,1,100,15,1,1,1,100,10,1
@@ -2578,7 +2578,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5098,Boost INT,1,1,100,15,1,1,1,100,10,1
 5099,Boost MND,1,1,100,15,1,1,1,100,10,1
 5100,Boost CHR,1,1,100,15,1,1,1,100,10,1
-5104,Hatchet,1,1,100,15,1,1,1,100,10,1
+5104,Flurry,1,1,100,15,1,1,1,100,10,1
 5120,Titanic Sawfish,1,1,100,15,1,1,1,100,10,1
 5121,Moorish Idol,1,1,100,15,1,1,1,100,10,1
 5122,Bibiki Slug,1,1,100,15,1,1,1,100,10,1
@@ -3094,8 +3094,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6059,Animus Augeo,1,1,100,15,1,1,1,100,10,1
 6060,Animus Minuo,1,1,100,15,1,1,1,100,10,1
 6061,Adloquium,1,1,100,15,1,1,1,100,10,1
-6063,Iron Sand,1,1,100,15,1,1,1,100,10,1
-6211,Uchitake,1,1,100,15,1,1,1,100,10,1
+6063,Fruit Parfait,1,1,100,15,1,1,1,100,10,1
+6211,Marinara Slice,1,1,100,15,1,1,1,100,10,1
 9200,Dollop Of Wasabi,1,1,100,15,1,1,1,100,10,1
 10148,Cipher Of Gilgamesh's Alter Ego,1,1,100,15,1,1,1,100,10,1
 10434,Dux Visor,1,1,100,15,1,1,1,100,10,1
@@ -6510,7 +6510,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 16758,Dst,1,1,100,15,1,1,1,100,10,1
 16759,Darksteel Kris,1,1,100,15,1,1,1,100,10,1
 16760,Darksteel Kris +1,1,1,100,15,1,1,1,100,10,1
-16761,Venom Kris +1,1,1,100,15,1,1,1,100,10,1
+16761,Venom Kris +1,1,1,100,15,1,1,1,100,10,1
 16762,Venom Knife +1,1,1,100,15,1,1,1,100,10,1
 16763,Darksteel Kukri +1,1,1,100,15,1,1,1,100,10,1
 16765,Lust Dagger,1,1,100,15,1,1,1,100,10,1
@@ -6981,7 +6981,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 17294,Comet Tail,1,1,100,15,1,1,1,100,10,1
 17295,Rising Sun +1,1,1,100,15,1,1,1,100,10,1
 17296,Pebble,1,1,100,15,1,1,1,100,10,1
-17297,Remi Shell,1,1,100,15,1,1,1,100,10,1
+17297,Throwing Coin,1,1,100,15,1,1,1,100,10,1
 17298,Tathlum,1,1,100,15,1,1,1,100,10,1
 17299,Astragalos,1,1,100,15,1,1,1,100,10,1
 17300,Platinum Bullet,1,1,100,15,1,1,1,100,10,1
@@ -7516,7 +7516,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 17989,Spark Kris +1,1,1,100,15,1,1,1,100,10,1
 17990,Cmb,1,1,100,15,1,1,1,100,10,1
 17991,Cmb,1,1,100,15,1,1,1,100,10,1
-17992,Triton's Dagger,1,1,100,15,1,1,1,100,10,1
+17992,Triton's Dagger,1,1,100,15,1,1,1,100,10,1
 17993,Platoon Dagger,1,1,100,15,1,1,1,100,10,1
 17994,Calveley's Dagger,1,1,100,15,1,1,1,100,10,1
 17995,Jongleur's Dagger,1,1,100,15,1,1,1,100,10,1
@@ -7555,7 +7555,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18047,Havoc Scythe,1,1,100,15,1,1,1,100,10,1
 18048,King Maker,1,1,100,15,1,1,1,100,10,1
 18049,Mighty Zaghnal,1,1,100,15,1,1,1,100,10,1
-18050,Mandibular Sickle,1,1,100,15,1,1,1,100,10,1
+18050,Mandibular 
+,1,1,100,15,1,1,1,100,10,1
 18051,Antlion Sickle,1,1,100,15,1,1,1,100,10,1
 18052,Tredecim Scythe,1,1,100,15,1,1,1,100,10,1
 18054,Ivory Sickle,1,1,100,15,1,1,1,100,10,1
