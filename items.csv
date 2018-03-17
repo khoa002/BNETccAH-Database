@@ -6271,6 +6271,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 16497,Sleep Dagger,1,1,100,15,1,1,1,100,10,1
 16498,Carabineer Dagger,1,1,100,15,1,1,1,100,10,1
 16499,Venom Kris,1,1,100,15,1,1,1,100,10,1
+16500,Aluh Jambiya,1,1,100,15,1,1,1,100,10,1
 16501,Acid Knife,1,1,100,15,1,1,1,100,10,1
 16502,Venom Knife,1,1,100,15,1,1,1,100,10,1
 16503,Stun Knife,1,1,100,15,1,1,1,100,10,1
@@ -7868,6 +7869,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18792,Buzbaz Sainti +1,1,1,100,15,1,1,1,100,10,1
 18793,Blutkrallen,1,1,100,15,1,1,1,100,10,1
 18794,Blutklauen,1,1,100,15,1,1,1,100,10,1
+18827,Oxossi Facon,1,1,100,15,1,1,1,100,10,1
+18828,Oxossi Facon +1,1,1,100,15,1,1,1,100,10,1
 18834,Vihuela,1,1,100,15,1,1,1,100,10,1
 18841,Templar Mace,1,1,100,15,1,1,1,100,10,1
 18848,Brass Jadagna,1,1,100,15,1,1,1,100,10,1
@@ -8061,6 +8064,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 19779,Potestas Bomblet,1,1,100,15,1,1,1,100,10,1
 19780,Mana Ampulla,1,1,100,15,1,1,1,100,10,1
 19788,Gorkhali Kukri,1,1,100,15,1,1,1,100,10,1
+19789,Mahakali's Kukri,1,1,100,15,1,1,1,100,10,1
 19791,Draca Couse,1,1,100,15,1,1,1,100,10,1
 19792,Drachenstich,1,1,100,15,1,1,1,100,10,1
 19793,Patientia Lance,1,1,100,15,1,1,1,100,10,1
@@ -8076,10 +8080,25 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 20542,Gnafron's Adargas,1,1,100,15,1,1,1,100,10,1
 20551,Akua Sainti,1,1,100,15,1,1,1,100,10,1
 20552,Akua Sainti +1,1,1,100,15,1,1,1,100,10,1
+20601,Blurred Knife,1,1,100,15,1,1,1,100,10,1
+20602,Blurred Knife +1,1,1,100,15,1,1,1,100,10,1
+20621,Nanti Knife,1,1,100,15,1,1,1,100,10,1
+20622,Nanti Knife +1,1,1,100,15,1,1,1,100,10,1
+20625,Secespita,1,1,100,15,1,1,1,100,10,1
+20626,Blitto Needle,1,1,100,15,1,1,1,100,10,1
+20627,Surcouf's Jambiya,1,1,100,15,1,1,1,100,10,1
+20628,Mindmeld Kris,1,1,100,15,1,1,1,100,10,1
+20629,Legato Dagger,1,1,100,15,1,1,1,100,10,1
+20639,Oxidant Baselard,1,1,100,15,1,1,1,100,10,1
+20640,Nitric Baselard,1,1,100,15,1,1,1,100,10,1
+20642,Tzustes Knife +1,1,1,100,15,1,1,1,100,10,1
+20644,Tzustes Knife,1,1,100,15,1,1,1,100,10,1
 21504,Arasy Sainti,1,1,100,15,1,1,1,100,10,1
 21505,Arasy Sainti +1,1,1,100,15,1,1,1,100,10,1
 21506,Jolt Counter,1,1,100,15,1,1,1,100,10,1
 21507,Jolt Counter +1,1,1,100,15,1,1,1,100,10,1
+21554,Arasy Knife,1,1,100,15,1,1,1,100,10,1
+21555,Arasy Knife +1,1,1,100,15,1,1,1,100,10,1
 22278,Staunch Tathlum,1,1,100,15,1,1,1,100,10,1
 22279,Staunch Tathlum+1,1,1,100,15,1,1,1,100,10,1
 26406,Kupo Shield,1,1,100,15,1,1,1,100,10,1
