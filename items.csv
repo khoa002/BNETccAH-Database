@@ -1940,6 +1940,16 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4074,Thought Crystal,1,1,100,15,1,1,1,100,10,1
 4075,Hope Crystal,1,1,100,15,1,1,1,100,10,1
 4076,Fulfillment Crystal,1,1,100,15,1,1,1,100,10,1
+4077,Piece Of Moonbow Steel,1,1,100,15,1,1,1,100,10,1
+4078,Bolt Of Moonbow Cloth,1,1,100,15,1,1,1,100,10,1
+4079,Square Of Moonbow Leather,1,1,100,15,1,1,1,100,10,1
+4080,Pot Of Moonbow Urushi,1,1,100,15,1,1,1,100,10,1
+4081,Moonbow Stone,1,1,100,15,1,1,1,100,10,1
+4082,Piece Of Moonlight Coral,1,1,100,15,1,1,1,100,10,1
+4083,Handful Of Beryllium Arrowheads,1,1,100,15,1,1,1,100,10,1
+4084,Bag Of Mixed Fletchings,1,1,100,15,1,1,1,100,10,1
+4085,Handful Of Beryllium Bolt Heads,1,1,100,15,1,1,1,100,10,1
+4095,Bismuth Sheet,1,1,100,15,1,1,1,100,10,1
 4096,Fire Crystal,1,1,100,15,1,1,1,100,10,1
 4097,Ice Crystal,1,1,100,15,1,1,1,100,10,1
 4098,Wind Crystal,1,1,100,15,1,1,1,100,10,1
@@ -2001,6 +2011,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4157,Poison Potion,1,1,100,15,1,1,1,100,10,1
 4158,Venom Potion,1,1,100,15,1,1,1,100,10,1
 4159,Paralyze Potion,1,1,100,15,1,1,1,100,10,1
+4160,Flask Of Petrify Potion,1,1,100,15,1,1,1,100,10,1
 4161,Sleeping Potion,1,1,100,15,1,1,1,100,10,1
 4162,Silencing Potion,1,1,100,15,1,1,1,100,10,1
 4163,Blinding Potion,1,1,100,15,1,1,1,100,10,1
@@ -2154,6 +2165,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4364,Black Bread,1,1,100,15,1,1,1,100,10,1
 4365,Rolanberry,1,1,100,15,1,1,1,100,10,1
 4366,La Theine Cbg,1,1,100,15,1,1,1,100,10,1
+4367,Clump Of Batagreens,1,1,100,15,1,1,1,100,10,1
 4370,Honey,1,1,100,15,1,1,1,100,10,1
 4371,Grilled Hare,1,1,100,15,1,1,1,100,10,1
 4372,G,1,1,100,15,1,1,1,100,10,1
@@ -2569,6 +2581,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4828,Poison,1,1,100,15,1,1,1,100,10,1
 4829,Poison II,1,1,100,15,1,1,1,100,10,1
 4833,Poisonga,1,1,100,15,1,1,1,100,10,1
+4834,Scroll Of Poisonga II,1,1,100,15,1,1,1,100,10,1
 4838,Bio,1,1,100,15,1,1,1,100,10,1
 4839,Bio II,1,1,100,15,1,1,1,100,10,1
 4843,Burn,1,1,100,15,1,1,1,100,10,1
@@ -2626,6 +2639,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 4901,Water Spirit,1,1,100,15,1,1,1,100,10,1
 4902,Light Spirit,1,1,100,15,1,1,1,100,10,1
 4903,Dark Spirit,1,1,100,15,1,1,1,100,10,1
+4912,Scroll Of Distract,1,1,100,15,1,1,1,100,10,1
+4913,Scroll Of Distract II,1,1,100,15,1,1,1,100,10,1
 4914,Frazzle,1,1,100,15,1,1,1,100,10,1
 4928,Katon: Ichi,1,1,100,15,1,1,1,100,10,1
 4929,Katon: Ni,1,1,100,15,1,1,1,100,10,1
@@ -2908,6 +2923,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5319,Toolbag (Shino),1,1,100,15,1,1,1,100,10,1
 5327,Potion Drop,1,1,100,15,1,1,1,100,10,1
 5328,Hi Potion Drop,1,1,100,15,1,1,1,100,10,1
+5331,Qiqirn Mine,1,1,100,15,1,1,1,100,10,1
 5332,Kabura Quiver,1,1,100,15,1,1,1,100,10,1
 5333,Sleep Quiver,1,1,100,15,1,1,1,100,10,1
 5334,Bln,1,1,100,15,1,1,1,100,10,1
@@ -3008,6 +3024,11 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5503,Miser's Die,1,1,100,15,1,1,1,100,10,1
 5504,Companion's Die,1,1,100,15,1,1,1,100,10,1
 5505,Avenger's Die,1,1,100,15,1,1,1,100,10,1
+5531,Slice Of Lucerewe Meat,1,1,100,15,1,1,1,100,10,1
+5532,Ichinintousen Koma,1,1,100,15,1,1,1,100,10,1
+5534,Apkallufa,1,1,100,15,1,1,1,100,10,1
+5535,Deademoiselle,1,1,100,15,1,1,1,100,10,1
+5536,Yorchete,1,1,100,15,1,1,1,100,10,1
 5537,Soryu,1,1,100,15,1,1,1,100,10,1
 5538,Sekiryu,1,1,100,15,1,1,1,100,10,1
 5539,Hakuryu,1,1,100,15,1,1,1,100,10,1
@@ -3083,6 +3104,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5610,Hellsteak +1,1,1,100,15,1,1,1,100,10,1
 5611,Angler Stewpot,1,1,100,15,1,1,1,100,10,1
 5612,Prm,1,1,100,15,1,1,1,100,10,1
+5613,Prize Angler Stewpot,1,1,100,15,1,1,1,100,10,1
 5614,Konigskuchen,1,1,100,15,1,1,1,100,10,1
 5615,Uberkuchen,1,1,100,15,1,1,1,100,10,1
 5616,Lebkuchen House,1,1,100,15,1,1,1,100,10,1
@@ -3171,6 +3193,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5719,Marinara,1,1,100,15,1,1,1,100,10,1
 5721,Crab Sushi,1,1,100,15,1,1,1,100,10,1
 5722,Crab Sushi +1,1,1,100,15,1,1,1,100,10,1
+5724,Pinch Of Pungent Powder,1,1,100,15,1,1,1,100,10,1
 5725,Goshikitenge,1,1,100,15,1,1,1,100,10,1
 5726,Zucchini,1,1,100,15,1,1,1,100,10,1
 5727,Zaru Soba,1,1,100,15,1,1,1,100,10,1
@@ -3227,6 +3250,8 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5814,Crocodilos,1,1,100,15,1,1,1,100,10,1
 5815,Pelazoea,1,1,100,15,1,1,1,100,10,1
 5816,King Perch,1,1,100,15,1,1,1,100,10,1
+5817,Tiger Shark,1,1,100,15,1,1,1,100,10,1
+5818,Aurora Bass,1,1,100,15,1,1,1,100,10,1
 5819,Antlion Quiver,1,1,100,15,1,1,1,100,10,1
 5820,Dkl,1,1,100,15,1,1,1,100,10,1
 5821,Fsn,1,1,100,15,1,1,1,100,10,1
@@ -3250,6 +3275,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5881,Shisai Kaboku,1,1,100,15,1,1,1,100,10,1
 5882,Marine Bliss,1,1,100,15,1,1,1,100,10,1
 5883,Falling Star,1,1,100,15,1,1,1,100,10,1
+5884,Rengedama,1,1,100,15,1,1,1,100,10,1
 5885,Saltena,1,1,100,15,1,1,1,100,10,1
 5886,Elshena,1,1,100,15,1,1,1,100,10,1
 5887,Montagna,1,1,100,15,1,1,1,100,10,1
@@ -3258,11 +3284,76 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 5890,Poultry Pitaru,1,1,100,15,1,1,1,100,10,1
 5891,Seafood Pitaru,1,1,100,15,1,1,1,100,10,1
 5892,B,1,1,100,15,1,1,1,100,10,1
+5893,Marine Stewpot,1,1,100,15,1,1,1,100,10,1
+5894,Prime Marine Stewpot,1,1,100,15,1,1,1,100,10,1
 5907,Winterflower,1,1,100,15,1,1,1,100,10,1
 5908,Butterpear,1,1,100,15,1,1,1,100,10,1
+5909,Pickled Rarab Tail,1,1,100,15,1,1,1,100,10,1
 5912,Gargou,1,1,100,15,1,1,1,100,10,1
+5913,Adaman Bolt Quiver,1,1,100,15,1,1,1,100,10,1
 5914,O,1,1,100,15,1,1,1,100,10,1
 5915,A,1,1,100,15,1,1,1,100,10,1
+5922,Walnut Cookie,1,1,100,15,1,1,1,100,10,1
+5923,Juglan Jumble,1,1,100,15,1,1,1,100,10,1
+5924,Smoldering Salisbury Steak,1,1,100,15,1,1,1,100,10,1
+5925,Charred Salisbury Steak,1,1,100,15,1,1,1,100,10,1
+5926,Cup Of Date Tea,1,1,100,15,1,1,1,100,10,1
+5927,Cup Of Caravan Tea,1,1,100,15,1,1,1,100,10,1
+5928,Himesama Rice Ball,1,1,100,15,1,1,1,100,10,1
+5929,Ojo Rice Ball,1,1,100,15,1,1,1,100,10,1
+5930,Bowl Of Sprightly Soup,1,1,100,15,1,1,1,100,10,1
+5931,Bowl Of Shimmy Soup,1,1,100,15,1,1,1,100,10,1
+5932,Bottle Of Kitron Juice,1,1,100,15,1,1,1,100,10,1
+5933,Flask Of Dragon Fruit Au Lait,1,1,100,15,1,1,1,100,10,1
+5934,Chocobiscuit,1,1,100,15,1,1,1,100,10,1
+5935,Bowl Of Moogurt,1,1,100,15,1,1,1,100,10,1
+5940,Trail Cookie,1,1,100,15,1,1,1,100,10,1
+5941,Bar Of Campfire Chocolate,1,1,100,15,1,1,1,100,10,1
+5942,Piece Of Cascade Candy,1,1,100,15,1,1,1,100,10,1
+5943,Strip Of Smoked Mackerel,1,1,100,15,1,1,1,100,10,1
+5944,Bottle Of Frontier Soda,1,1,100,15,1,1,1,100,10,1
+5945,Pinch Of Prize Powder,1,1,100,15,1,1,1,100,10,1
+5948,Black Prawn,1,1,100,15,1,1,1,100,10,1
+5949,Mussel,1,1,100,15,1,1,1,100,10,1
+5950,Mackerel,1,1,100,15,1,1,1,100,10,1
+5951,Bloodblotch,1,1,100,15,1,1,1,100,10,1
+5952,Ruddy Seema,1,1,100,15,1,1,1,100,10,1
+5953,Dragonfly Trout,1,1,100,15,1,1,1,100,10,1
+5954,Barnacle,1,1,100,15,1,1,1,100,10,1
+5955,Yawning Catfish,1,1,100,15,1,1,1,100,10,1
+5957,Shockfish,1,1,100,15,1,1,1,100,10,1
+5959,Dragonfish,1,1,100,15,1,1,1,100,10,1
+5960,Ulbukan Lobster,1,1,100,15,1,1,1,100,10,1
+5961,Contortopus,1,1,100,15,1,1,1,100,10,1
+5962,Contortacle,1,1,100,15,1,1,1,100,10,1
+5963,Senroh Sardine,1,1,100,15,1,1,1,100,10,1
+5964,Felicifruit,1,1,100,15,1,1,1,100,10,1
+5965,Head Of Isleracea,1,1,100,15,1,1,1,100,10,1
+5966,Ulbuconut,1,1,100,15,1,1,1,100,10,1
+5967,Verboshroom,1,1,100,15,1,1,1,100,10,1
+5968,Plate Of Seafood Paella,1,1,100,15,1,1,1,100,10,1
+5970,Plate Of Mushroom Paella,1,1,100,15,1,1,1,100,10,1
+5971,Plate Of Mushroom Paella +1,1,1,100,15,1,1,1,100,10,1
+5972,Plate Of Beef Paella,1,1,100,15,1,1,1,100,10,1
+5973,Plate Of Beef Paella +1,1,1,100,15,1,1,1,100,10,1
+5974,Plate Of Barnacle Paella,1,1,100,15,1,1,1,100,10,1
+5976,Bowl Of Ulbuconut Milk,1,1,100,15,1,1,1,100,10,1
+5977,Bowl Of Ulbuconut Milk +1,1,1,100,15,1,1,1,100,10,1
+5978,Plate Of Felicifruit Gelatin,1,1,100,15,1,1,1,100,10,1
+5979,Plate Of Dulcet Panettones,1,1,100,15,1,1,1,100,10,1
+5980,Plate Of Boiled Barnacles,1,1,100,15,1,1,1,100,10,1
+5981,Plate Of Boiled Barnacles +1,1,1,100,15,1,1,1,100,10,1
+5982,Senroh Skewer,1,1,100,15,1,1,1,100,10,1
+5984,Branch Of Gnatbane,1,1,100,15,1,1,1,100,10,1
+5985,Sprig Of Hemlock,1,1,100,15,1,1,1,100,10,1
+5993,Senroh Frog,1,1,100,15,1,1,1,100,10,1
+5995,Malicious Perch,1,1,100,15,1,1,1,100,10,1
+5997,Shen,1,1,100,15,1,1,1,100,10,1
+5998,Bowl Of Adoulinian Soup,1,1,100,15,1,1,1,100,10,1
+5999,Bowl Of Adoulinian Soup +1,1,1,100,15,1,1,1,100,10,1
+6001,Clotflagration,1,1,100,15,1,1,1,100,10,1
+6009,Bowl Of Mog Pudding,1,1,100,15,1,1,1,100,10,1
+6010,Sakura Biscuit,1,1,100,15,1,1,1,100,10,1
 6041,Pyrohelix,1,1,100,15,1,1,1,100,10,1
 6042,Hydrohelix,1,1,100,15,1,1,1,100,10,1
 6043,Ionohelix,1,1,100,15,1,1,1,100,10,1
@@ -3283,7 +3374,14 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 6060,Animus Minuo,1,1,100,15,1,1,1,100,10,1
 6061,Adloquium,1,1,100,15,1,1,1,100,10,1
 6063,Fruit Parfait,1,1,100,15,1,1,1,100,10,1
+6068,Slice Of Gabbrath Meat,1,1,100,15,1,1,1,100,10,1
+6069,Bowl Of Riverfin Soup,1,1,100,15,1,1,1,100,10,1
+6070,Bowl Of Oceanfin Soup,1,1,100,15,1,1,1,100,10,1
+6071,Magma Steak,1,1,100,15,1,1,1,100,10,1
+6072,Magma Steak +1,1,1,100,15,1,1,1,100,10,1
 6211,Marinara Slice,1,1,100,15,1,1,1,100,10,1
+6530,Rolanberry Pickled Rarab Tail,1,1,100,15,1,1,1,100,10,1
+6535,Pinch Of Pungent Powder II,1,1,100,15,1,1,1,100,10,1
 8995,Cracked Matamata Shell,1,1,100,15,1,1,1,100,10,1
 9200,Dollop Of Wasabi,1,1,100,15,1,1,1,100,10,1
 10148,Cipher Of Gilgamesh's Alter Ego,1,1,100,15,1,1,1,100,10,1
@@ -8078,6 +8176,7 @@ itemid,name,sell01,buy01,price01,stock01,rate01,sell12,buy12,price12,stock12,rat
 18756,Cobra Baghnakhs,1,1,100,15,1,1,1,100,10,1
 18757,Gnole Sainti,1,1,100,15,1,1,1,100,10,1
 18758,Gnole Sainti +1,1,1,100,15,1,1,1,100,10,1
+18759,Shenlong's Baghnakhs,1,1,100,15,1,1,1,100,10,1
 18760,Useshi,1,1,100,15,1,1,1,100,10,1
 18761,Acantha Shavers,1,1,100,15,1,1,1,100,10,1
 18764,Oberon's Knuckles,1,1,100,15,1,1,1,100,10,1
